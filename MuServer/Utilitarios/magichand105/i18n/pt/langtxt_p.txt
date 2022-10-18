@@ -1,0 +1,27 @@
+﻿<table class="tablecol">
+	<tr>
+		<td class="titcol2" colspan="2">Altera&ccedil;&atilde;o do edioma para o editor</td>
+	</tr>
+	<tr>
+		<td class="valcol">Espanhol:</td>
+		<td class="datoscol">Criado por MagicHand <button onclick="javascript:clang()">Show</button></td>
+	</tr>
+	<tr>
+		<td class="valcol">Ingl&ecirc;s:</td>
+		<td class="datoscol">Criado por 007Jodex, em processo</td>
+	</tr>
+		<tr>
+		<td class="valcol">Portugu&ecirc;s BR:</td>
+		<td class="datoscol">Criado por tuniN</td>
+	</tr>
+	<tr>
+		<td class="valcol">Portuges:</td>
+		<td class="datoscol">Quem se animar meu msn/e-mail <span class="resaltea">mu.editor.magichand@gmail.com</span></td>
+	</tr>
+	<tr>
+		<td class="valcol">Outros:</td>
+		<td class="datoscol">Quem se animar meu msn/e-mail <span class="resaltea">mu.editor.magichand@gmail.com</span></td>
+	</tr>
+</table>
+
+

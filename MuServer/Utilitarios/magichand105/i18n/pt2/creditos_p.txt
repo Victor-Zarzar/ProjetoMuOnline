@@ -1,0 +1,42 @@
+﻿<table class="tablecol">
+	<tr>
+		<td class="titcol2" colspan="2">Créditos:</td>
+	</tr>
+	<tr>
+		<td class="datoscol" colspan="2">&nbsp;</td>
+	</tr>	<tr>
+		<td class="titcol" colspan="2">MagicHand:</td>
+	</tr>
+	<tr>
+		<td class="valcol"></td>
+		<td class="datoscol">Para o início do projecto</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">007jodex:</td>
+	</tr>
+	<tr>
+		<td class="valcol"></td>
+		<td class="datoscol">Testando<br />Tradução em Inglês<br />Logo<br />Dicas para implementar e melhorar o editor</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">8bitcore:</td>
+	</tr>
+	<tr>
+		<td class="valcol"></td>
+		<td class="datoscol">Test<br />Tradução em Russo</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Ema Leto:</td>
+	</tr>
+	<tr>
+		<td class="valcol"></td>
+		<td class="datoscol">Testando<br />Fornecer informações sobre arquivos</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">=KrisTiaN=:</td>
+	</tr>
+	<tr>
+		<td class="valcol"></td>
+		<td class="datoscol">Testando<br />Dicas para implementar e melhorar o editor</td>
+	</tr>
+</table>

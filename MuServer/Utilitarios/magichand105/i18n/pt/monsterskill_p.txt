@@ -1,0 +1,5 @@
+<table class="tablecol">
+	<tr>
+  		<td class="titcol" colspan="2">Edi&ccedil;&atilde;o do arquivo MonsterSkill</td>
+	</tr>
+</table>

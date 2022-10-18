@@ -1,0 +1,41 @@
+// ----------------------------------------------------\\
+//        Hospedagem feita por Rodrigo                 \\
+// 						       \\
+// File  Name : MuServer1.08s6Epi3+itens Viciados      \\
+// ViciadosMU: wWw.ViciadosMu.com.br                   \\
+// Creditos: shop@viciadosmu.com.br | skype viciadosmu \\
+// Disponibilizamos para ajudar a todos                \\
+// Compre produtos ou jogue em nossos servidores       \\
+// Shop ViciadosMu: wWw.Shop.ViciadosMu.com.br         \\
+// --------------------------------------------------- \\
+//======================================================================================
+//Data - for ask for vipshop to Bot VipShop player must trade him
+//BotBuffer Must be in Safe Zone
+//======================================================================================
+//OnlyVip  = This bot is only for VIP users
+//Class    = 0,1,2	DW,SM,GM
+//	   = 16,17,18	DK,BK,BM
+//	   = 32,33,34	Elf,ME,HE
+//	   = 48,49,50	MG,DM
+//	   = 64,65,66	DL,LE
+//	   = 80,81,82	SU,BS,DS
+//======================================================================================
+//BotIndex	Class	OnlyVip	Name		Map	X	Y	Dir
+1
+
+end
+//BotPet Items
+//Slot:
+//0 = Weapon
+//1 = Shield
+//2 = Helm
+//3 = Armor
+//4 = Pants
+//5 = Gloves
+//6 = Boots
+//7 = Wings
+//8 = Pet
+//BotIndex	Slot	Type	Index	Level	Opt
+2
+
+end

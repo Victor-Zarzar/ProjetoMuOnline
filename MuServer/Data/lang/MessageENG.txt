@@ -1,0 +1,791 @@
+0	0		100 - 200 System message
+0	1		201 - 400 Error message
+0	2		401 - 500 Game server message (Guide messge)
+0	3		1000+ Game Message
+0	110		[Error] Memory Allocation Error
+0	111		[Error] Error 2 [%s] [%d]
+0	112		[Error] File '%s' not found.
+0	113		[Error] Error Creating Thread [%s] [%d]
+0	114		[Error] Error Reading JoinServer IP/Port
+0	210		[Cheats] Speedhack Checking = Off
+1	142		[Error] Game Server failed to startup successfully.
+1	143		[Error] Could not connect to Data Server.
+1	144		[Error] Could not connect to JoinServer.
+1	145		[Info] JoinServer connected from [%s]
+1	146		[Info] Data Server connected from [%s:%d]
+1	147		[Error] Could not connect to Data Server on [%s:%d]
+1	148		[Info] Game Server listening on port [%d]
+1	149		[Error] Because JoinServer has disconnected, the Game Server will now close.
+1	150		[Error] Because Data Server has disconnected, the Game Server will now close.
+1	151		[Option] Trade Enabled
+1	152		[Option] Trade Disabled (Anti-Dupe Mode)
+1	153		[Option] Murderer Status Duration: %dhrs
+1	154		[Option] Global Monster Life reduced by %d%%
+1	155		[Option] Murderers Can Steal Items
+1	156		[Option] Murderers Cannot Steal Items
+1	157		[Option] Global Item Drop Rate: %d%%
+1	158		[Option] ConnectServer Configured Address [%s:%d]
+1	159		[%s] %s %c.%c%c.%c%c [%s]
+1	160		[%s] %s %c.%c%c.%c%c [%s]
+1	161		[Warning] This is a testing server only.  Characters and items may be deleted at any time.
+1	162		[Info] LAN Server Only.
+1	163		[Error] Script file not found.
+1	164		[Option] IP List Loaded [%d Total]
+1	165		[Error] Account [%s] incorrectly requested Character List information for account [%s]
+1	166		[Error] Character List incorrectly requested for account [%s] from IP [%d] before authentication
+1	167		[Error] ID [%s] does not exist. [%d]
+1	168		[Error] Character Create request invalid for this user. [%s]
+1	169		[Error] Character Delete request invalid for this user. [%s]
+1	170		[Error] Character Information request invalid for this user. [%s]
+1	171		[Error] Failed to save character data [%s:%s]
+1	172		[Error] Failed to save character data [%s]
+1	173		[Error] Index number error [%s] [%d]
+1	174		[Error] Failed to save character [%s]
+1	175		[Error] Vault Information request is invalid. [%s] [%d]
+1	176		[Error] Vault item not found [%s]
+1	177		[Guild] Guild War State: [%d/%d/%s]
+1	178		[Guild] Guild Member Deleted [%s]
+1	179		[Guild] Guild [%s] Disbanded by GM [%s]
+1	180		[Guild] Guild member delete request error 53 [%s]
+1	181		[Error] %s not connected
+1	182		[Guild] Member Deleted [%d] [%s]
+1	183		[Guild] Member could not be deleted [%s] [%d]
+1	184		[Guild] [%s:%s] Created Guild [%s]
+1	185		[Data Error] Failed to load Guild Information
+1	186		[Guild] Guild Score Sent [%s] [%d]
+1	187		[Guild] Guild Score Updated [%s] [%d]
+1	188		[Guild] Guild Notice [%s] [%s]
+1	189		[Error] Failed to save character [%d] [%d]
+1	190		[Info] Character Information Saved [%d] [%d]
+1	191		[Info] Forced Disconnection: [%s]
+1	192		[Data] Item Information Loaded
+1	193		[Info] GameServer Closed
+1	194		[Server Shutdown] Server closing in [%d] seconds
+1	195		[Data Error] Error [%d] in Gate File - Value over limit [%s] [%d]
+1	196		[Data Error] Error (-1) in Gate File [%s] [%d]
+1	197		[Data Error] Read Error while accessing file [%s]
+1	198		[Data] Drop Information Loaded [%s]
+1	199		[Data Error] Error loading Skill Information [%s]
+1	200		[Data] Skill Information Loaded [%s]
+1	201		[Data Error] Limit Exceeded [%s] [%d]
+1	202		[Error] Damage value doesn't exist [%s] [%d]
+1	203		[Error] No space to add [%s] [%d]
+1	204		[Error] Can't find the requested location [%s] [%d]
+1	205		[Error] Can't throw away item [%s] [%d]
+1	206		[Error] Item number error [%s] [%d]
+1	207		[Error] Map Number Error [%s] [%d] [%d] [%s]
+1	208		[Error] Item doesn't exist [%s] [%d]
+1	209		[Data] Shop Information Loaded
+1	210		[Error] Login Error from JoinServer
+1	211		[Info] Login [%s:%s] [PlayerID:%d] [DatabaseID:%d]
+1	212		[Error] User Number and DB Number are both 0 [%s] [%d] [%d]
+1	213		[Info] Client File Error forces disconnect [%s]
+1	214		[Error] Bad Synchronization - Aborting Connection [%s:%s] [%d]
+1	215		[Info] Announcement [%s] [%s] [%s]
+1	216		[Info] Guild Announcement [%s] [%s]
+1	217		[Error] Subscription time ended [%d] [%s]
+1	218		[Error] Authentication did not follow connection [%d] [%s]
+1	219		[Error] Non-Authenticated Connection attempted priveleged action [%d] [%s] [%s]
+1	220		[Error] Account tried to Create Character before authentication complete [%d] [%s]
+1	221		[Pickup] [%s:%s] [%d,%d,%d] Ser%d [%s (%d) +%d,S%d,L%d,Opt%d,Exc%d%d%d%d%d%d%d,Set%d]
+1	222		[Drop] (Box) [%s:%s] [%d,%d,%d] Ser%d [%s (%d) +%d,S%d,L%d,Opt%d]
+1	223		[Drop] (Throw) [%s:%s] [%d,%d,%d] Ser%d [%s (%d) +%d,S%d,L%d,Opt%d,Exc%d%d%d%d%d%d%d,Set%d]
+1	224		[Drop] (OnDeath) [%s:%s] [%d,%d,%d] Ser%d [%s (%d) +%d,S%d,L%d,Opt%d,Exc%d%d%d%d%d%d%d,Set%d]
+1	225		[Error] Player attempted to drop item they do not have
+1	226		[Shop] Player [%s:%s] bought item from Shop %d for [%d Zen] [%s]
+1	227		[Error] Item location out of bounds [%d]
+1	228		[Error] Item Index Invalid [%s] [%d] [%s] [Pos:%d]
+1	229		[Shop] Player [%s:%s] sold item to Shop %d for [%d Zen] [%s +%d,S%d,L%d,Opt%d,Ser%d,Dur%d,Exc%d%d%d%d%d%d%d,Set%d]
+1	230		[Trade] Trade Request from [%s:%s:%s] to [%s:%s:%s]
+1	231		[Trade] Trade Failed (Player Disconnect) [%s:%s]
+1	232		[Trade] Trade Failed (Invalid Target) [%s:%s] [%d]
+1	233		[Trade] Trade Failed (Player Logout) [%s:%s] [%s:%s]
+1	234		[Guild] War Declaration Failed [%d] [%d] [%s]
+1	235		[Guild] War Declaration Failed [%s] [%s] [Error 0x05]
+1	236		[Guild] War Declared by [%s:%s] - [%s] vs. [%s]
+1	237		[Guild] War Declared by [%s] Guild
+1	238		[Guild] War Declared against [%s] Guild
+1	239		[Cheats] Unauthorized Skill/Spell Usage by [%s:%s]
+1	240		[Cheats] Magic Casting Delay Error [%s:%s]
+1	241		[Error] Player Location out of range [%s] [%d]
+1	242		[Cheats] Duplicate Login Detected.  Forcing Disconnection of Player [%s:%s]
+1	243		[Error] Character Location Error (Relocated)
+1	244		[Cheats] Stats Do Not Match Level [%s:%s] [%d] [%d]
+1	245		[Info] GameMaster Login Detected: [%s:%s]
+1	246		[Info] Character Selected [%d] [%s:%s]
+1	247		[Save] [%s:%s] Skill Placement Saved [%d] [%d]
+1	248		[Save] [%s:%s] Slot %d [%s +%d,S%d,L%d,Opt%d,Ser%d,Dur%d,Exc%d%d%d%d%d%d%d,Set%d]
+1	249		[Save] [%s:%s] Inventory Save Complete [%d Zen]
+1	250		[Save] [%s:%s] Vault %d [%s +%d,S%d,L%d,Opt%d,Ser%d,Dur%d,Exc%d%d%d%d%d%d%d,Set%d]
+1	251		[Save] [%s:%s] Vault Save Complete [%d Zen]
+1	252		[Data Error] Monster spawn set to invalid map or coordinate [%s] [%d]
+1	253		[Data Error] Monster Spawn MonsterID does not exist in Monster.txt [%d] [%s] [%d]
+1	254		[Data Error] Monster level cannot be less than 1
+1	255		[Error] Maximum spawn placement reached [%s] [%d]
+2	0		[Info] All connections closed
+2	1		[Trade] Receiving player cancelled trade [%s:%s]
+2	2		[Trade] Initiating player cancelled trade [%s:%s]
+2	3		[Error] Invalid Character Class/Type [%s:%s]
+2	4		[Info] Character Closed [%d] [%s:%s]
+2	5		[Error] Invalid Character Location (Relocated) [%s] [%d] [%d] [%d]
+2	6		[Error] User Not Connected [%d] [%s] [DBNumber:%d] [%s] [%d]
+2	7		[Error] Authentication Request not received [%s]
+2	8		[Info] Level Up [%s:%s] [Lvl %d]
+2	9		[Error] Level-Up Point Value Error [%s] [%s] [%s] [%d]
+2	10		[Info] Item broken (0 durability) [%s:%s] [%s +%d]
+2	11		[Error] Too many self-defense instances
+2	12		[Error] Level 0 Character [%s]
+2	13		[Error] Experience Overflow [%s:%s] [%d] [%d] [%s]
+2	14		[Error] Party Experience Overflow [%s:%s] [%d] [%d] [%s]
+2	15		[Error] Item doesn't exist [%s] [%d]
+2	16		[Error] Wrong Character Class
+2	17		[Cheats] Duplicate Inventory Item: ID [%s] on Character [%s] Item [%s] ItemSlot [%d] Serial [%d]
+2	18		[Cheats] Duplicate Vault Item: ID [%s] on Character [%s] Item [%s] VaultSlot [%d] Serial [%d]
+2	19		[Error] Vault not in use [%s:%s]
+2	20		[Error] Item doesn't exist [%s:%s] [%d]
+2	21		[Error] Item Information Mismatch [%x %x %x %x %x] [%x %x %x %x %x]
+2	22		[Info] Transformation Ring Used [%s] [%d]
+2	23		[Trade] Trade reversed due to ServerTradeError [%s:%s]
+2	24		[Trade] Trade reversed due to InTradeError1 [%s:%s]
+2	25		[Trade] Trade reversed due to InTradeError2 [%s:%s]
+2	26		[Trade] Item Traded [%s:%s] [%d,%d,%d] --> [%s:%s] [%d,%d,%d], [%s] Ser%d [+%d,S%d,L%d,Opt%d,Exc%d%d%d%d%d%d%d,Set%d]
+2	27		[Error] Trading Character Mismatch [%s:%s] Target: [%d] [%d]
+2	28		[Trade] Zen Traded [%s:%s] --> [%s:%s], [%d] - [%d]
+2	29		[Trade] Trade Cancelled (Player Distance) [%d] [%d]
+2	30		[Error] Client responded abnormally during gameplay - Disconnecting [%d] [%s] [%s] [%s]
+2	31		[Error] Client responded abnormally during connection - Disconnecting [%d] [%s] [%s] [%s]
+2	32		[Info] Item broken (0 durability) [%s:%s] [%s +%d, %d]
+2	33		[Data Error] Destination Gate Not Found [%d] [%s] [%d]
+2	34		[Data Error] Spell ID or Attribute out of bounds [%s] [%d]
+2	35		[Error] Buffer Overflow [%s] [%d]
+2	36		[Error] Player does not have the skill
+2	37		[Error] Player does not have enough AG
+2	38		[Error] Player does not have right class for this skill
+2	39		[Error] Skill index error [%s] [%d]
+2	40		[Error] Player already has the skill
+2	41		[Error] Player already has the spell [%s] [%d]
+2	42		[Error] Player cannot learn any more skills or spells [%s] [%d]
+2	43		[Error] Player already has the skill [%d] [%d]
+2	44		[JewelUse] [%s:%s] Before Bless [%s] [Ser%d] [+%d]
+2	45		[JewelUse] [%s:%s] After Bless [%d] [%s] [Ser%d] [+%d]
+2	46		[JewelUse] [%s:%s] Before Soul [%s] [Ser%d] [+%d]
+2	47		[JewelUse] [%s:%s] After Soul [%d] [%s] [Ser%d] [+%d]
+2	48		[Guild] No online players in the losing guild [%s] [%d]
+2	49		[Guild] No online players in the winning guild [%s] [%d]
+2	50		[Error] Damage value is already set [%s] [%d]
+2	51		[Data Error] Terrain File (*.att) exceeds maximum size
+2	52		[Data Error] Terrain File (*.att) cannot be found or is corrupted
+2	53		[Data Error] Shop Item Creation Failed [%s] [%d]
+2	54		[Data Error] Shop Item GetSize Failed [%s] [%d]
+2	55		[Error] Server Bind Error.  Server is possibly run twice, or still unloading.  Wait and try again, or end server processes manually.
+2	56		[Info] Player [%s:%s] used warp function, subtracting warp cost [%d - %d]
+2	57		[Option] Guild Creation: %d
+2	58		[Option] Guild Deletion: %d
+2	59		[Option] Guild Creation Level: %d
+2	60		[Option] NPC Speech - Christmas Messages On
+2	61		[Option] NPC Speech - New Year Messages On
+2	62		[Info] Player Died [%s:%s] [Inventory Zen = %d - %d]
+2	63		[Info] Player Died [%s:%s] [Vault Zen = %d - %d]
+2	64		[JewelUse] [%s:%s] Before JOL [%s] [Ser%d,%d]
+2	65		[JewelUse] [%s:%s] After JOL [%d] [%s] [Ser%d,%d]
+2	95		[Info] Chaos Mix [%s:%s] [%d] [%s] [%d] [%d] [%d] [%d] [Ser%d] [%d] [%d] [Exc%d%d%d%d%d%d%d]
+2	188		Party
+2	189		[Info] Party Level Limit Set [%d]
+2	190		Please try again, this time on foot.
+2	191		[Devil Square] Gates are open!
+2	192		[Devil Square] %d minute(s) left before gates opens!
+2	193		[Devil Square] Will start after %d minute(s)
+2	194		[Devil Square] Will close after %d minute(s)
+2	195		[Devil Square] Has started.
+2	196		[Devil Square] Is closed. Try again next time.
+2	197		Failed. Your score is %d. Try again next time.
+2	198		[Info] Chaos Mix in progress
+2	199		You cannot trade in Devil Square.
+13	232		
+13	233		
+4	76		[Info] Abandoned Item Deleted [%s (%d) +%d,S%d] [Ser%d]
+4	77		[Trade] Trade Cancelled because [%s] left the game.
+4	78		### [ Duplicate Item Detected ] ###
+4	79		Your crimes will be forgiven in %d hours and %d minutes.
+4	80		You have registered %d hearts
+4	81		Sorry, better luck next time.
+4	82		%s is the lucky winner of the Love Pangpang event.
+4	83		[Info] You have made a party with [%s]
+4	84		[Info] Player [%s] is already in a party
+4	85		You have %d minute(s) of play credits remaining.
+4	86		You have %d minute(s) remaining for IP usage
+4	87		This account is valid until %2d %2d %4d
+4	88		This IP is valid until %2d %2d %4d
+4	89		[Info] Tell your friends about this server.
+4	90		[Info] You can now kill Player [%s] without penalty!
+4	91		[Info] You can no longer take revenge on Player [%s]!
+4	92		You have %d second(s) left before exiting the game.
+4	93		Need level %d to move there
+4	94		You can't get the item
+4	95		You cannot create more guilds.
+4	96		You are now accepting all requests from other players.
+4	97		You are now rejecting all requests from other players.
+4	98		Sorry, we don't sell to balrogs or killers.
+4	99		Get lost, murderer!
+4	100		Read the sign: "We don't accept cheques or murderers."
+4	101		Murderers cannot warp.
+4	102		Not enough Zen.
+4	103		Transport party
+4	104		[Server Shutdown] Server closing in 5 minutes 
+4	105		[Server Shutdown] Server closing in 3 minutes 
+4	106		[Server Shutdown] Server closing in 1 minute 
+4	107		[Warning] Someone is attempting to log into your account
+4	108		You are unable to leave
+4	109		Defense setting
+4	110		Please close the Trade Window before leaving the Game
+4	111		Please close the Vault Window before leaving the Game
+4	112		You have reached the maximum level possible!
+4	113		[Warning] If you kill again in the next 3 hours you will be branded a Murderer
+4	114		Trade Cancelled
+4	115		[Server Shutdown] Server closing in %d seconds 
+4	116		Aren't you already in a guild?
+4	117		Come back when you aren't such a weakling.
+4	118		All items you're wearing must be at least +7.
+4	119		No ID, no brewski.  That simple, buddy!
+4	120		Why hello there!  Can I interest you in my 'cups'?
+4	121		Holy crap, is that blood on ur armor?  Sorry mate, no sale...
+4	122		Don't kill me!  Aaaaaaaah!
+4	123		Where's my present?  Er.. I mean, Merry Christmas!
+4	124		Happy New Year!  Another year, another invasion..
+4	125		Trade function is currently disabled.
+4	126		Please be patient. Trading will be enabled soon.
+4	127		Please close the Chaos Machine window before leaving the game.
+4	128		This item does not belong to you, %s
+4	129		Because of %s's request, the match will end automatically in 10 seconds
+4	130		The match starts automatically in 10 Seconds
+4	131		Your play time has expired. Disconnection in %d second(s)...
+4	132		[Red Dragon Invasion] Has Started!
+4	133		You cannot warp during a Battle Soccer match.
+4	134		[Golden Dragon Invasion] Has Started!
+4	136		[Blood Castle] %d minute(s) left to enter.
+4	137		[Blood Castle] %d has started.
+4	138		[Blood Castle] Infiltration has failed.
+4	139		Blood Castle %d starts in %d seconds.
+4	140		Blood Castle %d has gained you a total of %d exp.
+4	141		[Blood Castle] Has been successfully completed by %s.
+4	142		Blood Castle has been successfully concluded.
+4	143		You have acquired %d exp, %d zen and %d points additionally.
+4	144		Monsters eliminated. Destroy the Gate.
+4	145		Gate have been demolished.
+4	146		Crystal Statue has been destroyed.
+4	147		You have entered into the Blood Castle %d.
+4	148		Blood Castle is ongoing. You can't cancel the party.
+4	149		Blood Castle is ongoing. You can't join the party.
+4	150		(%s) has obtained the Angel Staff.
+4	151		(%s) has obtained the Angel Sword.
+4	152		(%s) has obtained the Angel Crossbow.
+4	153		You have %d stone(s) currently registered.
+4	154		(%s) has destroyed the castle gates!
+4	155		(%s) has destroyed the Stone Statue!
+4	156		Magic Skeleton have been subdued. Destroy the Crystal Statue.
+4	157		You cannot trade inside Blood Castle.
+4	158		Auto-reload activated
+4	159		You have already challenged someone to a Duel.
+4	160		You are already in a Duel.
+4	161		In order to issue a Duel, cancel the previous request.
+4	162		The name of the character you have challenged was not found.
+4	163		Your challenge to Duel has been refused.
+4	164		You cannot challenge someone to a duel while in a guild war.
+4	165		Your opponent cannot duel while in a guild war.
+4	166		You cannot Duel inside Blood Castle.
+4	167		You cannot Duel while trading.
+4	168		%s is trading an item.
+4	169		%s has already accepted a challenge to Duel.
+4	170		%s has challenged you to a Duel.
+4	171		%s is in a Duel.
+4	172		You have challenged %s to a Duel.
+4	173		You are already issuing a Duel challenge.
+4	174		Duelling is not possible since Player Killing is currently disabled on this server.
+4	175		You are a Murderer.  You cannot Duel until your crimes are forgiven.
+4	176		They are a Murderer.  They cannot Duel.
+4	177		GameGuard Error.
+4	178		Try restarting the game.
+4	179		If you see this error again, please contact an admin.
+4	180		You cannot Duel in Devil Square.
+4	181		[White Wizard] %s has defeated the %s White Wizard Corps
+4	182		[White Wizard] will manifest his evil presence in %d minute(s).
+4	183		[White Wizard] and his minions are starting to assemble!
+4	184		[White Wizard] and his Orcs have invaded us!
+4	185		[White Wizard] has retreated.
+4	186		You already possess the Wizard's Ring.
+4	187		You must be over Level 40 to throw the Ring.
+4	188		You cannot trade while inside Blood Castle.
+4	189		Self-defense is active. You cannot Duel.
+4	190		You currently have %d Stone(s) of Friendship registered.
+4	191		You need to be at least Level 80 to throw the Ring.
+4	192		You emerge triumphant over %s!
+4	193		%s has defeated you!
+4	194		You cannot use the Chaos Machine while your Personal Shop is open.
+4	195		All items in your Personal Shop have been sold!
+4	196		You cannot trade inside Chaos Castle.
+4	197		You cannot open your Personal Shop within Chaos Castle.
+4	198		Party cannot be formed within Chaos Castle.
+4	199		Guild War cannot be waged within Chaos Castle.
+4	200		You cannot enter Chaos Castle from here.
+4	201		Murderers are not permitted to enter Chaos Castle.
+4	202		You cannot enter Chaos Castle while in a Duel.
+4	203		You cannot enter Chaos Castle while in a Guild War.
+4	204		You cannot enter Chaos Castle while riding a beast.
+4	205		You cannot enter Chaos Castle while wearing a transformation ring.
+4	206		You have entered Chaos Castle %d.
+4	207		You cannot Duel within Chaos Castle.
+4	208		[Chaos Castle] %d minute(s) left before starts.
+4	209		Chaos Castle %d has already commenced!
+4	210		The Spirits of the Guardsmen have been exorcised. Quest complete!
+4	211		You have failed to complete the Quest. Summon more courage and try again.
+4	212		Not enough warriors to start the Chaos Castle Quest.
+4	213		Chaos Castle %d: %s has been granted entry for a fee of %d Zen.
+4	214		Skill is being used by a party member.
+4	215		Please close the window or Personal Shop that's currently open.
+4	216		Critical Damage will remain for %d seconds(s).
+4	217		You can speak again... for now.
+4	218		Critical Damage has diminished.
+4	219		Will be summoned in %d seconds.
+4	220		%d players will be summoned.
+4	221		Exp is unobtainable because you are unable to command the Raven.
+4	222		Exp is unobtainable because you cannot command the Dark Horse.
+4	223		You are muted for another %d minute(s).
+4	224		Magic Stones have already been conjured.
+4	225		You cannot use your siege battle skills in this location.
+4	226		You have exceeded the amount of Zen you can possess.
+4	227		Summoning in process. It may be cancelled if you move.
+4	228		You cannot warp.
+4	229		Disconnect only after closing the Training window.
+4	230		Summoning cancelled.
+4	231		You cannot use that skill.
+4	232		
+4	233		
+5	220		You have %d points remaining. You next payment period is on %s.%s.%s at %s:%s.
+5	221		You can play until %s.%s.%s with your current balance.
+5	222		Please remember: Excessive playing MU creates dependence!
+6	64		Event
+6	65		[%s] has won the [%s]. Congratulations!
+6	66		Your account is expired. You will exit the game automatically.
+6	67		You are currently being disconnected. Please check your account credits.
+6	68		You are currently not able to warp.
+6	69		You need %d Zen to use your vault.
+6	70		The vault is locked.
+6	71		Your account is locked by the mobile account lock.
+6	72		Under-aged users will be disconnected in %d minute(s).
+6	73		Under-aged users will be disconnected from the servers at 10pm.
+6	74		%s has won the %s
+6	75		1st warning for using a hack tool
+6	76		2nd warning for using a hack tool
+6	77		Warping to that specific location is unavailable at the moment.
+6	78		Siege Warfare registration period commences.
+6	79		All participating guilds for Siege Warfare: please register your Emblem of Lord.
+6	80		Guild master has to talk to the Castle siege administrator for registration
+6	81		GThe Guild selection period for Siege Warfare commences.
+6	82		The Siege Warfare preparation period begins! All the guild members, please get ready.
+6	83		Siege Warfare is being waged!
+6	84		Siege Warfare has been concluded.
+6	85		It is not the designated time to man the castle.
+6	86		Only the castle Lord can issue commands for the castle.
+6	87		Castle information is unavailable at the moment.
+6	88		The Guardian Statue still stands! You may not enter.
+6	89		Only the Siege Warfare participants may enter.
+6	90		Only the Guild members of the Castle Lord may enter.
+6	91		This is not a map of the Offensive Alliance.
+6	92		Only the Defensive Alliance can be summoned.
+6	93		Only the Guild Master and Assistant Guild Master can summon Soldiers.
+6	94		Soldiers can be summoned only after the Siege begins.
+6	95		The maximum number of Soldiers has been exceeded.
+6	96		Soldier summon succeeded!
+6	97		Soldier summon failed!
+6	98		The effects of the Potion of Bless have worn off.
+6	99		The effects of the Potion of Soul have worn off.
+6	100		The effects of the Stern have worn off.
+6	101		The Brand of Skill's effects have worn off.
+6	102		Invisibility has worn off.
+6	103		Mana Swell has worn off.
+6	104		Summon Guardian
+6	105		Can only be used by the Offensive Alliance.
+6	106		Life Stone has already been summoned.
+6	107		Life Stone was already used %d time(s).
+6	108		You can't summon the Life Stone inside the Dragon Tower.
+6	109		You can't summon the Life Stone after the Siege begins.
+6	110		Life Stone summon succeeded!
+6	111		Life Stone summon failed!
+6	112		The damage information of the weapon can't be found.
+6	165		Join the %s Alliance.
+6	166		You are no longer fighting against %s.
+6	167		The %s Guild is joining the %s Alliance.
+6	168		Withdraw from the Alliance.
+6	169		%s Guild will withdraw from the %s Alliance.
+6	170		Withdraw from the %s Alliance.
+6	171		Fighting against %s has been cancelled
+6	172		The %s Alliance will be disbanded.
+6	184		%s's position will be changed to Assistant Guild Master.
+6	185		%s's position will be changed to Battle Master.
+6	186		%s's position will be changed to Guild Member.
+6	187		The %s Guild type has been changed to %d 
+6	188		Siege Warfare will start in %d minute(s).
+6	189		Test 6
+6	194		Loren Deep event 01
+6	195		Loren Deep event 02
+6	196		Loren Deep event 03
+6	197		%s guild has succeeded in defending the castle.
+6	198		%s guild have become the new Lords of the Castle.
+6	199		The castle lord has not been assigned.
+6	200		Test 7
+6	201		Test 8
+7	108		Dark Wizard
+7	109		Dark Knight
+7	110		Fairy Elf
+7	111		Magic Gladiator
+7	112		Dark Lord
+7	206		/
+7	207		//
+7	208		Lorencia
+7	209		Dungeon
+7	210		Devias
+7	211		Noria
+7	212		Lost Tower
+7	213		Atlans
+7	214		Arena
+7	215		Lost Tower3
+7	216		Tarkan
+7	217		DevilSquare
+7	218		Dungeon3
+7	219		Lost Tower5
+7	220		Lost Tower7
+7	221		Icarus
+7	222		BloodCastle
+7	228		Lorencia
+7	229		Dungeon
+7	230		Devias
+7	231		Noria
+7	232		LostTower
+7	233		Atlans
+7	234		Arena
+7	235		LostTower3
+7	236		Tarkan
+7	237		DevilSquare
+7	238		Dungeon3
+7	239		LostTower5
+7	240		LostTower7
+7	241		Icarus
+7	242		Blood Castle
+11	184		/test
+11	185		/Warp
+11	186		/Transform
+11	187		/Block settin
+11	188		/Cancel block
+11	189		/Chatting ban
+11	190		/Cancel chatting ban
+11	191		/Warp guild
+11	192		/End guild
+11	193		/End battle
+11	194		/Start battle
+11	195		/Stop battle
+11	196		/Create
+11	197		/Time left
+11	198		/Battle
+11	199		/Battle Soccer
+11	200		/Request
+11	201		/Connection status
+11	202		/Track
+11	203		/Monitor
+11	204		/Disconnect
+11	205		/Move
+11	206		/Trans
+11	207		/SetBlock
+11	208		/UnsetBlock
+11	209		/DisableChat
+11	210		/EnableChat
+11	211		/GuildMove
+11	212		/GuildDisconnect
+11	213		/GuildWarEnd
+11	214		/GuildWarStart
+11	215		/GuildWarStop
+11	216		/Make
+11	217		/RemainTime
+11	218		/GuildWar
+11	219		/BattleSoccer
+11	220		/Request
+11	221		/ConnectionState
+11	222		/trace
+11	223		/UserWatching
+12	128		The process of changing the defender guild has failed
+12	129		Changing of defender's side: %s
+12	130		Castle siege registration - Fail
+12	131		Castle siege registration - Success
+12	132		The process of  marking the seal - Success
+12	133		Announcement of castle siege - Success
+12	134		Castle siege - Begin
+12	135		Castle siege Finish - Victory
+12	136		Castle siege Finish - Fail
+12	137		There is currently no guild defending the castle
+12	138		Current defender guild is: %s
+12	139		Status of castle siege - Not Available
+12	140		Status of castle siege - The sealing time has not started yet.
+12	141		Status of castle siege - The sealing time has %d hours %d minutes left.
+12	142		Status of castle siege - The period after sealing (time end) %d hours %d minutes
+12	143		Status of castle siege - The Marking of seal time has %d hours %d minutes left.
+12	144		Status of castle siege - The period of Marking the seal ( time end ) %d hours %d minutes
+12	145		Status of castle siege - %d hours %d minutes till the announcement of castle siege registration
+12	146		Status of castle siege - The preparation for castle siege has %d hours %d minutes left.
+12	147		Status of castle siege - Castle siege has %d hours %d minutes left.
+12	148		Status of castle siege - The castle siege will finish ( time end ) %d hours %d minutes
+12	149		Switching between attacker and defender side- Success
+12	150		Switching between attacker and defender - Fail
+12	151		Switching between attacker and defender - Success
+12	152		Test 010
+12	153		Test 011
+12	154		You are the hero that will help DSGN to destroy Kundun's evil forces!
+12	155		%s has pushed back the attack of %s at Loren pass
+12	156		The attack of %s has been pushed back at Loren pass
+12	157		%s has pushed back the attack of Erohim's army at Loren pass
+12	158		The attack of Erohim's army has been pushed back at Loren pass
+12	228		Balgass joined forces with Kundun's army and now prepares to attack Crywolf Fortress
+12	229		The army of Balgass is ready to attack Crywolf Fortress
+12	230		The army of Balgass is marching towards Crywolf Fortress
+12	231		The army of Balgass is marching towards Crywolf Fortress
+12	232		Without the protection of the Muses, the statue of holy wolf will be stolen
+12	233		Balgass will be alive till the end of the battle
+12	234		Defending has failed! The statue of holy wolf has been taken over by Balgass
+12	235		Defending has been successful! The statue of holy wolf has been proteced.
+12	236		Elf's can make contract in the wolf altar in %d Seconds. 
+12	237		Elf's can make contract in the wolf altar in %d Minutes. 
+12	238		Balgass's army will attack in %d seconds
+12	239		Balgass's army will attack in %d minutes
+12	240		Without the protection of the Muses, the statue of holy wolf will be stolen
+12	241		Balgass is coming! Protect the statue of holy wolf
+12	242		Balgass's army starts attacking the statue of holy wolf
+12	243		Balgass has been defeated with the help of heroes
+12	244		MvP rank: [%d]
+12	245		MvP rank: experience points [%d]
+12	246		Prepare for the attack of Balgass's army on Crywolf Fortress
+12	247		Balgass has been killed by  %s!
+12	248		Balgass is dead
+12	249		The darkelf leader [%d] of Balgass's army has been killed by  %s!
+12	250		Current MvP point is : %d
+12	251		Connected to the pedestal [%d] of the Holy wolf
+12	252		[%s] connected the Muse to the pedestal [%d]
+12	253		The pedestal [%d] of Holy wolf has been connected
+12	254		The connecting time of pedestal [%d] has not started yet
+12	255		The time for connecting to pedestal [%d] of the holy wolf is over
+13	0		The position to connect to pedestal [%d] of the holy wolf is incorrect. Try again
+13	1		%s is trying to contract altar %d!
+13	2		You can start connecting in 5 seconds
+13	3		Do not move until the connecting is completed.
+13	4		Connecting to the pedestal [%d] is canceled.
+13	5		The barrier of the holy wolf statue has dissapeared
+13	6		Stats of Muses in the holy wolf statue's barrier is %d, HP: %d
+13	7		The barrier of the holy wolf statue has been created.
+13	8		Connection requires a Muse level 300 or higher
+13	9		Connection requires a Muse level 350 or higher
+13	10		The Crywolf event will start soon.
+13	11		Crywolf event has started.
+13	12		Crywolf event has finished.
+13	13		Crywolf event is ongoing.
+13	14		The life of Fenrir is %d
+13	15		The regeneration of life has failed
+13	16		Decreasing the base life of Fenrir from %d to %d
+13	17		Increasing the base life of Fenrir from %d to %d
+13	18		Kalima
+13	19		Kalima 1
+13	20		Kalima 2
+13	21		Kalima 3
+13	22		Kalima 4
+13	23		Kalima 5
+13	24		Kalima 6
+13	25		Kalima 7
+13	26		Unable to use
+13	27		Trading fail
+13	28		Unable to move and setup a personal store
+13	29		Will lead to tower of the refinement road after 1 hour again seal.
+13	30		Because the unlucky strength transmits to tower of the refinement, after 20 minutes will force to return the ridge security area.
+13	31		1 minute(s) left before Kanturu Gate Core opens.
+13	32		Battle of Maya will start soon.
+13	33		1 minute(s) left before proceed to next battle.
+13	34		Defeat the Nightmare that controls the Maya to gain entrance to the Refinery.
+13	35		Has defeated the Nightmare Boss. You may now proceed to the Refinery Tower.
+13	36		Because will limit the time crossed, will force to return the ridge security area.
+13	37		The strengthened goods are unable to sell.
+13	38		The strengthened goods are unable the transaction.
+13	39		The strengthened goods are unable to use individual store.
+13	40		Because the goods rank too is low, is unable to continue to strengthen.
+13	41		Already strengthened for the fiercest value, was unable to continue to strengthen.
+13	42		Because the goods rank is lower than strengthens the condition, is unable to use.
+13	43		The strengthened goods are unable to fall.
+13	44		The coverall goods are unable to carry on the strengthening.
+13	45		Regeneration gem strengthening defeat.
+13	46		The regeneration gem strengthens successfully.
+13	47		Strengthened evolution gem defeat.
+13	48		The strengthened evolution gem is successful.
+13	49		The goods which is not smelts when fossil uses.
+13	50		The refinement system is unable to use.
+13	51		The evolution system is unable to use.
+13	52		The strengthened system is unable to use.
+13	53		The smelting system is unable to use.
+13	54		The Items return to original state system is unable to use.
+13	55		380 Items are unable to use the combination attribute system.
+13	56		You already had hang the stone, therefore was unable to pick again.
+13	57		/condition
+13	58		/gong
+13	59		/status
+13	60		/var1
+13	61		/var2
+13	62		Can't put the Moonstone Ring inside the Personal Store.
+14	0		[Happy Hour] Extra Exp: %d & Extra Drop: %d
+14	1		[Happy Hour] Has finished.
+14	2		[Blue Event] Has started.
+14	3		[Blue Event] Has finished.
+14	4		[Boss Attack] Has started.
+14	5		[Boss Attack] Has finished.
+14	6		[Green Event] Has started.
+14	7		[Green Event] Has finished.
+14	8		[Hit & Up] Has started.
+14	9		[Hit & Up] Has finished.
+14	10		[Illusion Temple] will start in %d minute(s)
+14	11		[Illusion Temple] is closed. Try again next time.
+14	12		[Illusion Temple] Has started
+14	13		Someone took the Cursed Castle Water before
+14	14		%s Take the Cursed Castle Water
+14	15		Illusion Temple the room is full!
+14	16		Illusion Temple ticket is missing!
+14	17		[Illusion Temple] Winner Team: Blue
+14	18		[Illusion Temple] Winner Team: Orange
+14	19		[Illusion Temple] Has Finished: Draw
+14	20		Blue Team return the Cursed Castle Water to the statue!
+14	21		It is not the blue storage!
+14	22		Orange Team return the Cursed Castle Water to the statue!
+14	23		It is not the orange storage!
+14	24		You are not a hero!
+14	25		[Moss] has now appeared in Elbeland
+14	26		[Moss] has now disappeard
+14	27		You need to some items before buy items from moss
+14	28		You need %d zen for buy items from moss
+14	29		You need to get married before buying items from moss
+14	30		You need %d resets to buy items from moss
+14	31		You need %d level to buy items from moss
+14	32		[Raklion Hatchery] Gate will close in %d minute(s).
+14	33		[Raklion Hatchery] Gate has closed.
+14	35		[Raklion Hatchery] has started!
+14	36		[Raklion Hatchery] Defeat all minions of Selupan!
+14	37		[Raklion Hatchery] Now kill all of the Spiders before Selupan appears!
+14	38		[Raklion Hatchery] Selupan appears in 20 seconds. Be careful!
+14	39		[Raklion Hatchery] Event has finished. Selupan has been defeated successfully!
+14	40		[Raklion Hatchery] You have 30 seconds left!
+14	41		[Raklion Hatchery] You have 20 seconds left!!
+14	42		[Raklion Hatchery] You have 10 seconds left!!!
+14	43		[Raklion Hatchery] Event has failed! Selupans have retreated.
+14	44		[Raklion Hatchery] Event has failed! Must kill all eggs before Selupan appears!
+14	45		30 seconds left to leave Raklion Hatchery Event.
+14	46		%s killed 1 Egg, %d Left!
+14	47		%s killed 1 Selupan, %d Left!
+14	48		%s killed the last Egg!
+14	49		%s killed the last Selupan!
+14	50		[Sky Event] will close after %d minute(s)
+14	51		[Sky Event] Event entrance is closed!
+14	52		[Sky Event] Event End
+14	53		%d Seconds to warp to Devias...
+14	54		You need %s + %d for enter into Sky Event Level %d!
+14	55		[Sky Event][%d] Room Full!
+14	56		[PCPointShop] Earned %d PCPoints
+14	57		VIP Days: %d / Vip Money: %d
+14	58		You need more space in your inventory!
+14	59		Reseting Character...
+14	60		You need some Items before Reset!
+14	61		You are lacking Zen to use this command.
+14	62		You must be level 400 to use this command.
+14	63		Reset System is currently disabled.
+14	64		You need level %d
+14	65		Now you are not a PK!
+14	66		You are not a PK!
+14	67		You need more zen!
+14	68		[Add Points] Syntax Error
+14	69		[Add Points] Not enough points.
+14	70		[Add Points] You must relogin!
+14	71		[Add Points] Points added [%d] to Strength.
+14	72		[Add Points] Points added [%d] to Agility.
+14	73		[Add Points] Points added [%d] to Vitality.
+14	74		[Add Points] Points added [%d] to Energy.
+14	75		[Add Points] Points added [%d] to Command.
+14	76		[Add Points] Only Dark Lord can use that command.
+14	77		[Add Points] Cant add more than %d!.
+14	78		[Add Points] Cant exceed max points.
+14	79		You need more levels!
+14	80		[Duel] %s vs %s on Room %d
+14	81		Duel is disabled on this server!
+14	82		You can not Duel yourself!
+14	83		Duels are not allowed in Illusion Temple.
+14	84		Required level for duel is 30 and over!
+14	85		Required Zen for duel is 30000!
+14	86		Can't find free Duel room!
+14	87		[Duel] %s defeated %s
+14	88		You are now in the duel room.
+14	89		Can't move to duel room.
+14	90		The duel that you are trying to watch is already filled
+14	91		Do you want accept marry with %s?
+14	92		You cant marry with some one with the same sex!
+14	93		You cant marry in that position!
+14	94		%s is already married
+14	95		Character %s doesnt exist or is disconnected
+14	96		[Marry] You are already married!
+14	97		[Marry] Time for answer is finished!
+14	98		[Marry] You cant marry in that position!
+14	99		[Marry] You are married with %s
+14	100		[Marry] %s & %s - Newly wed
+14	101		You are already married!
+14	102		Character %s doesnt exist or is disconnected
+14	103		%s is inside of one event, you cant warp there!
+14	104		%s is disconnected
+14	105		You Get Divorced, your Zen is decreased by %d
+14	106		You Get Divorced, your Zen is increase by %d
+14	107		You need %d zen to divorce
+14	108		You are not married!
+14	109		%s is online please use /divorce command
+14	110		You need %d zen to force the divorce
+14	111		You are married with %s
+14	112		The Evil Santa and his Evil Snowmans have invaded us!
+14	113		The Evil Santa has retreated.
+14	114		Only one present per day!
+14	115		Invita a tus amigos!
+14	116		[Extra Warehouse] You can not change warehouse number right now!
+14	117		[Extra Warehouse] Number: %d
+14	118		[Extra Warehouse] is disabled!
+14	119		[Extra Warehouse] is only for vip users!
+14	120		[Extra Warehouse] Max exceed!
+14	121		[Extra Warehouse] Max ware is %d, you have %d extra ware and you try to buy %d ware
+14	122		[Extra Warehouse] You buy %d warehouses, now you have %d ware
+14	123		[Extra Warehouse] You need %d vipmoney for buy %d warehouse
+14	124		You must wait in this room before event start.
+14	125		You cant enter, Max players exceed.
+14	126		Event doesnt start yet.
+14	127		This event is only for Masters.
+14	128		You need kill all monsters first.
+14	129		'C' Portal opened!
+14	130		[Swamp of Peace] Has started
+14	131		[Swamp of Peace] Success!
+14	132		[Swamp of Peace] Failed.
+14	133		[Swamp of Peace] will close in 30 seconds.
+14	134		[Swamp of Peace] will close after %d minute(s)
+14	135		[Summer Event] Event Start
+14	136		[Summer Event] Event End
+14	137		[Halloween Pk] Event Start
+14	138		[Halloween Pk] Event End
+14	139		[Hide and Seek] %s Appear in our world
+14	140		[Hide and Seek] %s has retreated.
+14	141		[Hide and Seek] %s Catch %s and Get the Reward
+14	142		[Hide and Seek] %s
+14	143		The reward is already taken
+14	144		[Gens Maps] Opened!!
+14	145		[Gens Maps] Closed!!
+14	146		This map belongs to Duprian's family!
+14	147		This map belongs to Valiant's family!
+14	148		Warping to Lorencia...
+14	149		Congratulations, your family won's the battle for this map!
+14	150		The battle for this map it's over with a draw
+14	151		That map belongs to Duprian's family!
+14	152		That map belongs to Valiant's family!
+14	153		[Vip System] MuPoints Balance: %d
+14	154		XMas event Active! Extra EXP: +%d DROP: +%d
+14	155		[RainItemEvent] Event Start
+14	156		[RainItemEvent] Event End

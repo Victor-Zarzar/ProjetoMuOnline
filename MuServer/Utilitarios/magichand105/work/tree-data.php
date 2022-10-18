@@ -1,0 +1,187 @@
+<?php
+include("../lang.php");
+include("../i18n/".$lang."/locale/text.php");
+?>
+[{
+    text:'MagicHand Mu Editor',
+    expanded: true,
+    children:[{
+        text:'<?php echo $tcarpeta?>',
+        id:'carpetas',
+        leaf:true
+    },{
+        text:'<?php echo $tcomo?>',
+        id:'uso',
+        leaf:true
+    },{
+        text:'<?php echo $ttodo?>',
+        id:'todo',
+        leaf:true
+    },{
+        text:'<?php echo $taportes?>',
+        id:'aportes',
+        leaf:true
+    },{
+        text:'<?php echo $tcreditos?>',
+        id:'creditos',
+        leaf:true
+    }]
+},{
+    text:'<?php echo $tarchivos?>',
+    children:[{
+        text:'BuffEffect',
+        id:'buffeffect',
+        leaf:true
+    },{
+        text:'Credit',
+        id:'credit',
+        leaf:true
+    },{
+        text:'Dialog',
+        id:'dialog',
+        leaf:true
+    },{
+        text:'Filter',
+        id:'filter',
+        leaf:true
+    },{
+        text:'FilterName',
+        id:'filtername',
+        leaf:true
+    },{
+        text:'Gate',
+        id:'gate',
+        leaf:true
+    },{
+        text:'Item',
+        id:'item',
+        leaf:true
+    },{
+        text:'ItemAddOption',
+        id:'itemaddoption',
+        leaf:true
+    },{
+        text:'ItemSetOption',
+        id:'itemsetoption',
+        leaf:true
+    },{
+        text:'ItemSetType',
+        id:'itemsettype',
+        leaf:true
+    },{
+        text:'JewelOfHarmonyOption',
+        id:'joho',
+        leaf:true
+    },{
+        text:'JewelOfHarmonySmelt',
+        id:'johs',
+        leaf:true
+    },{
+        text:'MasterSkillTree',
+        id:'mst',
+        leaf:true
+    },{
+        text:'Minimap',
+        id:'minimap',
+        leaf:true
+    },{
+        text:'Mix',
+        id:'mix',
+        leaf:true
+    },{
+        text:'MonsterSkill',
+        id:'monsterskill',
+        leaf:true
+    },{
+        text:'MoveReq',
+        id:'movereq',
+        leaf:true
+    },{
+        text:'Pet',
+        id:'pet',
+        leaf:true
+    },{
+        text:'NPCDialogue',
+        id:'npcdialogue',
+        leaf:true
+    },{
+        text:'Quest',
+        id:'quest',
+        leaf:true
+    },{
+        text:'QuestProgress',
+        id:'questprogress',
+        leaf:true
+    },{
+        text:'QuestWords',
+        id:'questwords',
+        leaf:true
+    },{
+        text:'ServerList',
+        id:'serverlist',
+        leaf:true
+    },{
+        text:'ShopCategoryItems',
+        id:'shopcategoryitems',
+        leaf:true
+    },{
+        text:'ShopUI',
+        id:'shopui',
+        leaf:true
+    },{
+        text:'Skill',
+        id:'skill',
+        leaf:true
+    },{
+        text:'Slide',
+        id:'slide',
+        leaf:true
+    },{
+        text:'SocketItem',
+        id:'socketitem',
+        leaf:true
+    },{
+        text:'Text',
+        id:'text',
+        leaf:true
+    }]
+},{
+    text:'<?php echo $tagraficos?>',
+    children:[{
+        text:'<?php echo $tdeco_gra?>',
+        id:'deco_gra',
+        leaf:true
+    }]
+},{
+    text:'<?php echo $tawtf?>',
+    children:[{
+        text:'Message',
+        id:'message',
+        leaf:true
+    }]
+},{
+    text:'<?php echo $texportar?>',
+    children:[{
+        text:'Gate',
+        id:'gatetxt',
+        leaf:true
+    },{
+        text:'MoveReq',
+        id:'movereqtxt',
+        leaf:true
+    }]
+},{
+    text:'Main',
+    children:[{
+        text:'Version, IP, Serial',
+        id:'main',
+        leaf:true
+    }]
+},{
+    text:'.att .map',
+    children:[{
+        text:'Decode .att',
+        id:'decatt',
+        leaf:true
+    }]
+}]

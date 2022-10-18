@@ -1,0 +1,47 @@
+// ----------------------------------------------------\\
+//        Hospedagem feita por Rodrigo                 \\
+// 						       \\
+// File  Name : MuServer1.08s6Epi3+itens Viciados      \\
+// ViciadosMU: wWw.ViciadosMu.com.br                   \\
+// Creditos: shop@viciadosmu.com.br | skype viciadosmu \\
+// Disponibilizamos para ajudar a todos                \\
+// Compre produtos ou jogue em nossos servidores       \\
+// Shop ViciadosMu: wWw.Shop.ViciadosMu.com.br         \\
+// --------------------------------------------------- \\
+//Leha 416
+//Guantes
+10 39 2 0 0 1 1 0
+10 40 3 0 0 1 1 0
+
+
+//Pants
+
+9 39 2 0 0 1 1 0
+9 40 3 0 0 1 1 0
+
+//Helm
+7 39 2 0 0 1 1 0
+7 40 3 0 0 1 1 0
+
+//Botas
+11 39 2 0 0 1 1 0
+11 40 3 0 0 1 1 0
+
+
+//Armor
+8 39 2 0 0 1 1 0
+8 40 3 0 0 1 1 0
+
+
+1 0 1 0 0 1 1 0 //Small Axe
+0 1 0 0 0 1 1 0 //Short Sword
+1 1 1 0 0 1 1 0 //Hand Axe
+0 2 2 0 0 1 1 0 //Rapier
+1 4 2 0 0 1 1 0 //Elven Axe
+5 0 1 0 0 1 1 0 //Skull Staff
+5 14 1 0 0 1 1 0 //Mistery Staff
+5 15 2 0 0 1 1 0 //Violent Wind Staff
+5 16 3 0 0 1 1 0 //Red Wing Staff
+0 0 1 0 0 1 1 0 //Kriss
+
+end

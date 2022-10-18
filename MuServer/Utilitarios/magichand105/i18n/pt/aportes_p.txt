@@ -1,0 +1,8 @@
+<table class="tablecol">
+	<tr>
+		<td class="titcol2" colspan="2">D&ecirc; sua sugest&atilde;o</td>
+	</tr>
+	<tr>
+		<td class="datoscol2" colspan="2">Se Voc&ecirc; tiver uma ideia de como melhorar o funcionamento do programa, ou uma nova funcionalidade, me interessa recebela, envie um e-mail para <a href="mailto:mu.editor.magichand@gmail.com">mu.editor.magichand@gmail.com</a></td>
+	</tr>
+</table>

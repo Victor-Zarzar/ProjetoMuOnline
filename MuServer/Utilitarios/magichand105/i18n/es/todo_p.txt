@@ -1,0 +1,8 @@
+<table class="tablecol" width="100%">
+	<tr>
+		<td class="titcol2" colspan="2">Por Hacer:</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="datoscol2">Mas que poner cosas que queden por hacer, me gustaria que me suguieran que mas cosas se podrian incorporar, el mail para contactarse es <a href="mailto:mu.editor.magichand@gmail.com">mu.editor.magichand@gmail.com</a></td>
+	</tr>
+</table>

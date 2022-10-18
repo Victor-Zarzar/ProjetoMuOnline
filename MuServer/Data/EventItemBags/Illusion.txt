@@ -1,0 +1,26 @@
+// ----------------------------------------------------\\
+//        Hospedagem feita por Rodrigo                 \\
+// 						       \\
+// File  Name : MuServer1.08s6Epi3+itens Viciados      \\
+// ViciadosMU: wWw.ViciadosMu.com.br                   \\
+// Creditos: shop@viciadosmu.com.br | skype viciadosmu \\
+// Disponibilizamos para ajudar a todos                \\
+// Compre produtos ou jogue em nossos servidores       \\
+// Shop ViciadosMu: wWw.Shop.ViciadosMu.com.br         \\
+// --------------------------------------------------- \\
+///============================================================================
+//Drop Settings: Illusion Temple monsters
+//www.titanstech.com
+//============================================================================
+//lvl/dur	=	if item is a potion, that option becomes durability
+//============================================================================
+//	type,	index,	lvl/dur	skill,	exc,	option	name
+//============================================================================
+	14	0	5	0	0	0
+	14	1	5	0	0	0
+	14	2	5	0	0	0
+	14	3	5	0	0	0
+	14	4	5	0	0	0
+	14	5	5	0	0	0
+	14	6	5	0	0	0
+	14	8	5	0	0	0

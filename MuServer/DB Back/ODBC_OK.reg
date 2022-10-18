@@ -1,0 +1,89 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\ODBC\ODBC.INI]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\ODBC\ODBC.INI\Event]
+"Driver"="C:\\WINDOWS\\system32\\SQLSRV32.dll"
+"Server"="(local)"
+"Database"="muonline"
+"LastUser"="Administrator"
+"Trusted_Connection"="Yes"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\ODBC\ODBC.INI\LocalServer]
+"Server"="(local)"
+"Trusted_connection"="Yes"
+"Driver"="C:\\WINDOWS\\system32\\SQLSRV32.dll"
+"LastUser"="Administrator"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\ODBC\ODBC.INI\LOGIN]
+"Driver"="C:\\WINDOWS\\system32\\SQLSRV32.dll"
+"Server"="(local)"
+"Database"="muonline"
+"LastUser"="Administrator"
+"Trusted_Connection"="Yes"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\ODBC\ODBC.INI\MU2003_EVENT_DATA]
+"Driver"="C:\\WINDOWS\\system32\\SQLSRV32.dll"
+"Server"="127.0.0.1"
+"Database"="muonline"
+"LastUser"="sa"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\ODBC\ODBC.INI\MuOnline]
+"Driver"="C:\\WINDOWS\\system32\\SQLSRV32.dll"
+"Server"="(local)"
+"Database"="muonline"
+"LastUser"="Administrator"
+"Trusted_Connection"="Yes"
+"Description"="MuOnline"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\ODBC\ODBC.INI\MuOnlineJoinDB]
+"Driver"="C:\\WINDOWS\\system32\\SQLSRV32.dll"
+"Server"="(local)"
+"Database"="muonline"
+"LastUser"="Administrator"
+"Trusted_Connection"="Yes"
+"Description"="MuOnlineJoinDB"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\ODBC\ODBC.INI\ODBC Data Sources]
+"Xtreme Sample Database 2003 CHS"="Microsoft Access Driver (*.mdb)"
+"LocalServer"="SQL Server"
+"LOGIN"="SQL Server"
+"MuOnline"="SQL Server"
+"MuOnlineJoinDB"="SQL Server"
+"Event"="SQL Server"
+"USELOG"="SQL Server"
+"Ranking"="SQL Server"
+"MU2003_EVENT_DB"="SQL Server"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\ODBC\ODBC.INI\ODBC File DSN]
+"DefaultDSNDir"="C:\\Program Files\\Common Files\\ODBC\\Data Sources"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\ODBC\ODBC.INI\Ranking]
+"Driver"="C:\\WINDOWS\\system32\\SQLSRV32.dll"
+"Description"="Ranking"
+"Server"="(local)"
+"Database"="muonline"
+"LastUser"="Administrator"
+"Trusted_Connection"="Yes"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\ODBC\ODBC.INI\USELOG]
+"Driver"="C:\\WINDOWS\\system32\\SQLSRV32.dll"
+"Server"="(local)"
+"Database"="muonline"
+"LastUser"="Administrator"
+"Trusted_Connection"="Yes"
+"Description"="USELOG"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\ODBC\ODBC.INI\Xtreme Sample Database 2003 CHS]
+"Driver"="C:\\WINDOWS\\system32\\odbcjt32.dll"
+"DBQ"="C:\\Program Files\\Microsoft Visual Studio .NET 2003\\Crystal Reports\\Samples\\Database\\chs\\xtreme.mdb"
+"DriverId"=dword:00000019
+"SafeTransactions"=dword:00000000
+"UID"=""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\ODBC\ODBC.INI\Xtreme Sample Database 2003 CHS\Engines]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\ODBC\ODBC.INI\Xtreme Sample Database 2003 CHS\Engines\Jet]
+"ImplicitCommitSync"=""
+"Threads"=dword:00000003
+"UserCommitSync"="Yes"

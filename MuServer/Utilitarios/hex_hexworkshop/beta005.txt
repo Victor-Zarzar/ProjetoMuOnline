@@ -1,0 +1,33 @@
+Hex Workshop v2.20 beta 005, the Professional Hex Editor
+
+Please do not distribute this version of Hex Workshop.  If you find any
+problems, please contact BreakPoint Software as soon as you can.
+
+Thanks you.
+
+
+Contact Information:
+
+    CompuServe:         75554,377
+    America Online:     BreakPoint
+    Internet:           75554.377@compuserve.com
+
+    http://ourworld.compuserve.com/homepages/breakpoint
+
+
+Hex Workshop can be ordered for $20 from:
+
+	CompuServe:			GO SWREG (#7813)
+	PSL:				1-800-2424-PSL (Credit Card Orders)		
+	Direct:				See ORDERFRM.TXT File
+
+
+          _______
+     ____|__     |               (R)
+  --|       |    |-------------------
+    |   ____|__  |  Association of
+    |  |       |_|  Shareware
+    |__|   o   |    Professionals
+  -----|   |   |---------------------
+       |___|___|    MEMBER
+

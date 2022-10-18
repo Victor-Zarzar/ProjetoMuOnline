@@ -1,0 +1,8 @@
+﻿<table class="tablecol" width="100%">
+	<tr>
+		<td class="titcol2" colspan="2">Есть желание добавить что-небудь?</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="datoscol2">Перед тем как что-небудь добавить, я хотел бы узнать ещё пару вещей. Вы можете послать свои предложения на: <a href="mailto:mu.editor.magichand@gmail.com">mu.editor.magichand@gmail.com</a></td>
+	</tr>
+</table>

@@ -1,0 +1,48 @@
+// ----------------------------------------------------\\
+//        Hospedagem feita por Rodrigo                 \\
+// 						       \\
+// File  Name : MuServer1.08s6Epi3+itens Viciados      \\
+// ViciadosMU: wWw.ViciadosMu.com.br                   \\
+// Creditos: shop@viciadosmu.com.br | skype viciadosmu \\
+// Disponibilizamos para ajudar a todos                \\
+// Compre produtos ou jogue em nossos servidores       \\
+// Shop ViciadosMu: wWw.Shop.ViciadosMu.com.br         \\
+// --------------------------------------------------- \\
+//Ferreiro Lorencia
+
+12 7 0 255 0 0 0 0
+12 12 0 255 0 0 0 0
+12 13 0 255 0 0 0 0
+12 14 0 255 0 0 0 0
+12 19 0 255 0 0 0 0
+12 44 0 255 0 0 0 0
+
+7 0 8 255 0 0 0 0
+8 0 8 255 0 0 0 0
+9 0 8 255 0 0 0 0
+10 0 8 255 0 0 0 0
+11 0 8 255 0 0 0 0
+
+7 1 8 255 0 0 0 0
+8 1 8 255 0 0 0 0
+9 1 8 255 0 0 0 0
+10 1 8 255 0 0 0 0
+11 1 8 255 0 0 0 0
+
+7 5 8 255 0 0 0 0
+8 5 8 255 0 0 0 0
+9 5 8 255 0 0 0 0
+10 5 8 255 0 0 0 0
+11 5 8 255 0 0 0 0
+
+0 5 8 255 0 0 0 0
+0 13 8 255 0 0 0 0
+0 14 8 255 0 0 0 0
+0 15 8 255 0 0 0 0
+
+6 13 8 255 0 0 0 0
+6 12 8 255 0 0 0 0
+6 5 8 255 0 0 0 0
+6 8 8 255 0 0 0 0
+
+end

@@ -1,0 +1,57 @@
+﻿<table class="tablecol">
+	<tr>
+		<td class="titcol" colspan="2">Como Decodificar?:</td>
+	</tr>
+	<tr>
+		<td class="valcol"></td>
+		<td class="datoscol">Para decodificar archivos graficos, se deben ubicar en la carpeta <b>"archivos/oz"</b> y al proceder todos los archivos graficos se decodifican y ubican en la carpeta <b>"archivos/graficos"</b></td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Como Codificar?:</td>
+	</tr>
+	<tr>
+		<td class="valcol"></td>
+		<td class="datoscol">Para codificar archivos graficos, se deben ubicar en la carpeta <b>"archivos/graficos"</b> y al proceder todos los archivos graficos se codifican y ubican en la carpeta <b>"archivos/oz"</b></td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">OZB:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Formato:</td>
+		<td class="datoscol">Corresponde al formato "BMP" y se optiene repitiendo los primeros 4 bytes al principio</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">OZJ:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Formato:</td>
+		<td class="datoscol">Corresponde al formato "JPG" y se optiene repitiendo los primeros 24 bytes al principio</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">OZT:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Formato:</td>
+		<td class="datoscol">Corresponde al formato "TGA" y se optiene repitiendo los primeros 4 bytes al principio</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">BMP:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Formato:</td>
+		<td class="datoscol">Corresponde al formato "OZB" y se optiene quitando los primeros 4 bytes</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">JPG:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Formato:</td>
+		<td class="datoscol">Corresponde al formato "OZJ" y se optiene quitando los primeros 24 bytes</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">TGA:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Formato:</td>
+		<td class="datoscol">Corresponde al formato "OZT" y se optiene quitando los primeros 4 bytes</td>
+	</tr></table>

@@ -1,0 +1,32 @@
+<table class="tablecol">
+	<tr>
+		<td class="titcol2" colspan="2">Como Usarlo?:</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="datoscol2">Para usarlo simplemente debemos elegir  el archivo a editar en la parte izquierda.</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="datoscol2">Como ejemplo para editar el archivo "MoveReq.bmd" hacemos clic o doble clic en la carpeta "Archivos BMD" del lado izquierdo, luego seleccionamos "MoveReq", apareceran del lado derecho 2 partes, los enlaces y abajo las especificaciones que halla puesto (si ven que faltan especificaciones y las conocen agradeceria que me las pasen para completarlo).</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="datoscol2">En "Enlaces" seleccionan "Editar Archivo MoveReq.bmd", aparecera una nueva ventana con los archivos de ese nombre que esten en la carpeta "bmd" dentro de la carpeta "archivos".</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="datoscol2">Al hacer clic en un de los archivos sera cargado para poderlo editar.</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="datoscol2">Se puede editar haciendo doble clic tanto como dando "Enter" en cualquiera de los campos y navegando con las teclas de cursor.</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="datoscol2">Si colocan valores que no sean correctos ese campo aparecera con subrayado rojo, y al poner el raton sobre el mostrara cuales son los valores correctos, tambien pueden ver los valores correctos al poner el raton en el titulo de la columna.</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="datoscol2">Notese que al cambiar un campo este aparece con un triangulo rojo en el vertice superior izquierdo.</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="datoscol2">Luego de realizar las modificaciones correspondientes para guardar los cambios hacemos clic en "Salvar movereq.bmd", en este momento aparecera una ventana de dialogo en la que debemos escribir si queremos que el archivo original no sea modificado, ej: si escribo "aaa" el archivo creado sera "MoveReqaaa.bmd", asi que si quieren guardar los cambios en el archivo original no deben escribir nada y solo poner Aceptar <b>ASI DE FACIL</b>.</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="datoscol2">Al pasar los archivos graficos tener en cuenta que todos los archivos de la carpeta "oz" o de la carpeta "graficos" seran cornvertidos y se sobreescribiran.</td>
+	</tr>
+</table>

@@ -1,0 +1,5 @@
+<table class="tablecol">
+	<tr>
+		<td class="titcol" colspan="2">Em breve uma descri&ccedil;&atilde;o correta ser&aacute; criada para <i>Dialogos</i></td>
+	</tr>
+</table>

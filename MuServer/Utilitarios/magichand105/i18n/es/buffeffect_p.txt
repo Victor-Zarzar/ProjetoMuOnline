@@ -1,0 +1,71 @@
+﻿<table class="tablecol">
+<tr>
+	<td class="titcol2" colspan="2">Informaci&oacute; aportado por <b>Ema Leto (Magu)</b></td>
+</tr>
+<tr>
+<td class="datoscol" colspan="2">&nbsp;</td>
+</tr>
+<tr>
+<td class="titcol" colspan="2">Index:</td>
+</tr>
+<tr>
+<td class="valcol">Valores:</td>
+<td class="datoscol">Nº del Skill</td>
+</tr>
+<tr>
+<td class="titcol" colspan="2">V.Port:</td>
+</tr>
+<tr>
+<td class="valcol">Valores:</td>
+<td class="datoscol">No se<br /></td>
+</tr>
+<tr>
+<td class="titcol" colspan="2">Index:</td>
+</tr>
+<tr>
+<td class="valcol">Valores:</td>
+<td class="datoscol">-1 si el skill no tiene item. Si el skill tiene item va el Tipo de Item ej: (13 43 "Tensile of Increase") 13 Seria el Tipo</td>
+</tr>
+<tr>
+<td class="titcol" colspan="2">Item:</td>
+</tr>
+<tr>
+<td class="valcol">Valores:</td>
+<td class="datoscol">-1 si el skill no tiene item. Si el skill tiene item va el Index del item ej: (13 43 "Tensile of Increase") 43 Seria el Index</td>
+</tr>
+<tr>
+<td class="titcol" colspan="2">Name:</td>
+</tr>
+<tr>
+<td class="valcol">Valores:</td>
+<td class="datoscol">Nombre del skill</td>
+</tr>
+<tr>
+<td class="titcol" colspan="2">Tipo:</td>
+</tr>
+<tr>
+<td class="valcol">Valores:</td>
+<td class="datoscol">Si es skill del personaje o del monster va 1 sino va 0</td>
+</tr>
+<tr>
+<td class="titcol" colspan="2">X:</td>
+</tr>
+<tr>
+<td class="valcol">Valores:</td>
+<td class="datoscol">No se</td>
+</tr>
+<tr>
+<td class="titcol" colspan="2">Y:</td>
+</tr>
+<tr>
+<td class="valcol">Valores:</td>
+<td class="datoscol">No se</td>
+</tr>
+<tr>
+<td class="titcol" colspan="2">Description:</td>
+</tr>
+<tr>
+<td class="valcol">Valores:</td>
+<td class="datoscol">Descripcion del skill ej: Si en name se puso (Increase Attack Power) en descripci&oacute;n agregamos algo ej: Increase Attack Power</td>
+</tr>
+</table>

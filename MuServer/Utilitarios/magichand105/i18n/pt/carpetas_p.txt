@@ -1,0 +1,49 @@
+﻿<table class="tablecol">
+	<tr>
+		<td class="titcol2" colspan="2">Dentro do diretório temos a pasta "archivos" que contem as seguintes pastas:</td>
+	</tr>
+	<tr>
+	    <td class="valcol2">att:</td>
+		<td class="datoscol2">Colocar aqui descrição da pasta att.</td>
+    </tr>
+	<tr>
+        <td class="valcol2">bmd:</td>
+		<td class="datoscol2">Aqui se deve colocar ls arquivos com extenção "bmd" como item.bmd, text.bmd, etc..., tambem aqui apareceram os arquivos que são importados pelo excel e os aquivos cvs.</td>
+	</tr>
+	<tr>
+		<td class="valcol2">bmd_txt:</td>
+		<td class="datoscol2">Aqui estão os arquivos texto delimitado por tabulação.</td>
+	</tr>
+	<tr>
+	    <td class="valcol2">deco_att</td>
+		<td class="datoscol2">Colocar descrição para pasta deco_att.</td>
+	</tr>
+	<tr>
+	    <td class="valcol2">deco_map</td>
+		<td class="datoscol2">Colocar descrição para a pasta deco_map</td>
+	</tr>
+	<tr>
+		<td class="valcol2">gráficos:</td>
+		<td class="datoscol2">Aqui estão os arquivos de formato "jpg" tga "e" bmp ", que são obtidos decodificando os arquivos do jogo.</td>
+	</tr>
+	<tr>
+        <td class="valcol2">main:</td>
+		<td class="datoscol2">Aqui se deve colocar o main do seu cliente, para que possam ser feitas as alterações em versão, serial e ip.</td>
+	</tr>
+	<tr>
+	    <td class="valcol2">map:</td>
+		<td class="datoscol2">Aqui se deve colocar os arquivos de mapa do seu server.</td>
+	</tr>
+	<tr>
+		<td class="valcol2">oz:</td>
+		<td class="datoscol2">Aqui estão os arquivos de formato ozb ", ozj" e "OZT" para ser decodificado, bem como aqueles codificados da pasta "graficos".</td>
+	</tr>
+	<tr>
+		<td class="valcol2">wtf:</td>
+		<td class="datoscol2">Aqui estão os arquivos de formato wtf "(message.wtf) e os importados do Excel ou arquivos cvs.</td>
+	</tr>
+	<tr>
+		<td class="valcol2">xls:</td>
+		<td class="datoscol2">Aqui est&atildeo os arquivos decodificado para ediç&atildeo no excel.</td>
+	</tr>
+</table>

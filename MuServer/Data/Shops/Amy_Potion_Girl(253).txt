@@ -1,0 +1,54 @@
+// ----------------------------------------------------\\
+//        Hospedagem feita por Rodrigo                 \\
+// 						       \\
+// File  Name : MuServer1.08s6Epi3+itens Viciados      \\
+// ViciadosMU: wWw.ViciadosMu.com.br                   \\
+// Creditos: shop@viciadosmu.com.br | skype viciadosmu \\
+// Disponibilizamos para ajudar a todos                \\
+// Compre produtos ou jogue em nossos servidores       \\
+// Shop ViciadosMu: wWw.Shop.ViciadosMu.com.br         \\
+// --------------------------------------------------- \\
+// Amy Potion Girl (253)
+
+14 	11 	8 	1 	0 	0 	0 	0 // Box of Kundun+1
+14 	11 	9 	1 	0 	0 	0 	0 // Box of Kundun+2
+
+12	13	0	255	1	1	7	0 // Orb of Impale
+12	7	0	255	1	1	7	0 // Orb of Twisting Slash
+12	12	0	255	1	1	7	0 // Orb of Rageful Blow
+12	16	0	255	1	1	7	0 // Orb of Fire Slash
+12	19	0	255	1	1	7	0 // Orb of Death Stab
+12	14	0	255	1	1	7	0 // Orb of Greater Fortitude
+12	8	0	0	0	0	0	0 // Orb of Healing
+12	9	0	0	0	0	0	0 // Orb of Greater Defense
+12	10	0	0	0	0	0	0 // Orb of Greater Damage
+12	11	0	0	0	0	0	0 // Orb of Summoning
+12	11	1	0	0	0	0	0 // Orb of Summoning
+12	11	2	0	0	0	0	0 // Orb of Summoning
+12	11	3	0	0	0	0	0 // Orb of Summoning
+12	11	4	0	0	0	0	0 // Orb of Summoning
+12	11	5	0	0	0	0	0 // Orb of Summoning
+12	11	6	0	0	0	0	0 // Orb of Summoning
+12	17	0	255	1	1	7	0 // Orb of Penetration
+12	18	0	255	1	1	7	0 // Orb of Ice Arrow
+
+12	21	0	255	1	1	7	0 // Scroll of FireBurst
+12	22	0	255	1	1	7	0 // Scroll of Summon
+12	23	0	255	1	1	7	0 // Scroll of Critical Damage
+12	24	0	255	1	1	7	0 // Scroll of Electric Spark
+12	48	0	255	1	1	7	0 // Scroll of Chaotic Diseier
+
+12	44	0	255	1	1	7	0 // Crystal of Destruction
+12	47	0	255	1	1	7	0 // Crystal of Flame Strike
+12	46	0	255	1	1	7	0 // Crystal of Recovery
+12	45	0	255	1	1	7	0 // Crystal of Multi-Shot
+
+12 31 2 255 0 0 0 0
+14 22 0 0 0 0 0 0
+13 52 0 0 0 0 0 0
+13 53 0 0 0 0 0 0
+13 32 0 20 0 0 0 0
+13 33 0 20 0 0 0 0
+13 32 0 10 0 0 0 0
+
+end

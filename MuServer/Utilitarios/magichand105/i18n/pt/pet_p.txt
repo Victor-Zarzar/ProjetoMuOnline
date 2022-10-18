@@ -1,0 +1,9 @@
+﻿<table class="tablecol">
+	<tr>
+		<td class="titcol" colspan="2">Para Teste:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">S&atilde;o os valores que mostra cada yn arquivo em bytes, mas n&atilde;o se for necessário para o grupo, se alguém tiver alguma sugest&atilde;o é bem-vinda</td>
+	</tr>
+</table>

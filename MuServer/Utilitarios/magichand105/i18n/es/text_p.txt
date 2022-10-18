@@ -1,0 +1,16 @@
+<table class="tablecol">
+	<tr>
+		<td class="titcol" colspan="2">C1:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">Numero de Linea Interno que usa el Server solo en versiones nuevas</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Texto:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">Versiones <span>Viejas</span> hasta 300 caracteres (300 Bytes)<br />Versiones <span>Nuevas</span> texto ilimitado teoricamente mas de 4 millones :) (No creo que nadie escriba tanto)</td>
+	</tr>
+</table>

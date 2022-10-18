@@ -1,0 +1,9 @@
+﻿<table class="tablecol">
+	<tr>
+		<td class="titcol2" colspan="2">Хотите внести свой вклад?</td>
+	</tr>
+	<tr>
+		<td class="datoscol2" colspan="2">Если у вас есть идеи по улучшению програмы или новых функциональных возможностей. 			
+		Вы можете послать мне свою идею на email <a href="mailto:mu.editor.magichand@gmail.com">mu.editor.magichand@gmail.com</a></td>
+	</tr>
+</table>

@@ -1,0 +1,16 @@
+﻿<table class="tablecol" width="100%">
+	<tr>
+		<td class="titcol" colspan="2">C1:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Значения:</td>
+		<td class="datoscol">Номер линии, которая используеться внутри сервера</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Текст:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Значения:</td>
+		<td class="datoscol">Теоритически больше чем 4 миллиона :) (Я не думаю, что кто-нибудь напишет на столько много)</td>
+	</tr>
+</table>

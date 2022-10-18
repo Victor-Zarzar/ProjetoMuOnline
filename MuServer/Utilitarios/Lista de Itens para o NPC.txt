@@ -1,0 +1,1388 @@
+//Swords list 
+0 0 15 255 2 2 63 //Kris
+0 1 15 255 2 2 63 //Short Sword
+0 2 15 255 2 2 63 //Rapier
+0 3 15 255 2 2 63 //Katache
+0 4 15 255 2 2 63 //Scimitar
+0 5 15 255 2 2 63 //Blade
+0 6 15 255 2 2 63 //Gladius
+0 7 15 255 2 2 63 //Falchion
+0 8 15 255 2 2 63 //Serpent Sword
+0 9 15 255 2 2 63 //Sword of Salamander
+0 10 15 255 2 2 63 //Light Saber
+0 11 15 255 2 2 63 //Legendary Sword
+0 12 15 255 2 2 63 //Heliacal Sword
+0 13 15 255 2 2 63 //Double Blade
+0 14 15 255 2 2 63 //Lighting Sword
+0 15 15 255 2 2 63 //Giant Sword
+0 16 15 255 2 2 63 //Sword of Destruction
+0 17 15 255 2 2 63 //Dark Breaker
+0 18 15 255 2 2 63 //Thunder Blade
+0 19 15 255 2 2 63 //Divine Sword of Archangel
+0 20 15 255 2 2 63 //Knight Blade
+0 21 15 255 2 2 63 //Dark Reign Blade
+0 22 15 255 2 2 63 //Bone Blade
+0 23 15 255 2 2 63 //Explosion Blade
+0 24 15 255 2 2 63 //Daybreak
+0 25 15 255 2 2 63 //Sword Dancer
+0 26 15 255 2 2 63 //Flamberge
+0 27 15 255 2 2 63 //Sword Bracker
+0 28 15 255 2 2 63 //Imperial Sword
+0 31 15 255 2 2 63 //Rune Blade
+0 32 15 255 2 2 63 //Sacred Glove
+0 33 15 255 2 2 63 //Storm Hard Glove
+0 34 15 255 2 2 63 //Piercing Blade Glove
+0 35 15 255 2 2 63 //Phoenix Soul Star
+0 36 15 255 2 2 63 //Executioner Sword
+0 37 15 255 2 2 63 //Viper Sword
+0 38 15 255 2 2 63 //Tectonic Sword
+0 39 15 255 2 2 63 //Kingdom Sword
+0 40 15 255 2 2 63 //Illusion Eye Sword
+0 41 15 255 2 2 63 //Ashbringer Sword
+0 42 15 255 2 2 63 //Revenge Sword
+0 43 15 255 2 2 63 //Emerald Sword
+0 44 15 255 2 2 63 //Heaven Sword
+0 45 15 255 2 2 63 //Regal Bone Blade
+0 46 15 255 2 2 63 //Dismanttler Sword
+0 47 15 255 2 2 63 //Hanna Sword
+0 48 15 255 2 2 63 //Quantum Sword
+0 49 15 255 2 2 63 //Swiss Sword
+0 50 15 255 2 2 63 //Limpid Sword
+0 51 15 255 2 2 63 //Archlord Sword
+0 52 15 255 2 2 63 //Chaos Guard Sword
+0 53 15 255 2 2 63 //Typhoon Sword
+0 54 15 255 2 2 63 //Hunter Sword
+0 55 15 255 2 2 63 //Hell Mine Sword
+0 56 15 255 2 2 63 //Lionheart Sword
+0 57 15 255 2 2 63 //Eudemons Sword
+0 58 15 255 2 2 63 //Shahram Sword
+0 59 15 255 2 2 63 //Might Sword
+0 60 15 255 2 2 63 //Greatsword Sword
+0 61 15 255 2 2 63 //Obsidian Sword
+0 62 15 255 2 2 63 //Arcanite Sword
+0 63 15 255 2 2 63 //Slayer Sword
+0 64 15 255 2 2 63 //Rivendare Sword
+0 65 15 255 2 2 63 //Protector Sword
+0 66 15 255 2 2 63 //Venturian Sword
+0 67 15 255 2 2 63 //Templarius Sword
+0 68 15 255 2 2 63 //Skeleton Sword
+0 69 15 255 2 2 63 //Silver Sword
+
+//Axe list 
+1 0 15 255 2 2 63 //Small Axe
+1 1 15 255 2 2 63 //Hand Axe
+1 2 15 255 2 2 63 //Double Axe
+1 3 15 255 2 2 63 //Tomahawk
+1 4 15 255 2 2 63 //Elven Axe
+1 5 15 255 2 2 63 //Battle Axe
+1 6 15 255 2 2 63 //Nikkea Axe
+1 7 15 255 2 2 63 //Larkan Axe
+1 8 15 255 2 2 63 //Crescent Axe
+1 9 15 255 2 2 63 //Quarter Axe
+1 10 15 255 2 2 63 //Gothic Axe
+1 12 15 255 2 2 63 //Balanced Axe
+1 13 15 255 2 2 63 //Throwing Axe
+1 14 15 255 2 2 63 //Military Axe
+1 15 15 255 2 2 63 //Beared Axe
+1 16 15 255 2 2 63 //Crowbill Axe
+1 17 15 255 2 2 63 //Hatchet Axe
+1 18 15 255 2 2 63 //Spiked Axe
+1 19 15 255 2 2 63 //Battlers Axe
+1 20 15 255 2 2 63 //Voulge Axe
+1 21 15 255 2 2 63 //Trident Axe
+1 22 15 255 2 2 63 //War Pike Axe
+1 23 15 255 2 2 63 //Durotar Axe
+1 24 15 255 2 2 63 //Tanaris Axe
+1 25 15 255 2 2 63 //Teldrassil Axe
+1 26 15 255 2 2 63 //Tirisfal Glades Axe
+1 27 15 255 2 2 63 //Forest Axe
+1 28 15 255 2 2 63 //Herbalism Axe
+1 29 15 255 2 2 63 //Shaman Axe
+1 30 15 255 2 2 63 //Warlock Axe
+1 31 15 255 2 2 63 //Paladin Axe
+1 32 15 255 2 2 63 //Gnome Axe
+
+//Mace & Scepter list 
+2 0 15 255 2 2 63 //Mace
+2 1 15 255 2 2 63 //Morning Star
+2 2 15 255 2 2 63 //Flail
+2 3 15 255 2 2 63 //Great Hammer
+2 4 15 255 2 2 63 //Crystal Morning Star
+2 5 15 255 2 2 63 //Crystal Sword
+2 6 15 255 2 2 63 //Chaos Dragon Axe
+2 7 15 255 2 2 63 //Elemental Mace
+2 8 15 255 2 2 63 //Battle Scepter
+2 9 15 255 2 2 63 //Master Scepter
+2 10 15 255 2 2 63 //Great Scepter
+2 11 15 255 2 2 63 //Lord Scepter
+2 12 15 255 2 2 63 //Great Lord Scepter
+2 13 15 255 2 2 63 //Divine Scepter of Archangel
+2 14 15 255 2 2 63 //Soleil Scepter
+2 15 15 255 2 2 63 //Shining Scepter
+2 16 15 255 2 2 63 //Frost mace
+2 17 15 255 2 2 63 //Absolute Scepter
+2 18 15 255 2 2 63 //Striker Scepter
+2 20 15 255 2 2 63 //Doom Scepter
+
+//Spear list 
+3 0 15 255 2 2 63 //Light Spear
+3 1 15 255 2 2 63 //Spear
+3 2 15 255 2 2 63 //Dragon Lance
+3 3 15 255 2 2 63 //Giant Trident
+3 4 15 255 2 2 63 //Serpent Spear
+3 5 15 255 2 2 63 //Double Poleaxe
+3 6 15 255 2 2 63 //Halberd
+3 7 15 255 2 2 63 //Berdysh
+3 8 15 255 2 2 63 //Great Scythe
+3 9 15 255 2 2 63 //Bill of Balrog
+3 10 15 255 2 2 63 //Dragon Spear
+3 11 15 255 2 2 63 //Beuroba
+
+//Bow & Crosswob list 
+4 0 15 255 2 2 63 //Short Bow
+4 1 15 255 2 2 63 //Bow
+4 2 15 255 2 2 63 //Elven Bow
+4 3 15 255 2 2 63 //Battle Bow
+4 4 15 255 2 2 63 //Tiger Bow
+4 5 15 255 2 2 63 //Silver Bow
+4 6 15 255 2 2 63 //Chaos Nature Bow
+4 7 15 255 2 2 63 //Bolt
+4 8 15 255 2 2 63 //Crossbow
+4 9 15 255 2 2 63 //Golden Crossbow
+4 10 15 255 2 2 63 //Arquebus
+4 11 15 255 2 2 63 //Light Crossbow
+4 12 15 255 2 2 63 //Serpent Crossbow
+4 13 15 255 2 2 63 //Bluewing Crossbow
+4 14 15 255 2 2 63 //Aquagold Crossbow
+4 15 15 255 2 2 63 //Arrows
+4 16 15 255 2 2 63 //Saint Crossbow
+4 17 15 255 2 2 63 //Celestial Bow
+4 18 15 255 2 2 63 //Divine CB of Archangel
+4 19 15 255 2 2 63 //Great Reign Crossbow
+4 20 15 255 2 2 63 //Arrow Viper Bow
+4 21 15 255 2 2 63 //Sylph Wind Bow
+4 22 15 255 2 2 63 //Albatross Bow
+4 23 15 255 2 2 63 //Stinger Bow
+4 24 15 255 2 2 63 //Air Lyn Bow
+
+//Staff list 
+5 0 15 255 2 2 63 //Skull Staff
+5 1 15 255 2 2 63 //Angelic Staff
+5 2 15 255 2 2 63 //Serpent Staff
+5 3 15 255 2 2 63 //Thunder Staff
+5 4 15 255 2 2 63 //Gorgon Staff
+5 5 15 255 2 2 63 //Legendary Staff
+5 6 15 255 2 2 63 //Staff of Resurrection
+5 7 15 255 2 2 63 //Chaos Lighting Staff
+5 8 15 255 2 2 63 //Staff of Destruction
+5 9 15 255 2 2 63 //Dragon Soul Staff
+5 10 15 255 2 2 63 //Divine Staff of Archangel
+5 11 15 255 2 2 63 //Staff of Kundun
+5 12 15 255 2 2 63 //Grand Viper Staff
+5 13 15 255 2 2 63 //Platina Staff
+5 14 15 255 2 2 63 //Mistery Staff
+5 15 15 255 2 2 63 //Violent Wind Staff
+5 16 15 255 2 2 63 //Red Wing Staff
+5 17 15 255 2 2 63 //Ancient Staff
+5 18 15 255 2 2 63 //Black Rose Staff
+5 19 15 255 2 2 63 //Aura Staff
+5 20 15 255 2 2 63 //Lilium Staff
+5 21 15 255 2 2 63 //Book of Sahamutt
+5 22 15 255 2 2 63 //Book of Neil
+5 23 15 255 2 2 63 //Book of Ghost Phantom
+5 30 15 255 2 2 63 //Deadly Staff
+5 31 15 255 2 2 63 //Imperial Staff
+5 32 15 255 2 2 63 //Merlin Staff
+5 33 15 255 2 2 63 //Chroma ticks staff
+5 34 15 255 2 2 63 //Raven Stick
+5 35 15 255 2 2 63 //Artemis Staff
+5 36 15 255 2 2 63 //Divine Stick of Archangel
+5 37 15 255 2 2 63 //Dynasty Staff
+5 39 15 255 2 2 63 //Archment Staff
+5 40 15 255 2 2 63 //Shovel Staff
+5 42 15 255 2 2 63 //Scourge Staff
+5 43 15 255 2 2 63 //Scourgelord Staff
+5 44 15 255 2 2 63 //Azzinoth Staff
+5 45 15 255 2 2 63 //Thunderfury Staff
+5 46 15 255 2 2 63 //Windseeker Staff
+5 47 15 255 2 2 63 //Ragnaros Staff
+
+//Shield list 
+6 0 15 255 2 2 63 //Small Shield
+6 1 15 255 2 2 63 //Horn Shield
+6 2 15 255 2 2 63 //Kite Shield
+6 3 15 255 2 2 63 //Elven Shield
+6 4 15 255 2 2 63 //Buckler
+6 5 15 255 2 2 63 //Dragon Slayer Shield
+6 6 15 255 2 2 63 //Skull Shield
+6 7 15 255 2 2 63 //Spiked Shield
+6 8 15 255 2 2 63 //Tower Shield
+6 9 15 255 2 2 63 //Iron Shield
+6 10 15 255 2 2 63 //Big Round Shield
+6 11 15 255 2 2 63 //Serpent Shield
+6 12 15 255 2 2 63 //Bronze Shield
+6 13 15 255 2 2 63 //Chaos Shield
+6 14 15 255 2 2 63 //Legendary Shield
+6 15 15 255 2 2 63 //Grand Soul Shield
+6 16 15 255 2 2 63 //Elemental Shield
+6 17 15 255 2 2 63 //CrimsonGlory
+6 18 15 255 2 2 63 //Salamander Shield
+6 19 15 255 2 2 63 //Frost Barrier
+6 20 15 255 2 2 63 //Guardian Shiled
+6 21 15 255 2 2 63 //Cross Shield
+6 23 15 255 2 2 63 //Union Shield
+6 24 15 255 2 2 63 //Dynasty Shield
+6 25 15 255 2 2 63 //Darknut Shield
+6 26 15 255 2 2 63 //Kaito Shield
+6 27 15 255 2 2 63 //Guard Shield
+6 28 15 255 2 2 63 //Emerald Shield
+6 29 15 255 2 2 63 //Gunzbound Shield
+6 30 15 255 2 2 63 //Flyff Shield
+6 31 15 255 2 2 63 //Pirates Shield
+6 32 15 255 2 2 63 //Priston Shield
+6 33 15 255 2 2 63 //Ragnarok Shield
+6 34 15 255 2 2 63 //Shaiya Shield
+6 35 15 255 2 2 63 //Arcanus Shield
+6 36 15 255 2 2 63 //DarkSoldier Shield
+
+//Helm list 
+7 0 15 255 2 2 63 //Bronze Helm
+7 1 15 255 2 2 63 //Dragon Helm
+7 2 15 255 2 2 63 //Pad Helm
+7 3 15 255 2 2 63 //Legendary Helm
+7 4 15 255 2 2 63 //Bone Helm
+7 5 15 255 2 2 63 //Leather Helm
+7 6 15 255 2 2 63 //Scale Helm
+7 7 15 255 2 2 63 //Sphinx Mask
+7 8 15 255 2 2 63 //Brass Helm
+7 9 15 255 2 2 63 //Plate Helm
+7 10 15 255 2 2 63 //Vine Helm
+7 11 15 255 2 2 63 //Silk Helm
+7 12 15 255 2 2 63 //Wind Helm
+7 13 15 255 2 2 63 //Spirit Helm
+7 14 15 255 2 2 63 //Guardian Helm
+7 16 15 255 2 2 63 //Black Dragon Helm
+7 17 15 255 2 2 63 //Dark Phoenix Helm
+7 18 15 255 2 2 63 //Grand Soul Helm
+7 19 15 255 2 2 63 //Divine Helm
+7 21 15 255 2 2 63 //Great Dragon Helm
+7 22 15 255 2 2 63 //Dark Soul Helm
+7 24 15 255 2 2 63 //Red Spirit Helm
+7 25 15 255 2 2 63 //Light Plate Mask
+7 26 15 255 2 2 63 //Adamantine Mask
+7 27 15 255 2 2 63 //Dark Steel Mask
+7 28 15 255 2 2 63 //Dark Master Mask
+7 29 15 255 2 2 63 //Dragon Knight Helm
+7 30 15 255 2 2 63 //Venom Mist Helm
+7 31 15 255 2 2 63 //Sylphid Ray Helm
+7 33 15 255 2 2 63 //Sunlight Mask
+7 34 15 255 2 2 63 //Ashcrow Helm
+7 35 15 255 2 2 63 //Eclipse Helm
+7 36 15 255 2 2 63 //Iris Helm
+7 38 15 255 2 2 63 //Glorious Mask
+7 39 15 255 2 2 63 //Mistery Helm
+7 40 15 255 2 2 63 //Red Wing Helm
+7 41 15 255 2 2 63 //Ancient Helm
+7 42 15 255 2 2 63 //Black Rose Helm
+7 43 15 255 2 2 63 //Aura Helm
+7 44 15 255 2 2 63 //Lilium Helm
+7 45 15 255 2 2 63 //Titan Helm
+7 46 15 255 2 2 63 //Brave Helm
+7 49 15 255 2 2 63 //Seraphim Helm
+7 50 15 255 2 2 63 //Faith Helm
+7 51 15 255 2 2 63 //Paewang Mask
+7 52 15 255 2 2 63 //Hades Helm
+7 53 15 255 2 2 63 //Queen Helm
+7 59 15 255 2 2 63 //Sacred Helm
+7 60 15 255 2 2 63 //Storm Hard Helm
+7 61 15 255 2 2 63 //Piercing Helm
+7 73 15 255 2 2 63 //Phoenix Soul Helmet
+7 74 15 255 2 2 63 //Storm Hard V1 Helm
+7 75 15 255 2 2 63 //Aramis Helm
+7 76 15 255 2 2 63 //Darkness Skull Helm
+7 77 15 255 2 2 63 //Gohan Helm
+7 78 15 255 2 2 63 //Proteus Helm
+7 79 15 255 2 2 63 //Plutonium Helm
+7 80 15 255 2 2 63 //Gogeta SSJ5 Helm
+7 81 15 255 2 2 63 //Gogeta SSJ4 Helm
+7 83 15 255 2 2 63 //Vegeta SSJ2 Helm
+7 84 15 255 2 2 63 //Vegeta Helm
+7 85 15 255 2 2 63 //Trunks Helm
+7 86 15 255 2 2 63 //Majin Boo Helm
+7 87 15 255 2 2 63 //Goku SSJ4 Helm
+7 88 15 255 2 2 63 //Goku SSJ2 Helm
+7 89 15 255 2 2 63 //Vegeta JR Helm
+7 90 15 255 2 2 63 //Ginyu Helm
+7 91 15 255 2 2 63 //Conqueror Helm
+7 92 15 255 2 2 63 //Sacred v1 Helm
+7 93 15 255 2 2 63 //Venture Helm
+7 95 15 255 2 2 63 //Piercing V1 Helm
+7 98 15 255 2 2 63 //Zilant Helm
+7 99 15 255 2 2 63 //Morph Helm
+7 100 15 255 2 2 63 //Ninja Gaiden Helm
+7 101 15 255 2 2 63 //King of Dragon Helm
+7 103 15 255 2 2 63 //Platinum Helm
+7 105 15 255 2 2 63 //Chaos Helm
+7 106 15 255 2 2 63 //Hannibal Helm
+7 107 15 255 2 2 63 //King Skull Helm
+7 108 15 255 2 2 63 //Balgass Helm
+7 109 15 255 2 2 63 //Monarch Helm
+7 110 15 255 2 2 63 //Tutankamon Helm
+7 111 15 255 2 2 63 //Pallas Helm
+7 112 15 255 2 2 63 //Sacred v2 Helm
+7 114 15 255 2 2 63 //Valkyrias Helm
+7 115 15 255 2 2 63 //Black Fenrir Helm
+7 116 15 255 2 2 63 //Thunder Heavy Helm
+7 117 15 255 2 2 63 //Alien Helm
+7 118 15 255 2 2 63 //Midgard Helm
+7 119 15 255 2 2 63 //Thunder Skull Helm
+7 120 15 255 2 2 63 //High Shamal Helm
+7 121 15 255 2 2 63 //Quarter Master Helm
+7 122 15 255 2 2 63 //Kentauros Helm
+7 123 15 255 2 2 63 //DarkBone Helm
+7 124 15 255 2 2 63 //Thanatos Helm
+7 125 15 255 2 2 63 //Insect Queen Helm
+7 126 15 255 2 2 63 //Regal Dragon Knight Helm
+7 127 15 255 2 2 63 //Antaras Helm
+7 128 15 255 2 2 63 //Cyrious Helm
+7 129 15 255 2 2 63 //Piercing v2 Helm
+7 130 15 255 2 2 63 //Doom Helm
+7 131 15 255 2 2 63 //Centaurus Helm
+7 132 15 255 2 2 63 //Tectonic Helm
+7 133 15 255 2 2 63 //Arcane Helm
+7 134 15 255 2 2 63 //Shadow Helm
+7 135 15 255 2 2 63 //Charmant Helm
+7 136 15 255 2 2 63 //Astral Helm
+7 137 15 255 2 2 63 //Impulse Helm
+7 138 15 255 2 2 63 //Eternity Helm
+7 139 15 255 2 2 63 //Quirinus Helm
+7 140 15 255 2 2 63 //Agamemnon Helm
+7 141 15 255 2 2 63 //Drakon Helm
+7 142 15 255 2 2 63 //Rhapsody Helm
+7 143 15 255 2 2 63 //Vegeta SSJ4 Helm
+7 144 15 255 2 2 63 //Cell Helm
+7 145 15 255 2 2 63 //Bloody Soldier Helm
+7 146 15 255 2 2 63 //Century Helm
+7 147 15 255 2 2 63 //Falch Helm
+7 148 15 255 2 2 63 //Dark Dimention Helm
+7 149 15 255 2 2 63 //Blood thirsty Helm
+7 150 15 255 2 2 63 //Regal Titan Helm
+7 151 15 255 2 2 63 //Hell Red Helm
+7 152 15 255 2 2 63 //Death Helm
+7 153 15 255 2 2 63 //Aiakos Helm
+7 154 15 255 2 2 63 //Storm Hard v2 Helm
+7 155 15 255 2 2 63 //Andromeda Helm
+7 156 15 255 2 2 63 //Shina Helm
+7 157 15 255 2 2 63 //Death Cancer Helm
+7 158 15 255 2 2 63 //Hyoga Helm
+7 159 15 255 2 2 63 //Aldebaran Helm
+7 160 15 255 2 2 63 //Sagittarius Helm
+
+//Armor list 
+8 0 15 255 2 2 63 //Bronze Armor
+8 1 15 255 2 2 63 //Dragon Armor
+8 2 15 255 2 2 63 //Pad Armor
+8 3 15 255 2 2 63 //Legendary Armor
+8 4 15 255 2 2 63 //Bone Armor
+8 5 15 255 2 2 63 //Leather Armor
+8 6 15 255 2 2 63 //Scale Armor
+8 7 15 255 2 2 63 //Sphinx Armor
+8 8 15 255 2 2 63 //Brass Armor
+8 9 15 255 2 2 63 //Plate Armor
+8 10 15 255 2 2 63 //Vine Armor
+8 11 15 255 2 2 63 //Silk Armor
+8 12 15 255 2 2 63 //Wind Armor
+8 13 15 255 2 2 63 //Spirit Armor
+8 14 15 255 2 2 63 //Guardian Armor
+8 15 15 255 2 2 63 //Storm Crow Armor
+8 16 15 255 2 2 63 //Black Dragon Armor
+8 17 15 255 2 2 63 //Dark Phoenix Armor
+8 18 15 255 2 2 63 //Grand Soul Armor
+8 19 15 255 2 2 63 //Divine Armor
+8 20 15 255 2 2 63 //Thunder Hawk Armor
+8 21 15 255 2 2 63 //Great Dragon Armor
+8 22 15 255 2 2 63 //Dark Soul Armor
+8 23 15 255 2 2 63 //Hurricane Armor
+8 24 15 255 2 2 63 //Red Sprit Armor
+8 25 15 255 2 2 63 //Light Plate Armor
+8 26 15 255 2 2 63 //Adamantine Armor
+8 27 15 255 2 2 63 //Dark Steel Armor
+8 28 15 255 2 2 63 //Dark Master Armor
+8 29 15 255 2 2 63 //Dragon Knight Armor
+8 30 15 255 2 2 63 //Venom Mist Armor
+8 31 15 255 2 2 63 //Sylphid Ray Armor
+8 32 15 255 2 2 63 //Volcano Armor
+8 33 15 255 2 2 63 //Sunlight Armor
+8 34 15 255 2 2 63 //Ashcrow Armor
+8 35 15 255 2 2 63 //Eclipse Armor
+8 36 15 255 2 2 63 //Iris Armor
+8 37 15 255 2 2 63 //Valiant Armor
+8 38 15 255 2 2 63 //Glorious Armor
+8 39 15 255 2 2 63 //Mistery Armor
+8 40 15 255 2 2 63 //Red Wing Armor
+8 41 15 255 2 2 63 //Ancient Armor
+8 42 15 255 2 2 63 //Black Rose Armor
+8 43 15 255 2 2 63 //Aura Armor
+8 44 15 255 2 2 63 //Lilium Armor
+8 45 15 255 2 2 63 //Titan Armor
+8 46 15 255 2 2 63 //Brave Armor
+8 47 15 255 2 2 63 //Destory Armor
+8 48 15 255 2 2 63 //Phantom Armor
+8 49 15 255 2 2 63 //Seraphim Armor
+8 50 15 255 2 2 63 //Faith Armor
+8 51 15 255 2 2 63 //Paewang Armor
+8 52 15 255 2 2 63 //Hades Armor
+8 53 15 255 2 2 63 //Queen Armor
+8 59 15 255 2 2 63 //Sacred Armor
+8 60 15 255 2 2 63 //Storm Hard Armor
+8 61 15 255 2 2 63 //Piercing Armor
+8 73 15 255 2 2 63 //Phoenix Soul Armor
+8 74 15 255 2 2 63 //Storm Hard V1 Armor
+8 75 15 255 2 2 63 //Aramis Armor
+8 76 15 255 2 2 63 //Darkness Skull Armor
+8 77 15 255 2 2 63 //Gohan Armor
+8 78 15 255 2 2 63 //Proteus Armor
+8 79 15 255 2 2 63 //Plutonium Armor
+8 80 15 255 2 2 63 //Gogeta SSJ5 Armor
+8 81 15 255 2 2 63 //Gogeta SSJ4 Armor
+8 83 15 255 2 2 63 //Vegeta SSJ2 Armor
+8 84 15 255 2 2 63 //Vegeta Armor
+8 85 15 255 2 2 63 //Trunks Armor
+8 86 15 255 2 2 63 //Majin Boo Armor
+8 87 15 255 2 2 63 //Goku SSJ4 Armor
+8 88 15 255 2 2 63 //Goku SSJ2 Armor
+8 89 15 255 2 2 63 //Vegeta JR Armor
+8 90 15 255 2 2 63 //Ginyu Armor
+8 91 15 255 2 2 63 //Conqueror Armor
+8 92 15 255 2 2 63 //Sacred v1 Armor
+8 93 15 255 2 2 63 //Venture Armor
+8 95 15 255 2 2 63 //Piercing V1 Armor
+8 98 15 255 2 2 63 //Zilant Armor
+8 99 15 255 2 2 63 //Morph Armor
+8 100 15 255 2 2 63 //Ninja Gaiden Armor
+8 101 15 255 2 2 63 //King of Dragon Armor
+8 103 15 255 2 2 63 //Platinum Armor
+8 105 15 255 2 2 63 //Chaos Armor
+8 106 15 255 2 2 63 //Hanibal Armor
+8 107 15 255 2 2 63 //King Skull Armor
+8 108 15 255 2 2 63 //Balgass Armor
+8 109 15 255 2 2 63 //Monarch Armor
+8 110 15 255 2 2 63 //Tutankamon Armor
+8 111 15 255 2 2 63 //Pallas Armor
+8 112 15 255 2 2 63 //Sacred v2 Armor
+8 114 15 255 2 2 63 //Valkyrias Armor
+8 115 15 255 2 2 63 //Black Fenrir Armor
+8 116 15 255 2 2 63 //Thunder Heavy Armor
+8 117 15 255 2 2 63 //Alien Armor
+8 118 15 255 2 2 63 //Midgard Armor
+8 119 15 255 2 2 63 //Thunder Skull Armor
+8 120 15 255 2 2 63 //High Shamal Armor
+8 121 15 255 2 2 63 //Quarter Master Armor
+8 122 15 255 2 2 63 //Kentauros Armor
+8 123 15 255 2 2 63 //DarkBone Armor
+8 124 15 255 2 2 63 //Thanatos Armor
+8 125 15 255 2 2 63 //Insect Queen Armor
+8 126 15 255 2 2 63 //Regal Dragon Knight Armor
+8 127 15 255 2 2 63 //Antaras Armor
+8 128 15 255 2 2 63 //Cyrious Armor
+8 129 15 255 2 2 63 //Piercing v2 Armor
+8 130 15 255 2 2 63 //Doom Armor
+8 131 15 255 2 2 63 //Centaurus Armor
+8 132 15 255 2 2 63 //Tectonic Armor
+8 133 15 255 2 2 63 //Arcane Armor
+8 134 15 255 2 2 63 //Shadow Armor
+8 135 15 255 2 2 63 //Charmant Armor
+8 136 15 255 2 2 63 //Astral Armor
+8 137 15 255 2 2 63 //Impulse Armor
+8 138 15 255 2 2 63 //Eternity Armor
+8 139 15 255 2 2 63 //Quirinus Armor
+8 140 15 255 2 2 63 //Agamemnon Armor
+8 141 15 255 2 2 63 //Drakon Armor
+8 142 15 255 2 2 63 //Rhapsody Armor
+8 143 15 255 2 2 63 //Vegeta SSJ4 Armor
+8 144 15 255 2 2 63 //Cell Armor
+8 145 15 255 2 2 63 //Bloody Soldier Armor
+8 146 15 255 2 2 63 //Century Armor
+8 147 15 255 2 2 63 //Falch Armor
+8 148 15 255 2 2 63 //Dark Dimention Armor
+8 149 15 255 2 2 63 //BloodThirsty Armor
+8 150 15 255 2 2 63 //Regal Titan Armor
+8 151 15 255 2 2 63 //Hell Red Armor
+8 152 15 255 2 2 63 //Death Armor
+8 153 15 255 2 2 63 //Aiakos Armor
+8 154 15 255 2 2 63 //Storm Hard v2 Armor
+8 155 15 255 2 2 63 //Andromeda Armor
+8 156 15 255 2 2 63 //Shina Armor
+8 157 15 255 2 2 63 //Death Cancer Armor
+8 158 15 255 2 2 63 //Hyoga Armor
+8 159 15 255 2 2 63 //Aldebaran Armor
+8 160 15 255 2 2 63 //Sagittarius Armor
+
+//Pants list 
+9 0 15 255 2 2 63 //Bronze Pants
+9 1 15 255 2 2 63 //Dragon Pants
+9 2 15 255 2 2 63 //Pad Pants
+9 3 15 255 2 2 63 //Legendary Pants
+9 4 15 255 2 2 63 //Bone Pants
+9 5 15 255 2 2 63 //Leather Pants
+9 6 15 255 2 2 63 //Scale Pants
+9 7 15 255 2 2 63 //Sphinx Pants
+9 8 15 255 2 2 63 //Brass Pants
+9 9 15 255 2 2 63 //Plate Pants
+9 10 15 255 2 2 63 //Vine Pants
+9 11 15 255 2 2 63 //Silk Pants
+9 12 15 255 2 2 63 //Wind Pants
+9 13 15 255 2 2 63 //Spirit Pants
+9 14 15 255 2 2 63 //Guardian Pants
+9 15 15 255 2 2 63 //Storm Crow Pants
+9 16 15 255 2 2 63 //Black Dragon Pants
+9 17 15 255 2 2 63 //Dark Phoenix Pants
+9 18 15 255 2 2 63 //Grand Soul Pants
+9 19 15 255 2 2 63 //Divine Pants
+9 20 15 255 2 2 63 //Thunder Hawk Pants
+9 21 15 255 2 2 63 //Great Dragon Pants
+9 22 15 255 2 2 63 //Dark Soul Pants
+9 23 15 255 2 2 63 //Hurricane Pants
+9 24 15 255 2 2 63 //Red Spirit Pants
+9 25 15 255 2 2 63 //Light Plate Pants
+9 26 15 255 2 2 63 //Adamantine Pants
+9 27 15 255 2 2 63 //Dark Steel Pants
+9 28 15 255 2 2 63 //Dark Master Pants
+9 29 15 255 2 2 63 //Dragon Knight Pants
+9 30 15 255 2 2 63 //Venom Mist Pants
+9 31 15 255 2 2 63 //Sylphid Ray Pants
+9 32 15 255 2 2 63 //Volcano Pants
+9 33 15 255 2 2 63 //Sunlight Pants
+9 34 15 255 2 2 63 //Ashcrow Pants
+9 35 15 255 2 2 63 //Eclipse Pants
+9 36 15 255 2 2 63 //Iris Pants
+9 37 15 255 2 2 63 //Valiant Pants
+9 38 15 255 2 2 63 //Glorious Pants
+9 39 15 255 2 2 63 //Mistery Pants
+9 40 15 255 2 2 63 //Red Wing Pants
+9 41 15 255 2 2 63 //Ancient Pants
+9 42 15 255 2 2 63 //Black Rose Pants
+9 43 15 255 2 2 63 //Aura Pants
+9 44 15 255 2 2 63 //Lilium Pants
+9 45 15 255 2 2 63 //Titan Pants
+9 46 15 255 2 2 63 //Brave Pants
+9 47 15 255 2 2 63 //Destory Pants
+9 48 15 255 2 2 63 //Phantom Pants
+9 49 15 255 2 2 63 //Seraphim Pants
+9 50 15 255 2 2 63 //Faith Pants
+9 51 15 255 2 2 63 //Paewang Pants
+9 52 15 255 2 2 63 //Hades Pants
+9 53 15 255 2 2 63 //Queen pants
+9 59 15 255 2 2 63 //Sacred Pants
+9 60 15 255 2 2 63 //Storm Hard Pants
+9 61 15 255 2 2 63 //Piercing Pants
+9 73 15 255 2 2 63 //Phoenix Soul Pants
+9 74 15 255 2 2 63 //Storm Hard V1 Pants
+9 75 15 255 2 2 63 //Aramis Pants
+9 76 15 255 2 2 63 //Darkness Skull Pants
+9 77 15 255 2 2 63 //Gohan Pants
+9 78 15 255 2 2 63 //Proteus Pants
+9 79 15 255 2 2 63 //Plutonium Pants
+9 80 15 255 2 2 63 //Gogeta SSJ5 Pants
+9 81 15 255 2 2 63 //Gogeta SSJ4 Pants
+9 83 15 255 2 2 63 //Vegeta SSJ2 Pants
+9 84 15 255 2 2 63 //Vegeta Pants
+9 85 15 255 2 2 63 //Trunks Pants
+9 86 15 255 2 2 63 //Majin Boo Pants
+9 87 15 255 2 2 63 //Goku SSJ4 Pants
+9 88 15 255 2 2 63 //Goku SSJ2 Pants
+9 89 15 255 2 2 63 //Vegeta JR Pants
+9 90 15 255 2 2 63 //Ginyu Pants
+9 91 15 255 2 2 63 //Conqueror Pants
+9 92 15 255 2 2 63 //Sacred v1 Pants
+9 93 15 255 2 2 63 //Venture Pants
+9 95 15 255 2 2 63 //Piercing V1 Pants
+9 98 15 255 2 2 63 //Zilant Pants
+9 99 15 255 2 2 63 //Morph Pants
+9 100 15 255 2 2 63 //Ninja Gaiden Pants
+9 101 15 255 2 2 63 //King of Dragon Pants
+9 103 15 255 2 2 63 //Platinum Pants
+9 105 15 255 2 2 63 //Chaos Pants
+9 106 15 255 2 2 63 //Hanibal Pants
+9 107 15 255 2 2 63 //King Skull Pants
+9 108 15 255 2 2 63 //Balgass Pants
+9 109 15 255 2 2 63 //Monarch Pants
+9 110 15 255 2 2 63 //Tutankamon Pants
+9 111 15 255 2 2 63 //Pallas Pants
+9 112 15 255 2 2 63 //Sacred v2 Pants
+9 114 15 255 2 2 63 //Valkyrias Pants
+9 115 15 255 2 2 63 //Black Fenrir Pants
+9 116 15 255 2 2 63 //Thunder Heavy Pants
+9 117 15 255 2 2 63 //Alien Pants
+9 118 15 255 2 2 63 //Midgard Pants
+9 119 15 255 2 2 63 //Thunder Skull Pants
+9 120 15 255 2 2 63 //High Shamal Pants
+9 121 15 255 2 2 63 //Quarter Master Pants
+9 122 15 255 2 2 63 //Kentauros Pants
+9 123 15 255 2 2 63 //DarkBone Pants
+9 124 15 255 2 2 63 //Thanatos Pants
+9 125 15 255 2 2 63 //Insect Queen Pants
+9 126 15 255 2 2 63 //Regal Dragon Knight Pants
+9 127 15 255 2 2 63 //Antaras Pants
+9 128 15 255 2 2 63 //Cyrious Pants
+9 129 15 255 2 2 63 //Piercing v2 Pants
+9 130 15 255 2 2 63 //Doom Pants
+9 131 15 255 2 2 63 //Centaurus Pants
+9 132 15 255 2 2 63 //Tectonic Pants
+9 133 15 255 2 2 63 //Arcane Pants
+9 134 15 255 2 2 63 //Shadoaw Pants
+9 135 15 255 2 2 63 //Charmant Pants
+9 136 15 255 2 2 63 //Astral Pants
+9 137 15 255 2 2 63 //Impulse Pants
+9 138 15 255 2 2 63 //Eternity Pants
+9 139 15 255 2 2 63 //Quirinus Pants
+9 140 15 255 2 2 63 //Agamemnon Pants
+9 141 15 255 2 2 63 //Drakon Pants
+9 142 15 255 2 2 63 //Rhapsody Pants
+9 143 15 255 2 2 63 //Vegeta SSJ4 Pants
+9 144 15 255 2 2 63 //Cell Pants
+9 145 15 255 2 2 63 //Bloody Soldier Pants
+9 146 15 255 2 2 63 //Century Pants
+9 147 15 255 2 2 63 //Falch Pants
+9 148 15 255 2 2 63 //Dark Dimention Pants
+9 149 15 255 2 2 63 //BloodThirsty Pants
+9 150 15 255 2 2 63 //Regal Titan Pants
+9 151 15 255 2 2 63 //Hell Red Pants
+9 152 15 255 2 2 63 //Death Pants
+9 153 15 255 2 2 63 //Aiakos Pants
+9 154 15 255 2 2 63 //Storm Hard v2 Pants
+9 155 15 255 2 2 63 //Andromeda Pants
+9 156 15 255 2 2 63 //Shina Pants
+9 157 15 255 2 2 63 //Death Cancer Pants
+9 158 15 255 2 2 63 //Hyoga Pants
+9 159 15 255 2 2 63 //Aldebaran Pants
+9 160 15 255 2 2 63 //Sagittarius Pants
+
+//Gloves list 
+10 0 15 255 2 2 63 //Bronze Gloves
+10 1 15 255 2 2 63 //Dragon Gloves
+10 2 15 255 2 2 63 //Pad Gloves
+10 3 15 255 2 2 63 //Legendary Gloves
+10 4 15 255 2 2 63 //Bone Gloves
+10 5 15 255 2 2 63 //Leather Gloves
+10 6 15 255 2 2 63 //Scale Gloves
+10 7 15 255 2 2 63 //Sphinx Gloves
+10 8 15 255 2 2 63 //Brass Gloves
+10 9 15 255 2 2 63 //Plate Gloves
+10 10 15 255 2 2 63 //Vine Gloves
+10 11 15 255 2 2 63 //Silk Gloves
+10 12 15 255 2 2 63 //Wind Gloves
+10 13 15 255 2 2 63 //Spirit Gloves
+10 14 15 255 2 2 63 //Guardian Gloves
+10 15 15 255 2 2 63 //Storm Crow Gloves
+10 16 15 255 2 2 63 //Black Dragon Gloves
+10 17 15 255 2 2 63 //Dark Phoenix Gloves
+10 18 15 255 2 2 63 //Grand Soul Gloves
+10 19 15 255 2 2 63 //Divine Gloves
+10 20 15 255 2 2 63 //Thunder Hawk Gloves
+10 21 15 255 2 2 63 //Great Dragon Gloves
+10 22 15 255 2 2 63 //Dark Soul Gloves
+10 23 15 255 2 2 63 //Hurricane Gloves
+10 24 15 255 2 2 63 //Red Spirit Gloves
+10 25 15 255 2 2 63 //Light Plate Gloves
+10 26 15 255 2 2 63 //Adamantine Gloves
+10 27 15 255 2 2 63 //Dark Steel Gloves
+10 28 15 255 2 2 63 //Dark Master Gloves
+10 29 15 255 2 2 63 //Dragon Knight Gloves
+10 30 15 255 2 2 63 //Venom Mist Gloves
+10 31 15 255 2 2 63 //Sylphid Ray Gloves
+10 32 15 255 2 2 63 //Volcano Gloves
+10 33 15 255 2 2 63 //Sunlight Gloves
+10 34 15 255 2 2 63 //Ashcrow Gloves
+10 35 15 255 2 2 63 //Eclipse Gloves
+10 36 15 255 2 2 63 //Iris Gloves
+10 37 15 255 2 2 63 //Valiant Gloves
+10 38 15 255 2 2 63 //Glorious Gloves
+10 39 15 255 2 2 63 //Mistery Gloves
+10 40 15 255 2 2 63 //Red Wing Gloves
+10 41 15 255 2 2 63 //Ancient Gloves
+10 42 15 255 2 2 63 //Black Rose Gloves
+10 43 15 255 2 2 63 //Aura Gloves
+10 44 15 255 2 2 63 //Lilium Gloves
+10 45 15 255 2 2 63 //Titan Gloves
+10 46 15 255 2 2 63 //Brave Gloves
+10 47 15 255 2 2 63 //Destory Gloves
+10 48 15 255 2 2 63 //Phantom Gloves
+10 49 15 255 2 2 63 //Seraphim Gloves
+10 50 15 255 2 2 63 //Faith Gloves
+10 51 15 255 2 2 63 //Paewang Gloves
+10 52 15 255 2 2 63 //Hades Gloves
+10 53 15 255 2 2 63 //Queen Gloves
+10 74 15 255 2 2 63 //Golden Fenrir Gloves
+10 75 15 255 2 2 63 //Aramis Gloves
+10 76 15 255 2 2 63 //Darkness Skull Gloves
+10 77 15 255 2 2 63 //Gohan Gloves
+10 78 15 255 2 2 63 //Proteus Gloves
+10 79 15 255 2 2 63 //Plutonium Gloves
+10 80 15 255 2 2 63 //Gogeta SSJ5 Gloves
+10 81 15 255 2 2 63 //Gogeta SSJ4 Gloves
+10 83 15 255 2 2 63 //Vegeta SSJ2 Gloves
+10 84 15 255 2 2 63 //Vegeta Gloves
+10 85 15 255 2 2 63 //Trunks Gloves
+10 86 15 255 2 2 63 //Majin Boo Gloves
+10 87 15 255 2 2 63 //Goku SSJ4 Gloves
+10 88 15 255 2 2 63 //Goku SSJ2 Gloves
+10 89 15 255 2 2 63 //Vegeta JR Gloves
+10 90 15 255 2 2 63 //Ginyu Gloves
+10 91 15 255 2 2 63 //Conqueror Gloves
+10 92 15 255 2 2 63 //Twin Dragon Gloves
+10 93 15 255 2 2 63 //Venture Gloves
+10 95 15 255 2 2 63 //Hypnotic Gloves
+10 98 15 255 2 2 63 //Zilant Gloves
+10 99 15 255 2 2 63 //Morph Gloves
+10 100 15 255 2 2 63 //Ninja Gaiden Gloves
+10 101 15 255 2 2 63 //King of Dragon Gloves
+10 103 15 255 2 2 63 //Platinum Gloves
+10 105 15 255 2 2 63 //Chaos Gloves
+10 106 15 255 2 2 63 //Hannibal Gloves
+10 107 15 255 2 2 63 //King Skull Gloves
+10 108 15 255 2 2 63 //Balgass Gloves
+10 109 15 255 2 2 63 //Monarch Gloves
+10 110 15 255 2 2 63 //Tutankamon Gloves
+10 111 15 255 2 2 63 //Pallas Gloves
+10 112 15 255 2 2 63 //Hesiod Gloves
+10 114 15 255 2 2 63 //Valkyrias Gloves
+10 115 15 255 2 2 63 //Black Fenrir Gloves
+10 116 15 255 2 2 63 //Thunder Heavy Gloves
+10 117 15 255 2 2 63 //Alien Gloves
+10 118 15 255 2 2 63 //Midgard Gloves
+10 119 15 255 2 2 63 //Thunder Skull Gloves
+10 120 15 255 2 2 63 //High Shamal Gloves
+10 121 15 255 2 2 63 //Quarter Master Gloves
+10 122 15 255 2 2 63 //Kentauros Gloves
+10 123 15 255 2 2 63 //DarkBone Gloves
+10 124 15 255 2 2 63 //Thanatos Gloves
+10 125 15 255 2 2 63 //Insect Queen Gloves
+10 126 15 255 2 2 63 //Regal Dragon Knight Gloves
+10 127 15 255 2 2 63 //Antaras Gloves
+10 128 15 255 2 2 63 //Cyrious Gloves
+10 129 15 255 2 2 63 //Viperion Gloves
+10 130 15 255 2 2 63 //Doom Gloves
+10 131 15 255 2 2 63 //Centaurus Gloves
+10 132 15 255 2 2 63 //Tectonic Gloves
+10 133 15 255 2 2 63 //Arcane Gloves
+10 134 15 255 2 2 63 //Shadow Gloves
+10 135 15 255 2 2 63 //Charmant Gloves
+10 136 15 255 2 2 63 //Astral Gloves
+10 137 15 255 2 2 63 //Impulse Gloves
+10 138 15 255 2 2 63 //Eternity Gloves
+10 139 15 255 2 2 63 //Quirinus Gloves
+10 140 15 255 2 2 63 //Agamemnon Gloves
+10 141 15 255 2 2 63 //Drakon Gloves
+10 142 15 255 2 2 63 //Rhapsody Gloves
+10 143 15 255 2 2 63 //Vegeta SSJ4 Gloves
+10 144 15 255 2 2 63 //Cell Gloves
+10 145 15 255 2 2 63 //Bloody Soldier Gloves
+10 146 15 255 2 2 63 //Century Gloves
+10 147 15 255 2 2 63 //Falch Gloves
+10 148 15 255 2 2 63 //Dark Dimention Gloves
+10 149 15 255 2 2 63 //BloodThirsty Gloves
+10 150 15 255 2 2 63 //Regal Titan Gloves
+10 151 15 255 2 2 63 //Hell Red Gloves
+10 152 15 255 2 2 63 //Death Gloves
+10 153 15 255 2 2 63 //Aiakos Gloves
+10 154 15 255 2 2 63 //Galia Dragon Gloves
+10 155 15 255 2 2 63 //Andromeda Gloves
+10 156 15 255 2 2 63 //Shina Gloves
+10 157 15 255 2 2 63 //Death Cancer Gloves
+10 158 15 255 2 2 63 //Hyoga Gloves
+10 159 15 255 2 2 63 //Aldebaran Gloves
+10 160 15 255 2 2 63 //Sagittarius Gloves
+
+//Boots list 
+11 0 15 255 2 2 63 //Bronze Boots
+11 1 15 255 2 2 63 //Dragon Boots
+11 2 15 255 2 2 63 //Pad Boots
+11 3 15 255 2 2 63 //Legendary Boots
+11 4 15 255 2 2 63 //Bone Boots
+11 5 15 255 2 2 63 //Leather Boots
+11 6 15 255 2 2 63 //Scale Boots
+11 7 15 255 2 2 63 //Sphinx Boots
+11 8 15 255 2 2 63 //Brass Boots
+11 9 15 255 2 2 63 //Plate Boots
+11 10 15 255 2 2 63 //Vine Boots
+11 11 15 255 2 2 63 //Silk Boots
+11 12 15 255 2 2 63 //Wind Boots
+11 13 15 255 2 2 63 //Spirit Boots
+11 14 15 255 2 2 63 //Guardian Boots
+11 15 15 255 2 2 63 //Storm Crow Boots
+11 16 15 255 2 2 63 //Black Dragon Boots
+11 17 15 255 2 2 63 //Dark Phoenix Boots
+11 18 15 255 2 2 63 //Grand Soul Boots
+11 19 15 255 2 2 63 //Divine Boots
+11 20 15 255 2 2 63 //Thunder Hawk Boots
+11 21 15 255 2 2 63 //Great Dragon Boots
+11 22 15 255 2 2 63 //Dark Soul Boots
+11 23 15 255 2 2 63 //Hurricane Boots
+11 24 15 255 2 2 63 //Red Spirit Boots
+11 25 15 255 2 2 63 //Light Plate Boots
+11 26 15 255 2 2 63 //Adamantine Boots
+11 27 15 255 2 2 63 //Dark Steel Boots
+11 28 15 255 2 2 63 //Dark Master Boots
+11 29 15 255 2 2 63 //Dragon Knight Boots
+11 30 15 255 2 2 63 //Venom Mist Boots
+11 31 15 255 2 2 63 //Sylphid Ray Boots
+11 32 15 255 2 2 63 //Volcano Boots
+11 33 15 255 2 2 63 //Sunlight Boots
+11 34 15 255 2 2 63 //Ashcrow Boots
+11 35 15 255 2 2 63 //Eclipse Boots
+11 36 15 255 2 2 63 //Iris Boots
+11 37 15 255 2 2 63 //Valiant Boots
+11 38 15 255 2 2 63 //Glorious Boots
+11 39 15 255 2 2 63 //Mistery Boots
+11 40 15 255 2 2 63 //Red Wing Boots
+11 41 15 255 2 2 63 //Ancient Boots
+11 42 15 255 2 2 63 //Black Rose Boots
+11 43 15 255 2 2 63 //Aura Boots
+11 44 15 255 2 2 63 //Lilium Boots
+11 45 15 255 2 2 63 //Titan Boots
+11 46 15 255 2 2 63 //Brave Boots
+11 47 15 255 2 2 63 //Destory Boots
+11 48 15 255 2 2 63 //Phantom Boots
+11 49 15 255 2 2 63 //Seraphim Boots
+11 50 15 255 2 2 63 //Faith Boots
+11 51 15 255 2 2 63 //Phaewang Boots
+11 52 15 255 2 2 63 //Hades Boots
+11 53 15 255 2 2 63 //Queen Boots
+11 59 15 255 2 2 63 //Sacred Boots
+11 60 15 255 2 2 63 //Storm Hard Boots
+11 61 15 255 2 2 63 //Piercing Boots
+11 73 15 255 2 2 63 //Phoenix Soul Boots
+11 74 15 255 2 2 63 //Storm Hard V1 Boots
+11 75 15 255 2 2 63 //Aramis Boots
+11 76 15 255 2 2 63 //Darkness Skull Boots
+11 77 15 255 2 2 63 //Gohan Boots
+11 78 15 255 2 2 63 //Proteus Boots
+11 79 15 255 2 2 63 //Plutonium Boots
+11 80 15 255 2 2 63 //Gogeta SSJ5 Boots
+11 81 15 255 2 2 63 //Gogeta SSJ4 Boots
+11 83 15 255 2 2 63 //Vegeta SSJ2 Boots
+11 84 15 255 2 2 63 //Vegeta Boots
+11 85 15 255 2 2 63 //Trunks Boots
+11 86 15 255 2 2 63 //Majin Boo Boots
+11 87 15 255 2 2 63 //Goku SSJ4 Boots
+11 88 15 255 2 2 63 //Goku SSJ2 Boots
+11 89 15 255 2 2 63 //Vegeta JR Boots
+11 90 15 255 2 2 63 //Ginyu Boots
+11 91 15 255 2 2 63 //Conqueror Boots
+11 92 15 255 2 2 63 //Sacred v1 Boots
+11 93 15 255 2 2 63 //Venture Boots
+11 95 15 255 2 2 63 //Piercing V1 Boots
+11 98 15 255 2 2 63 //Zilant Boots
+11 99 15 255 2 2 63 //Morph Boots
+11 100 15 255 2 2 63 //Ninja Gaiden Boots
+11 101 15 255 2 2 63 //King of Dragon Boots
+11 103 15 255 2 2 63 //Platinum Boots
+11 105 15 255 2 2 63 //Chaos Boots
+11 106 15 255 2 2 63 //Hannibal Boots
+11 107 15 255 2 2 63 //King Skull Boots
+11 108 15 255 2 2 63 //Balgass Boots
+11 109 15 255 2 2 63 //Monarch Boots
+11 110 15 255 2 2 63 //Tutankamon Boots
+11 111 15 255 2 2 63 //Pallas Boots
+11 112 15 255 2 2 63 //Sacred v2 Boots
+11 114 15 255 2 2 63 //Valkyrias Boots
+11 115 15 255 2 2 63 //Black Fenrir Boots
+11 116 15 255 2 2 63 //Thunder Heavy Boots
+11 117 15 255 2 2 63 //Alien Boots
+11 118 15 255 2 2 63 //Midgard Boots
+11 119 15 255 2 2 63 //Thunder Skull Boots
+11 120 15 255 2 2 63 //High Shamal Boots
+11 121 15 255 2 2 63 //Quarter Master Boots
+11 122 15 255 2 2 63 //Kentauros Boots
+11 123 15 255 2 2 63 //DarkBone Boots
+11 124 15 255 2 2 63 //Thanatos Boots
+11 125 15 255 2 2 63 //Insect Queen Boots
+11 126 15 255 2 2 63 //Regal Dragon Knight Boots
+11 127 15 255 2 2 63 //Antaras Boots
+11 128 15 255 2 2 63 //Cyrious Boots
+11 129 15 255 2 2 63 //Piercing v2 Boots
+11 130 15 255 2 2 63 //Doom Boots
+11 131 15 255 2 2 63 //Centaurus Boots
+11 132 15 255 2 2 63 //Tectonic Boots
+11 133 15 255 2 2 63 //Arcane Boots
+11 134 15 255 2 2 63 //Shadow Boots
+11 135 15 255 2 2 63 //Charmant Boots
+11 136 15 255 2 2 63 //Astral Boots
+11 137 15 255 2 2 63 //Impulse Boots
+11 138 15 255 2 2 63 //Eternity Boots
+11 139 15 255 2 2 63 //Quirinus Boots
+11 140 15 255 2 2 63 //Agamemnon Boots
+11 141 15 255 2 2 63 //Drakon Boots
+11 142 15 255 2 2 63 //Rhapsody Boots
+11 143 15 255 2 2 63 //Vegeta SSJ4 Boots
+11 144 15 255 2 2 63 //Cell Boots
+11 145 15 255 2 2 63 //Bloody Soldier Boots
+11 146 15 255 2 2 63 //Century Boots
+11 147 15 255 2 2 63 //Falch Boots
+11 148 15 255 2 2 63 //Dark Dimention Boots
+11 149 15 255 2 2 63 //BloodThirsty Boots
+11 150 15 255 2 2 63 //Regal Titan Boots
+11 151 15 255 2 2 63 //Hell Red Boots
+11 152 15 255 2 2 63 //Death Boots
+11 153 15 255 2 2 63 //Aiakos Boots
+11 154 15 255 2 2 63 //Storm Hard v2 Boots
+11 155 15 255 2 2 63 //Andromeda Boots
+11 156 15 255 2 2 63 //Shina Boots
+11 157 15 255 2 2 63 //Death Cancer Boots
+11 158 15 255 2 2 63 //Hyoga Boots
+11 159 15 255 2 2 63 //Aldebaran Boots
+11 160 15 255 2 2 63 //Sagittarius Boots
+
+//Wings / orbs list 
+12 0 15 255 2 2 63 //Wings of Elf
+12 1 15 255 2 2 63 //Wings of Heaven
+12 2 15 255 2 2 63 //Wings of Satan
+12 3 15 255 2 2 63 //Wings of Spirits
+12 4 15 255 2 2 63 //Wings of Soul
+12 5 15 255 2 2 63 //Wings of Dragon
+12 6 15 255 2 2 63 //Wings of Darkness
+12 7 15 255 2 2 63 //Orb of Twisting Slash
+12 8 15 255 2 2 63 //Healing Orb
+12 9 15 255 2 2 63 //Orb of Greater Defense
+12 10 15 255 2 2 63 //Orb of Greater Damage
+12 11 15 255 2 2 63 //Orb of Summoning
+12 12 15 255 2 2 63 //Orb of Rageful Blow
+12 13 15 255 2 2 63 //Orb of Impale
+12 14 15 255 2 2 63 //Orb of Greater Fortitude
+12 15 15 255 2 2 63 //Jewel of Chaos
+12 16 15 255 2 2 63 //Orb of Fire Slash
+12 17 15 255 2 2 63 //Orb of Penetration
+12 18 15 255 2 2 63 //Orb of Ice Arrow
+12 19 15 255 2 2 63 //Orb of Death Stab
+12 21 15 255 2 2 63 //Scroll of FireBurst
+12 22 15 255 2 2 63 //Scroll of Summon
+12 23 15 255 2 2 63 //Scroll of Critical Damage
+12 24 15 255 2 2 63 //Scroll of Electric Spark
+12 26 15 255 2 2 63 //Pietra Segreta
+12 30 15 255 2 2 63 //Jewel of Bless Compresse
+12 31 15 255 2 2 63 //Jewel of Soul Compresse
+12 32 15 255 2 2 63 //Red Ribbon Box
+12 33 15 255 2 2 63 //Green Ribbon Box
+12 34 15 255 2 2 63 //Blue Ribbon Box
+12 35 15 255 2 2 63 //Scroll of Fire Scream
+12 36 15 255 2 2 63 //Wing of Storm
+12 37 15 255 2 2 63 //Wing of Vortex
+12 38 15 255 2 2 63 //Wing of Illusion
+12 39 15 255 2 2 63 //Wing of Doom
+12 40 15 255 2 2 63 //Mantle of Monarch
+12 41 15 255 2 2 63 //Wing of Mistery
+12 42 15 255 2 2 63 //Wing of Despair
+12 43 15 255 2 2 63 //Wing of Violent Wind
+12 44 15 255 2 2 63 //Orb of Explosion
+12 45 15 255 2 2 63 //Orb of Five Shot
+12 46 15 255 2 2 63 //Orb of Reduce Dmg Shield
+12 47 15 255 2 2 63 //Orb of Sword Slash
+12 48 15 255 2 2 63 //Scroll Of Birds
+12 49 15 255 2 2 63 //Wing of Fighter
+12 50 15 255 2 2 63 //Rage Wings
+12 60 15 255 2 2 63 //Seed of Fire
+12 61 15 255 2 2 63 //Seed of Water
+12 62 15 255 2 2 63 //Seed of Ice
+12 63 15 255 2 2 63 //Seed of Wind
+12 64 15 255 2 2 63 //Seed of Lightning
+12 65 15 255 2 2 63 //Seed of Ground
+12 70 15 255 2 2 63 //Seed Spear (Empty 1)
+12 71 15 255 2 2 63 //Seed Spear (Empty 2)
+12 72 15 255 2 2 63 //Seed Spear (Empty 3)
+12 73 15 255 2 2 63 //Seed Spear (Empty 4)
+12 74 15 255 2 2 63 //Seed Spear (Empty 5)
+12 100 15 255 2 2 63 //Seed Spear (Fire)
+12 101 15 255 2 2 63 //Seed Spear (Water)
+12 102 15 255 2 2 63 //Seed Spear (Ice)
+12 103 15 255 2 2 63 //Seed Spear (Wind)
+12 104 15 255 2 2 63 //Seed Spear (Lightning)
+12 105 15 255 2 2 63 //Seed Spear (Ground)
+12 106 15 255 2 2 63 //Seed Spear (Fire)
+12 107 15 255 2 2 63 //Seed Spear (Water)
+12 108 15 255 2 2 63 //Seed Spear (Ice)
+12 109 15 255 2 2 63 //Seed Spear (Wind)
+12 110 15 255 2 2 63 //Seed Spear (Lightning)
+12 111 15 255 2 2 63 //Seed Spear (Ground)
+12 112 15 255 2 2 63 //Seed Spear (Fire)
+12 113 15 255 2 2 63 //Seed Spear (Water)
+12 114 15 255 2 2 63 //Seed Spear (Ice)
+12 115 15 255 2 2 63 //Seed Spear (Wind)
+12 116 15 255 2 2 63 //Seed Spear (Lightning)
+12 117 15 255 2 2 63 //Seed Spear (Ground)
+12 118 15 255 2 2 63 //Seed Spear (Fire)
+12 119 15 255 2 2 63 //Seed Spear (Water)
+12 120 15 255 2 2 63 //Seed Spear (Ice)
+12 121 15 255 2 2 63 //Seed Spear (Wind)
+12 122 15 255 2 2 63 //Seed Spear (Lightning)
+12 123 15 255 2 2 63 //Seed Spear (Ground)
+12 124 15 255 2 2 63 //Seed Spear (Fire)
+12 125 15 255 2 2 63 //Seed Spear (Water)
+12 126 15 255 2 2 63 //Seed Spear (Ice)
+12 127 15 255 2 2 63 //Seed Spear (Wind)
+12 128 15 255 2 2 63 //Seed Spear (Lightning)
+12 129 15 255 2 2 63 //Seed Spear (Ground)
+12 130 15 255 2 2 63 //Small Cape of Lord
+12 131 15 255 2 2 63 //Small Wing of Curse
+12 132 15 255 2 2 63 //Small Wings of Elf
+12 133 15 255 2 2 63 //Small Wings of Heaven
+12 134 15 255 2 2 63 //Small Wings of Satan
+12 135 15 255 2 2 63 //Small Wings of Rage
+12 136 15 255 2 2 63 //Jewel of Life Bundle
+12 137 15 255 2 2 63 //Jewel of Creation Bundle
+12 138 15 255 2 2 63 //Jewel of Guardian Bundle
+12 139 15 255 2 2 63 //Gemstone Bundle
+12 140 15 255 2 2 63 //Jewel of Harmony Bundle
+12 141 15 255 2 2 63 //Jewel of Chaos Bundle
+12 142 15 255 2 2 63 //Lower Refining Stone Bundle
+12 143 15 255 2 2 63 //Higher Refining Stone Bundle
+
+//Misc items list 
+13 0 15 255 2 2 63 //Guardian Angel
+13 1 15 255 2 2 63 //Satan
+13 2 15 255 2 2 63 //Horn of Unicorn
+13 3 15 255 2 2 63 //Horn of Dinorant
+13 4 15 255 2 2 63 //Dark Horse
+13 5 15 255 2 2 63 //Dark Raven
+13 7 15 255 2 2 63 //Contract (Summon)
+13 8 15 255 2 2 63 //Ring of Ice
+13 9 15 255 2 2 63 //Ring of Poison
+13 10 15 255 2 2 63 //Ring of Transformation
+13 11 15 255 2 2 63 //Order (Guardian/LifeStone)
+13 12 15 255 2 2 63 //Pendant of Lightning
+13 13 15 255 2 2 63 //Pendant of Fire
+13 14 15 255 2 2 63 //Loch's Feather
+13 15 15 255 2 2 63 //Fruit
+13 16 15 255 2 2 63 //Scroll of Archangel
+13 17 15 255 2 2 63 //Blood Bone
+13 18 15 255 2 2 63 //Cloak of Invisibility
+13 19 15 255 2 2 63 //Divine Weapon of Archangel
+13 20 15 255 2 2 63 //Ring of Wizardry
+13 21 15 255 2 2 63 //Ring of Fire
+13 22 15 255 2 2 63 //Ring of Earth
+13 23 15 255 2 2 63 //Ring of Wind
+13 24 15 255 2 2 63 //Ring of Magic
+13 25 15 255 2 2 63 //Pendant of Ice
+13 26 15 255 2 2 63 //Pendant of Wind
+13 27 15 255 2 2 63 //Pendant of Water
+13 28 15 255 2 2 63 //Pendant of Ability
+13 29 15 255 2 2 63 //Armor of Guardman
+13 30 15 255 2 2 63 //Cape of Lord
+13 31 15 255 2 2 63 //Spirit
+13 32 15 255 2 2 63 //Splinter of Armor
+13 33 15 255 2 2 63 //Bless of Guardian
+13 34 15 255 2 2 63 //Claw of Beast
+13 35 15 255 2 2 63 //Piece of Horn
+13 36 15 255 2 2 63 //Broken Horn
+13 37 15 255 2 2 63 //Horn of Fenrir
+13 38 15 255 2 2 63 //Moonstone Pendant
+13 39 15 255 2 2 63 //Ring 1
+13 40 15 255 2 2 63 //Ring 2
+13 41 15 255 2 2 63 //Ring 3
+13 42 15 255 2 2 63 //GM Ring
+13 43 15 255 2 2 63 //Green Symbol
+13 44 15 255 2 2 63 //Pink Symbol
+13 45 15 255 2 2 63 //Yellow Symbol
+13 46 15 255 2 2 63 //Devil Square free admission
+13 47 15 255 2 2 63 //Blood Castle free tickets
+13 48 15 255 2 2 63 //Kalima Ticket free tickets
+13 49 15 255 2 2 63 //Old Scroll
+13 50 15 255 2 2 63 //Illusion Sorcerer Covenant
+13 51 15 255 2 2 63 //Scroll of Blood
+13 52 15 255 2 2 63 //Condor Flame
+13 53 15 255 2 2 63 //Condor Feather
+13 54 15 255 2 2 63 //Reset Fruit Strength
+13 55 15 255 2 2 63 //Reset Fruit Quickness
+13 56 15 255 2 2 63 //Reset Fruit Health
+13 57 15 255 2 2 63 //Reset Fruit Energy
+13 58 15 255 2 2 63 //Reset Fruit Control
+13 59 15 255 2 2 63 //Seal of Mobility
+13 60 15 255 2 2 63 //Indulgence
+13 61 15 255 2 2 63 //Illusion Temple Ticket
+13 62 15 255 2 2 63 //Seal of Healing
+13 63 15 255 2 2 63 //Seal of Divinity
+13 64 15 255 2 2 63 //Demon
+13 65 15 255 2 2 63 //Spirit of Guardian
+13 66 15 255 2 2 63 //Invitation to Santa Village
+13 67 15 255 2 2 63 //Pet Rudolf
+13 68 15 255 2 2 63 //Snowman Transformation Ring
+13 69 15 255 2 2 63 //Talisman of Resurrection
+13 70 15 255 2 2 63 //Talisman of Mobility
+13 71 15 255 2 2 63 //Sword/Mace/Spear
+13 72 15 255 2 2 63 //Staff
+13 73 15 255 2 2 63 //Bow/Crossbow
+13 74 15 255 2 2 63 //Scepter
+13 75 15 255 2 2 63 //Stick
+13 76 15 255 2 2 63 //Panda Ring
+13 80 15 255 2 2 63 //Pet Panda
+13 81 15 255 2 2 63 //Talisman of Guardian
+13 82 15 255 2 2 63 //Talisman of Item Protection
+13 83 15 255 2 2 63 //Talisman of Wings of Satan
+13 84 15 255 2 2 63 //Talisman of Wings of Heaven
+13 85 15 255 2 2 63 //Talisman of Wings of Elf
+13 86 15 255 2 2 63 //Talisman of Wing of Curse
+13 87 15 255 2 2 63 //Talisman of Cape of Emperor
+13 88 15 255 2 2 63 //Talisman of Wings of Dragon
+13 89 15 255 2 2 63 //Talisman of Wings of Soul
+13 90 15 255 2 2 63 //Talisman of Wings of Spirits
+13 91 15 255 2 2 63 //Talisman of Wing of Despair
+13 92 15 255 2 2 63 //Talisman of Wings of Darkness
+13 93 15 255 2 2 63 //Master Seal of Ascension
+13 94 15 255 2 2 63 //Master Seal of Wealth
+13 95 15 255 2 2 63 //Gladiator's Honor
+13 96 15 255 2 2 63 //Seal of Strength
+13 97 15 255 2 2 63 //Mageom sakaerikteo Card
+13 98 15 255 2 2 63 //Dakeurodeu Character Cards
+13 99 15 255 2 2 63 //Character slot key
+13 103 15 255 2 2 63 //Party EXP Scroll
+13 104 15 255 2 2 63 //Max AG Boost Aura
+13 105 15 255 2 2 63 //Max SD Boost Aura
+13 106 15 255 2 2 63 //Pet Unicorn
+13 107 15 255 2 2 63 //Lethal Wizard's Ring
+13 109 15 255 2 2 63 //Sapphire Ring
+13 110 15 255 2 2 63 //Ruby Ring
+13 111 15 255 2 2 63 //Topaz Ring
+13 112 15 255 2 2 63 //Amethyst Ring
+13 113 15 255 2 2 63 //Ruby Necklace
+13 114 15 255 2 2 63 //Emerald Necklace
+13 115 15 255 2 2 63 //Sapphire Necklace
+13 116 15 255 2 2 63 //Seal of Wealth
+13 117 15 255 2 2 63 //Minimum Vitality Potion
+13 118 15 255 2 2 63 //Low Vitality Potion
+13 119 15 255 2 2 63 //Medium Vitality Potion
+13 120 15 255 2 2 63 //High Vitality Potion
+13 121 15 255 2 2 63 //Open Access Ticket to Chaos
+13 122 15 255 2 2 63 //Skeleton Transformation Ring
+13 123 15 255 2 2 63 //Pet Skeleton
+13 124 15 255 2 2 63 //Paid Channel Access Ticket
+13 125 15 255 2 2 63 //Open Access Ticket to Doppel
+13 126 15 255 2 2 63 //Open Access Ticket to Varka
+13 127 15 255 2 2 63 //Open Access Ticket to Varkama
+13 128 15 255 2 2 63 //Maejo per phase
+13 129 15 255 2 2 63 //Goat Statues
+13 130 15 255 2 2 63 //Ohkeucham
+13 131 15 255 2 2 63 //Meyipeulcham
+13 132 15 255 2 2 63 //Goldeunohkeucham
+13 133 15 255 2 2 63 //Goldeunmeyipeulcham
+13 134 15 255 2 2 63 //Old shoe
+13 135 15 255 2 2 63 //Lucky ticket 1st Armor
+13 136 15 255 2 2 63 //1st Lucky Pants Tickets
+13 137 15 255 2 2 63 //Lucky ticket 1st Helm
+13 138 15 255 2 2 63 //Lucky Glove 1st ticket
+13 139 15 255 2 2 63 //Boots 1st Lucky Ticket
+13 140 15 255 2 2 63 //Lucky ticket 2nd Armor
+13 141 15 255 2 2 63 //2nd Lucky Pants Tickets
+13 142 15 255 2 2 63 //Lucky ticket 2nd Helm
+13 143 15 255 2 2 63 //Lucky Glove 2nd ticket
+13 144 15 255 2 2 63 //Boots 2nd Lucky Ticket
+
+//More misc items list 
+14 0 15 255 2 2 63 //Apple
+14 1 15 255 2 2 63 //Small Healing Potion
+14 2 15 255 2 2 63 //Healing Potion
+14 3 15 255 2 2 63 //Large Healing Potion
+14 4 15 255 2 2 63 //Small Mana Potion
+14 5 15 255 2 2 63 //Mana Potion
+14 6 15 255 2 2 63 //Large Mana Potion
+14 7 15 255 2 2 63 //Siege Potion
+14 8 15 255 2 2 63 //Antidote
+14 9 15 255 2 2 63 //Alcohol
+14 10 15 255 2 2 63 //Town Portal Scrool
+14 11 15 255 2 2 63 //Box of Luck
+14 12 15 255 2 2 63 //Cuore del drago
+14 13 15 255 2 2 63 //Jewel of Bless
+14 14 15 255 2 2 63 //Jewel of Soul
+14 15 15 255 2 2 63 //Zen
+14 16 15 255 2 2 63 //Jewel of Life
+14 17 15 255 2 2 63 //Devil Square Eye
+14 18 15 255 2 2 63 //Devil Square Key
+14 19 15 255 2 2 63 //Devil Square Invitation
+14 20 15 255 2 2 63 //Remedy of Love
+14 21 15 255 2 2 63 //Rena
+14 22 15 255 2 2 63 //Jewel of Creation
+14 23 15 255 2 2 63 //Scroll of the Emperor
+14 24 15 255 2 2 63 //Broken Sword
+14 25 15 255 2 2 63 //Tear of Elf
+14 26 15 255 2 2 63 //Soul Shard of Wizard
+14 28 15 255 2 2 63 //Gate per Kalima
+14 29 15 255 2 2 63 //Symbol of Kundun
+14 31 15 255 2 2 63 //Jewel of Guardian
+14 32 15 255 2 2 63 //Pink Chocolate Box
+14 33 15 255 2 2 63 //Red Chocolate Box
+14 34 15 255 2 2 63 //Blue Chocolate Box
+14 35 15 255 2 2 63 //Small SD Potion
+14 36 15 255 2 2 63 //SD Potion
+14 37 15 255 2 2 63 //Large SD Potion
+14 38 15 255 2 2 63 //Small Complex Potion
+14 39 15 255 2 2 63 //Complex Potion
+14 40 15 255 2 2 63 //Large Complex Potion
+14 41 15 255 2 2 63 //Gemstone
+14 42 15 255 2 2 63 //Jewel of Harmony
+14 43 15 255 2 2 63 //Lower Refining Stone
+14 44 15 255 2 2 63 //Higher Refining Stone
+14 45 15 255 2 2 63 //Haloween Pumpkin
+14 46 15 255 2 2 63 //Haloween Scroll
+14 47 15 255 2 2 63 //Haloween Scroll
+14 48 15 255 2 2 63 //Haloween Scroll
+14 49 15 255 2 2 63 //Haloween Strange Item
+14 50 15 255 2 2 63 //Haloween Pumpkin
+14 51 15 255 2 2 63 //Sky Event Ticket
+14 52 15 255 2 2 63 //GM Gift
+14 53 15 255 2 2 63 //Talisman of Luck
+14 54 15 255 2 2 63 //Chaos Card
+14 55 15 255 2 2 63 //Green Chaos Box
+14 56 15 255 2 2 63 //Red Chaos Box
+14 57 15 255 2 2 63 //Purple Chaos Box
+14 58 15 255 2 2 63 //Rare Item Ticket1
+14 59 15 255 2 2 63 //Rare Item Ticket2
+14 60 15 255 2 2 63 //Rare Item Ticket3
+14 61 15 255 2 2 63 //Rare Item Ticket4
+14 62 15 255 2 2 63 //Rare Item Ticket5
+14 63 15 255 2 2 63 //Firecracker
+14 64 15 255 2 2 63 //Cursed Castle Water
+14 65 15 255 2 2 63 //Flame of Death Beam Knight
+14 66 15 255 2 2 63 //Horn of Hell Maine
+14 67 15 255 2 2 63 //Feather of Phoenix of Darkn
+14 68 15 255 2 2 63 //Churchill's Eyes
+14 70 15 255 2 2 63 //Elite Healing Potion
+14 71 15 255 2 2 63 //Elite Mana Potion
+14 72 15 255 2 2 63 //Scroll of Quickness
+14 73 15 255 2 2 63 //Scroll of Defense
+14 74 15 255 2 2 63 //Scroll of Wrath
+14 75 15 255 2 2 63 //Scroll of Wizardry
+14 76 15 255 2 2 63 //Scroll of Health
+14 77 15 255 2 2 63 //Scroll of Mana
+14 78 15 255 2 2 63 //Elixir of Strength
+14 79 15 255 2 2 63 //Elixir of Agility
+14 80 15 255 2 2 63 //Elixir of Health
+14 81 15 255 2 2 63 //Elixir of Energy
+14 82 15 255 2 2 63 //Elixir of Control
+14 83 15 255 2 2 63 //Rare Item Ticket
+14 84 15 255 2 2 63 //Cherry Blossom Play-Box
+14 85 15 255 2 2 63 //Cherry Blossom Wine
+14 86 15 255 2 2 63 //Cherry Blossom Rice Cake
+14 87 15 255 2 2 63 //Cherry Blossom Flower Petal
+14 88 15 255 2 2 63 //White Cherry Blossom Branch
+14 89 15 255 2 2 63 //Red Cherry Blossom Branch
+14 90 15 255 2 2 63 //Golden Cherry Blossom Branch
+14 91 15 255 2 2 63 //Summoner Character Card
+14 92 15 255 2 2 63 //Chaos Card Gold
+14 93 15 255 2 2 63 //Chaos Card Rare
+14 94 15 255 2 2 63 //Medium Elite Healing Potion
+14 95 15 255 2 2 63 //Chaos Card Mini
+14 96 15 255 2 2 63 //Talisman of Chaos Assembly
+14 97 15 255 2 2 63 //Scroll of Battle
+14 98 15 255 2 2 63 //Scroll of Strength
+14 99 15 255 2 2 63 //Christmas Firecracker
+14 100 15 255 2 2 63 //Lucky Coin
+14 101 15 255 2 2 63 //Suspicious Scrap of Paper
+14 102 15 255 2 2 63 //Gaion¡¯s Order
+14 103 15 255 2 2 63 //First Secromicon Fragment
+14 104 15 255 2 2 63 //Second Secromicon Fragment
+14 105 15 255 2 2 63 //Third Secromicon Fragment
+14 106 15 255 2 2 63 //Fourth Secromicon Fragment
+14 107 15 255 2 2 63 //Fifth Secromicon Fragment
+14 108 15 255 2 2 63 //Sixth Secromicon Fragment
+14 109 15 255 2 2 63 //Complete Secromicon
+14 110 15 255 2 2 63 //Sign of Dimensions
+14 111 15 255 2 2 63 //Mirror of Dimensions
+14 112 15 255 2 2 63 //Silver Key
+14 113 15 255 2 2 63 //Gold Key
+14 114 15 255 2 2 63 //Master Skill Reset
+14 115 15 255 2 2 63 //Stat Adjustment
+14 116 15 255 2 2 63 //Character Relocation Service
+14 117 15 255 2 2 63 //Character Rename Service
+14 118 15 255 2 2 63 //Server Relocation Service
+14 119 15 255 2 2 63 //Premium Package
+14 120 15 255 2 2 63 //Goblin Gold Coin
+14 121 15 255 2 2 63 //Sealed Golden Box
+14 122 15 255 2 2 63 //Sealed Silver Box
+14 123 15 255 2 2 63 //Golden Box
+14 124 15 255 2 2 63 //Silver Box
+14 125 15 255 2 2 63 //Package Box
+14 126 15 255 2 2 63 //30-Day Pass
+14 127 15 255 2 2 63 //90-Day Pass
+14 128 15 255 2 2 63 //30-Day Pass - Points
+14 129 15 255 2 2 63 //90-Day Pass - Points
+14 130 15 255 2 2 63 //3-Hour Pass
+14 131 15 255 2 2 63 //5-Hour Pass
+14 132 15 255 2 2 63 //10-Hour Pass
+14 133 15 255 2 2 63 //Elite SD Potion
+14 134 15 255 2 2 63 //Package Box A
+14 135 15 255 2 2 63 //Package Box B
+14 136 15 255 2 2 63 //Package Box C
+14 137 15 255 2 2 63 //Package Box D
+14 138 15 255 2 2 63 //Package Box E
+14 139 15 255 2 2 63 //Package Box F
+14 140 15 255 2 2 63 //Scroll of Healing
+14 141 15 255 2 2 63 //Shining Jewelry Case
+14 142 15 255 2 2 63 //Elegant Jewelry Case
+14 143 15 255 2 2 63 //Steel Jewelry Case
+14 144 15 255 2 2 63 //Old Jewelry Case
+14 145 15 255 2 2 63 //Rare Item Ticket 7
+14 146 15 255 2 2 63 //Rare Item Ticket 8
+14 147 15 255 2 2 63 //Rare Item Ticket 9
+14 148 15 255 2 2 63 //Rare Item Ticket 10
+14 149 15 255 2 2 63 //Rare Item Ticket 11
+14 150 15 255 2 2 63 //Rare Item Ticket 12
+14 151 15 255 2 2 63 //1 level referral
+14 152 15 255 2 2 63 //1 level confirmation of referral
+14 153 15 255 2 2 63 //Stardust
+14 154 15 255 2 2 63 //Kalteuseok
+14 155 15 255 2 2 63 //Armor of Tantalus
+14 156 15 255 2 2 63 //Ashes of the butcher sticks
+14 157 15 255 2 2 63 //Green box
+14 158 15 255 2 2 63 //Red box
+14 159 15 255 2 2 63 //Borabit sangja
+14 160 15 255 2 2 63 //Extension of the jewelry
+14 161 15 255 2 2 63 //Rise of the jewelry
+14 162 15 255 2 2 63 //Magic Backpack
+14 163 15 255 2 2 63 //Vault Expansion Certif
+14 169 15 255 2 2 63 //RageFighter Character Card
+14 200 15 255 2 2 63 //Jewel of Level
+14 201 15 255 2 2 63 //Jewel of Luck
+14 202 15 255 2 2 63 //Jewel of Skill
+14 203 15 255 2 2 63 //Jewel of Option
+14 204 15 255 2 2 63 //Jewel of Ancient
+14 205 15 255 2 2 63 //Jewel of Excellent
+14 206 15 255 2 2 63 //Jewel of Socket
+
+//DW/SM/MG Scroll list 
+15 0 15 255 2 2 63 //Scroll of Poison
+15 1 15 255 2 2 63 //Scroll of Meteorite
+15 2 15 255 2 2 63 //Scroll of Lightning
+15 3 15 255 2 2 63 //Scroll of Fire Ball
+15 4 15 255 2 2 63 //Scroll of Flame
+15 5 15 255 2 2 63 //Scroll of Teleport
+15 6 15 255 2 2 63 //Scroll of Ice
+15 7 15 255 2 2 63 //Scroll of Twister
+15 8 15 255 2 2 63 //Scroll of Evil Spirits
+15 9 15 255 2 2 63 //Scroll of Hell Fire
+15 10 15 255 2 2 63 //Scroll of Power Wave
+15 11 15 255 2 2 63 //Scroll of Aqua Beam
+15 12 15 255 2 2 63 //Scroll of Blast
+15 13 15 255 2 2 63 //Scroll of Inferno
+15 14 15 255 2 2 63 //Scroll of Mass Teleport
+15 15 15 255 2 2 63 //Scroll of Soul Barrier
+15 16 15 255 2 2 63 //Scroll of Decay
+15 17 15 255 2 2 63 //Scroll of Ice Storm
+15 18 15 255 2 2 63 //Scroll of Nova
+15 19 15 255 2 2 63 //Scroll of Drain Life
+15 20 15 255 2 2 63 //Scroll of Chain Lighting
+15 21 15 255 2 2 63 //Scroll of Electric Surge
+15 22 15 255 2 2 63 //Scroll of Damage Reflex
+15 23 15 255 2 2 63 //Scroll of Night
+15 24 15 255 2 2 63 //Scroll of Sleep
+15 25 15 255 2 2 63 //Scroll of MagicSpeed Up
+15 26 15 255 2 2 63 //Scroll of MagicDefense Up
+15 27 15 255 2 2 63 //Scroll of Storm
+15 28 15 255 2 2 63 //Scroll of Magic Circle
+15 29 15 255 2 2 63 //Scroll of Ligthing Storm
+15 30 15 255 2 2 63 //Scroll of Chain Drive
+15 31 15 255 2 2 63 //Scroll of Dark Side
+15 32 15 255 2 2 63 //Scroll of Dragon Lore
+15 33 15 255 2 2 63 //Scroll of Dragon Slayer
+15 34 15 255 2 2 63 //Scroll of Red Armor Ignore
+15 35 15 255 2 2 63 //Scroll of Fitness
+15 36 15 255 2 2 63 //Defense success rate increase
+

@@ -1,0 +1,34 @@
+﻿<table class="tablecol">
+	<tr>
+		<td class="titcol2" colspan="2">Cr&eacute;ditos:</td>
+	</tr>
+	<tr>
+		<td class="datoscol" colspan="2">&nbsp;</td>
+	</tr>	<tr>
+		<td class="titcol" colspan="2">MagicHand:</td>
+	</tr>
+	<tr>
+		<td class="valcol"></td>
+		<td class="datoscol">Pelo desenvolvimento deste projeto</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">007jodex:</td>
+	</tr>
+	<tr>
+		<td class="valcol"></td>
+		<td class="datoscol">Testes<br />Tradu&ccedil;&atilde;o para Ingl&ecirc;s</td>
+	</tr>
+			<td class="titcol" colspan="2">tuniN:</td>
+	</tr>
+	<tr>
+		<td class="valcol"></td>
+		<td class="datoscol">Tradu&ccedil;&atilde;o para Portugu&ecirc;s BR</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Ema Leto:</td>
+	</tr>
+	<tr>
+		<td class="valcol"></td>
+		<td class="datoscol">Testes<br />Fornecer informa&ccedil;&otilde;es sobre os arquivos</td>
+	</tr>
+</table>

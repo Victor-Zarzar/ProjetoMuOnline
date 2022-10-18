@@ -1,0 +1,18 @@
+// ----------------------------------------------------\\
+//        Hospedagem feita por Rodrigo                 \\
+// 						       \\
+// File  Name : MuServer1.08s6Epi3+itens Viciados      \\
+// ViciadosMU: wWw.ViciadosMu.com.br                   \\
+// Creditos: shop@viciadosmu.com.br | skype viciadosmu \\
+// Disponibilizamos para ajudar a todos                \\
+// Compre produtos ou jogue em nossos servidores       \\
+// Shop ViciadosMu: wWw.Shop.ViciadosMu.com.br         \\
+// --------------------------------------------------- \\
+// Elegance Allen 414
+4 7 1 255 0 0 0 0 // Bolts+1
+4 7 2 255 0 0 0 0 // Bolts+2
+4 7 3 255 0 0 0 0 // Bolts+3
+4 15 1 255 0 0 0 0 // Arrows+1
+4 15 2 255 0 0 0 0 // Arrows+2
+4 15 3 255 0 0 0 0 // Arrows+3
+end

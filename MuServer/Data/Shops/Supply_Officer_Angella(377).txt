@@ -1,0 +1,20 @@
+// ----------------------------------------------------\\
+//        Hospedagem feita por Rodrigo                 \\
+// 						       \\
+// File  Name : MuServer1.08s6Epi3+itens Viciados      \\
+// ViciadosMU: wWw.ViciadosMu.com.br                   \\
+// Creditos: shop@viciadosmu.com.br | skype viciadosmu \\
+// Disponibilizamos para ajudar a todos                \\
+// Compre produtos ou jogue em nossos servidores       \\
+// Shop ViciadosMu: wWw.Shop.ViciadosMu.com.br         \\
+// --------------------------------------------------- \\
+// Supply Officer Angella 377
+4 7 1 255 0 0 0 0 //Arrows 
+4 15 1 255 0 0 0 0 //Bolts 
+4 7 2 255 0 0 0 0 //Arrows 
+4 15 2 255 0 0 0 0 //Bolts 
+4 7 3 255 0 0 0 0 //Arrows 
+4 15 3 255 0 0 0 0 //Bolts 
+
+13 29 0 0 0 0 0 0 //Armor of Guardman
+end

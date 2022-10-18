@@ -1,0 +1,23 @@
+﻿<table class="tablecol" width="100%">
+	<tr>
+		<td class="titcol" colspan="2">C1:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Values:</td>
+		<td class="datoscol">Between 0 and 255.</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">C2:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Values:</td>
+		<td class="datoscol">Between 0 and 255.</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Text:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Values:</td>
+		<td class="datoscol">Between 0 and 65535.</td>
+	</tr>
+</table>

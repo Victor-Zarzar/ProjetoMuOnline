@@ -1,0 +1,6 @@
+<table class="tablecol">
+	<tr>
+		<td class="titcol" colspan="2">Aqui voc&ecirc; poder&aacute; editar o arquivo de filtro do jogo, no qual corresponde as palavras
+        que seram filtradas, n&atilde;o poderam ser pronunciadas no jogo.</td>
+	</tr>
+</table>

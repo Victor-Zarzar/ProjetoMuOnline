@@ -1,0 +1,29 @@
+﻿<table class="tablecol">
+	<tr>
+		<td class="titcol2" colspan="2">При обзоре файлов на веб-е, у нас есть папка "Archivos", которая содержит нижеперечисленые ещё 5 папок:</td>
+	</tr>
+	<tr>
+		<td class="valcol2">bmd:</td>
+		<td class="datoscol2">Здесь должны быть помещены файлы с разрешением "BMD", например, item.bmd, text.bmd, и тп ... помещаються и файлы экспортированые с Excel</td>
+	</tr>
+	<tr>
+		<td class="valcol2">bmd_txt:</td>
+		<td class="datoscol2">Здесь tab-разделённый текст.</td>
+	</tr>
+	<tr>
+		<td class="valcol2">graficos:</td>
+		<td class="datoscol2">Здесь форматы файлов "jpg," "tga" and "bmp", которые получаем при декодирование файлов игры.</td>
+	</tr>
+	<tr>
+		<td class="valcol2">oz:</td>
+		<td class="datoscol2">Здесь форматы файлов "ozb, ozj" and "OZT" для декодирования, а также закодированные с папки "Графика" </td>
+	</tr>
+	<tr>
+		<td class="valcol2">wtf:</td>
+		<td class="datoscol2">Здесь форматы файлов "wtf" (message.wtf) и импортированные из Excel или CVS файлы.</td>
+	</tr>
+	<tr>
+		<td class="valcol2">xls:</td>
+		<td class="datoscol2">Здесь декодированные файлы для редактирования в Excel.</td>
+	</tr>
+</table>

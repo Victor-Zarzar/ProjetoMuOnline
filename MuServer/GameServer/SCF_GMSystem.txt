@@ -1,0 +1,15 @@
+// ----------------------------------------------------\\
+//        Hospedagem feita por Rodrigo                 \\
+// 						       \\
+// File  Name : MuServer1.08s6Epi3+itens Viciados      \\
+// ViciadosMU: wWw.ViciadosMu.com.br                   \\
+// Creditos: shop@viciadosmu.com.br | skype viciadosmu \\
+// Disponibilizamos para ajudar a todos                \\
+// Compre produtos ou jogue em nossos servidores       \\
+// Shop ViciadosMu: wWw.Shop.ViciadosMu.com.br         \\
+// --------------------------------------------------- \\
+//Name			GMLevel	ExpDay	ExpMonth	ExpYear		/pkclear	/pkset	/item	/skin	/gg	/gmoveall	/whois	/addbuff	/clearinv	/firecracker	/addskill	/spawn	/status	ALLBANCOMMANDS	/vipstatus	/setzen		/online		/playerinfo	/setvip		CastleSiegeCMDS
+1
+"nickADMIN"		32	31	12		2030		1		1	1	1	1	1		1	1		1		1		1		1	1	1		1		1		1		1		1		1
+"nickGM"		32	31	12		2030		1		1	1	1	1	1		1	1		1		1		1		1	1	1		1		1		1		1		1		1
+end

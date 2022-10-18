@@ -1,0 +1,38 @@
+// ----------------------------------------------------\\
+//        Hospedagem feita por Rodrigo                 \\
+// 						       \\
+// File  Name : MuServer1.08s6Epi3+itens Viciados      \\
+// ViciadosMU: wWw.ViciadosMu.com.br                   \\
+// Creditos: shop@viciadosmu.com.br | skype viciadosmu \\
+// Disponibilizamos para ajudar a todos                \\
+// Compre produtos ou jogue em nossos servidores       \\
+// Shop ViciadosMu: wWw.Shop.ViciadosMu.com.br         \\
+// --------------------------------------------------- \\
+// Eo Craftsman 243
+
+11 13 8 0 0 1 1 0 //Spirit boots
+10 13 8 0 0 1 1 0 //Spirit Gloves
+9 13 8 0 0 1 1 0 // Spirit Pants
+8 13 8 0 0 1 1 0 //Spirit armor
+7 13 8 0 0 1 1 0 //Spirit helm
+
+11 14 8 0 0 1 1 0 //Guardian boots
+10 14 8 0 0 1 1 0 //Guardian Gloves
+9 14 8 0 0 1 1 0 //Guardian Pants
+8 14 8 0 0 1 1 0 //Guardian armor
+7 14 8 0 0 1 1 0 //Guardian helm
+
+4 8 8 0 1 1 1 0 //Crossbow
+4 9 8 0 1 1 1 0 //Golden Crossbow
+4 0 8 0 1 1 1 0 //Short Bow
+4 1 8 0 1 1 1 0 //Bow
+4 2 8 0 1 1 1 0 //Elven Bow
+4 3 8 0 1 1 1 0 //Battle Bow
+4 11 8 0 1 1 1 0 //Light Crossbow
+4 4 8 0 1 1 1 0 //Tiger Bow
+4 10 8 0 1 1 1 0 //Arquebus
+6 3 8 0 1 1 1 0 //Elven Shield
+
+
+
+end

@@ -1,0 +1,32 @@
+// ----------------------------------------------------\\
+//        Hospedagem feita por Rodrigo                 \\
+// 						       \\
+// File  Name : MuServer1.08s6Epi3+itens Viciados      \\
+// ViciadosMU: wWw.ViciadosMu.com.br                   \\
+// Creditos: shop@viciadosmu.com.br | skype viciadosmu \\
+// Disponibilizamos para ajudar a todos                \\
+// Compre produtos ou jogue em nossos servidores       \\
+// Shop ViciadosMu: wWw.Shop.ViciadosMu.com.br         \\
+// --------------------------------------------------- \\
+// Raul 546
+
+7 59 0 255 0 0 0 0 //Set Sacred
+8 59 0 255 0 0 0 0 //Set Sacred
+9 59 0 255 0 0 0 0 //Set Sacred
+11 59 0 255 0 0 0 0 //Set Sacred
+
+7 60 0 255 0 0 0 0 //Set Storm
+8 60 0 255 0 0 0 0 //Set Storm
+9 60 0 255 0 0 0 0 //Set Storm
+11 60 0 255 0 0 0 0 //Set Storm
+
+0 32 0 255 0 0 0 0 //Sacred Glove
+0 33 0 255 0 0 0 0 //Storm Hard Glove
+
+15 31 0 255 0 0 0 0 //Skills RG
+15 32 0 255 0 0 0 0 //Skills RG
+15 33 0 255 0 0 0 0 //Skills RG
+15 34 0 255 0 0 0 0 //Skills RG
+15 35 0 255 0 0 0 0 //Skills RG
+15 36 0 255 0 0 0 0 //Skills RG
+end

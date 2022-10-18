@@ -1,0 +1,10 @@
+﻿<table class="tablecol">
+	<tr>
+		<td class="titcol" colspan="2">Teste:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">	
+Ainda não sei como esse arquivo funciona, espero ter tempo para compreender a sua estrutura de an&aacute;lise e, se algu&eacute;m souber alguma coisa sobre este arquivo,me envie por e-mail, obrigado</td>
+	</tr>
+</table>

@@ -1,0 +1,34 @@
+﻿<table class="tablecol">
+	<tr>
+		<td class="titcol2" colspan="2">Informaci&oacute; aportado por <b>croix™</b></td>
+	</tr>
+	<tr>
+		<td class="datoscol" colspan="2">&nbsp;</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">C1:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">Valores Entre 1 y 3: Estos valores son los que indican el orden en que aparecera la Informacion en la pantalla de Creditos del Cliente.  (1 Byte).</td>
+	</tr>
+	<tr>
+		<td class="valcol">&nbsp;</td>
+		<td class="datoscol">
+			<img src="i18n/images/credit.jpg" border="0" />
+			<br />En la imagen estan marcados los valores 1 - 2 - 3 ahora paso a explicarles mejor
+			<br />Como veran la primera linea dice STAFF, esta linea en el editor les saldra con valor 1 en la columna C1 del editor, ya que este valor hace referencia a que la informacion que conlleve cualquier valor 1 figurara en el primer lugar de los Creditos, algo asi como un Titulo
+			<br />Si continuamos observando luego en la segunda linea nos encontramos con Technical Directors la cual en el editor si la buscan tendra el valor 2 en la columna C1 lo cual nos determina que la informacion, en este caso Technical Directors figurara como un Subtitulo, osea en la segunda linea de los Creditos.
+			<br />Y finalmente nos encontramos con la tercera linea en la que figuran los nombres de las personas a las cuales hacen referencia los creditos, si buscan en el editor estos Nombres propios tendran el valor 3 en la columna C1 determinando asi que su ubicacion en la pantalla de los Creditos sera la tercera linea.
+		</td>
+	</tr>
+
+
+	<tr>
+		<td class="titcol" colspan="2">Info:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">Texto hasta 32 caracteres (32 Bytes)</td>
+	</tr>
+</table>

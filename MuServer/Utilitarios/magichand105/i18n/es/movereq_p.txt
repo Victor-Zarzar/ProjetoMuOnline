@@ -1,0 +1,51 @@
+<table class="tablecol">
+	<tr>
+		<td class="titcol" colspan="2">Id:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">Deberia ser autonumerico, comenzando en 1</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Nombre en Server:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">Hasta 32 caracteres.</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Nombre en Cliente:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">Hasta 32 caracteres.</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Lvl Req:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">Entre 0 y  65.535<br />Es el lvl necesario para poder usar el Gate (2 Bytes)</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Nuevo:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">Entre 0 y  65.535<br />Aparece en las nuevas Versiones, si alguien sabe bien para que sirve espero aportes.</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Zen:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">Entre 0 y  y 16.777.215<br />Es el zen necesario para poder usar el Gate (3 Bytes)</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Gate:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">Entre 0 y 511<br />Es el gate de destino, podr&iacute;a aceptar mas pero eso son los gates definidos en el juego actualmente (2 Bytes)</td>
+	</tr>
+</table>

@@ -1,0 +1,23 @@
+﻿<table class="tablecol" width="100%">
+	<tr>
+		<td class="titcol" colspan="2">C1:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Значение:</td>
+		<td class="datoscol">Между 0 и 255.</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">C2:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Значение:</td>
+		<td class="datoscol">Между 0 и 255.</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Text:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Значение:</td>
+		<td class="datoscol">Между 0 и 65535.</td>
+	</tr>
+</table>

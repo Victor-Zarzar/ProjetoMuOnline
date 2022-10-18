@@ -1,0 +1,30 @@
+﻿<table class="tablecol">
+	<tr>
+		<td class="titcol" colspan="2">X:</td>
+	</tr>
+	<tr>
+		<td class="valcol"></td>
+		<td class="datoscol"></td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Y:</td>
+	</tr>
+	<tr>
+		<td class="valcol"></td>
+		<td class="datoscol"></td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Angulo de Rotación:</td>
+	</tr>
+	<tr>
+		<td class="valcol"></td>
+		<td class="datoscol"></td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Texto:</td>
+	</tr>
+	<tr>
+		<td class="valcol"></td>
+		<td class="datoscol"></td>
+	</tr>
+</table>

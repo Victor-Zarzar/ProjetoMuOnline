@@ -1,0 +1,5 @@
+<table class="tablecol">
+	<tr>
+		<td class="titcol2" colspan="2">Informaci&oacute;n por Agregar</td>
+	</tr>
+</table>

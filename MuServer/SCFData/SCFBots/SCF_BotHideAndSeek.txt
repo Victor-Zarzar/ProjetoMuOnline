@@ -1,0 +1,44 @@
+// ----------------------------------------------------\\
+//        Hospedagem feita por Rodrigo                 \\
+// 						       \\
+// File  Name : MuServer1.08s6Epi3+itens Viciados      \\
+// ViciadosMU: wWw.ViciadosMu.com.br                   \\
+// Creditos: shop@viciadosmu.com.br | skype viciadosmu \\
+// Disponibilizamos para ajudar a todos                \\
+// Compre produtos ou jogue em nossos servidores       \\
+// Shop ViciadosMu: wWw.Shop.ViciadosMu.com.br         \\
+// --------------------------------------------------- \\
+//Bot Data
+//	Class	Name
+1
+
+end
+
+//BotPet Items
+//Slot:
+//0 = Weapon
+//1 = Shield
+//2 = Helm
+//3 = Armor
+//4 = Pants
+//5 = Gloves
+//6 = Boots
+//7 = Wings
+//8 = Pet
+
+//	Slot	Type	Index	Level	Opt
+2
+
+end
+
+//Bot Position Info
+//	Map	X1	Y1	X2	Y2	Message
+3
+
+end
+
+//Bot Rewards
+4
+//	ItemType	ItemIndex	iLevel	iOpt	iLuck	iSkill	iDur	iExc	iAnc
+
+end

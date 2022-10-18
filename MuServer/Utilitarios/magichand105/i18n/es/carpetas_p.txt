@@ -1,0 +1,49 @@
+<table class="tablecol">
+	<tr>
+		<td class="titcol2" colspan="2">Dentro de la carpteta ... tenemos la carpeta "archivos" que contiene las siguientes 5 carpetas:</td>
+	</tr>
+	<tr>
+		<td class="valcol2">att:</td>
+		<td class="datoscol2">Aqui se deben colocar los archivos con extencion "att" como EncTerrain1.att.</td>
+	</tr>
+	<tr>
+		<td class="valcol2">bmd:</td>
+		<td class="datoscol2">Aqui se deben colocar los archivos con extencion "bmd" como item.bmd, text.bmd, etc..., tambien aqui apareceran los archivos que sean importados desde excel o de los archivos cvs.</td>
+	</tr>
+	<tr>
+		<td class="valcol2">bmd_txt:</td>
+		<td class="datoscol2">Aqui van los textos delimitados por tabuladores.</td>
+	</tr>
+	<tr>
+		<td class="valcol2">deco_att:</td>
+		<td class="datoscol2">Aqui aprareceran los archivos "att" que se han decodificado y se deben colocar los archivos con extencion "att" decodificados que se quieran codificar.</td>
+	</tr>
+	<tr>
+		<td class="valcol2">deco_map:</td>
+		<td class="datoscol2">Aqui aprareceran los archivos "map" que se han decodificado y se deben colocar los archivos con extencion "map" decodificados que se quieran codificar.</td>
+	</tr>
+	<tr>
+		<td class="valcol2">graficos:</td>
+		<td class="datoscol2">Aqui van los archivos de formato "jpg", "tga" y "bmp" que se optienen al decodigicar los archivos correspondientes del juego.</td>
+	</tr>
+	<tr>
+		<td class="valcol2">main:</td>
+		<td class="datoscol2">Aqui se deberan colocar los main a los que se les quiera cambiar los valores como IP, serial, etc.</td>
+	</tr>
+	<tr>
+		<td class="valcol2">map:</td>
+		<td class="datoscol2">Aqui se deben colocar los archivos con extencion "map" como EncTerrain12.map.</td>
+	</tr>
+	<tr>
+		<td class="valcol2">oz:</td>
+		<td class="datoscol2">Aqui van los archivos de formato "ozb", "ozj" y "ozt" para ser decodificados asi como los que se codifiquen desde la carptea "graficos". </td>
+	</tr>
+	<tr>
+		<td class="valcol2">wtf:</td>
+		<td class="datoscol2">Aqui van los archivos de formato "wtf" (message.wtf) y los importados desde excel o de los archivos cvs.</td>
+	</tr>
+	<tr>
+		<td class="valcol2">xls:</td>
+		<td class="datoscol2">Aqui van los decodificados para ser editados en excel.</td>
+	</tr>
+</table>

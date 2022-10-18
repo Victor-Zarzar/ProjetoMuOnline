@@ -1,0 +1,65 @@
+<table class="tablecol">
+	<tr>
+		<td class="titcol" colspan="2">Flag:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">Entre 0 y 2<br />0<br />1<br />2</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Mapa:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">Entre 0 y 255<br />Es el numero de mapa  en el que va el gate, 0 Lorencia, etc.</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">X1:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">Entre 0 y 255<br />La posici&oacute;n del gate se define por 2 puntos (X1, Y1), (X2, Y2)  de tal forma que alguien que pase por la línea formada por esos 2 puntos será transportado al gate escrito en "GateDestino" si el gate es de tipo "1".</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Y1:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">Entre 0 y 255<br />Ya descrito "X1"</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">X2:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">Entre 0 y 255<br />Ya descrito "X1"</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Y2:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">Entre 0 y 255<br />Ya descrito "X1"</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">GateDestino:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">Entre 0 y  511 (Podr&iacute;a aceptar mas pero eso son los gates definidos en el juego actualmente.<br />Si el gate es de tipo "1" en este lugar va el gate  de destino, el cual acostumbra ser un gate tipo "2".</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Dir:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">Entre 0 y  7<br />Es la posici&oacute;n en la que aparecer&aacute; el pj. al ser transportado, los valores aparecen en la siguiente imagen y corresponden a la c&aacute;mara original sin rotaciones.</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Nivel:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">Entre 0 y 65535<br />Es el nivel necesario para poder utilizar el gate, una mala configuración  en este archivo hace aparecer que al querer tele transportarse, aparezcan valores de miles o decena de miles de niveles necesarios para dicho transporte.</td>
+	</tr>
+</table>

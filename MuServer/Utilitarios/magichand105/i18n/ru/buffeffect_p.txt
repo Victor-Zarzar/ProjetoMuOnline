@@ -1,0 +1,69 @@
+﻿<table class="tablecol">
+<tr>
+	<td class="titcol2" colspan="2">Информация предоставлена <b>Ema Leto (Magu)</b></td>
+</tr>
+<td class="datoscol" colspan="2">&nbsp;</td>
+<tr>
+<td class="titcol" colspan="2">Показатель:</td>
+</tr>
+<tr>
+<td class="valcol">Значение:</td>
+<td class="datoscol">Nº навыка</td>
+</tr>
+<tr>
+<td class="titcol" colspan="2">V.Port:</td>
+</tr>
+<tr>
+<td class="valcol">Значение:</td>
+<td class="datoscol">Нет<br /></td>
+</tr>
+<tr>
+<td class="titcol" colspan="2">Тип:</td>
+</tr>
+<tr>
+<td class="valcol">Значение:</td>
+<td class="datoscol">-1, если элемент не имеет навыка. Пример, типа вещи: (13 43 "Tensile of Increase") 13 тип вещи</td>
+</tr>
+<tr>
+<td class="titcol" colspan="2">Вещь:</td>
+</tr>
+<tr>
+<td class="valcol">Значение:</td>
+<td class="datoscol">-1, если элемент не имеет навыка. Пример, номер вещи: (13 43 "Tensile of Increase") 43 номер вещи</td>
+</tr>
+<tr>
+<td class="titcol" colspan="2">Имя:</td>
+</tr>
+<tr>
+<td class="valcol">Значение:</td>
+<td class="datoscol">Название умения</td>
+</tr>
+<tr>
+<td class="titcol" colspan="2">Тип:</td>
+</tr>
+<tr>
+<td class="valcol">Значение:</td>
+<td class="datoscol">Если навык персонажа, то 1, если монстра - 0</td>
+</tr>
+<tr>
+<td class="titcol" colspan="2">X:</td>
+</tr>
+<tr>
+<td class="valcol">Значение:</td>
+<td class="datoscol">Нет</td>
+</tr>
+<tr>
+<td class="titcol" colspan="2">Y:</td>
+</tr>
+<tr>
+<td class="valcol">Значение:</td>
+<td class="datoscol">Нет</td>
+</tr>
+<tr>
+<td class="titcol" colspan="2">Описание:</td>
+</tr>
+<tr>
+<td class="valcol">Значение:</td>
+<td class="datoscol">Описание умения, например, если это было в названии (Increase Attack Power), чтобы добавить некоторые описания, например: Increase Attack Power</td>
+</tr>
+</table>

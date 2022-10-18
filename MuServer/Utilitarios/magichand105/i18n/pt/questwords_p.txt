@@ -1,0 +1,5 @@
+<table class="tablecol">
+	<tr>
+		<td class="titcol2" colspan="2">N&atilde;o tenho informa&ccedil;&otilde;es sobre as colunas (Se conhecer espero sua dica)</td>
+	</tr>
+</table>

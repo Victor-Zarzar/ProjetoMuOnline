@@ -1,0 +1,5 @@
+<table class="tablecol">
+	<tr>
+		<td class="titcol2" colspan="2">Edi&ccedil;&atilde;o do arquivo Gate em txt</td>
+	</tr>
+</table>

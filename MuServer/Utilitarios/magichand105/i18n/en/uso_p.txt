@@ -1,0 +1,33 @@
+<table class="tablecol">
+	<tr>
+		<td class="titcol2" colspan="2">How to use?:</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="datoscol2">To use it simply must choose to edit the file on the left.</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="datoscol2">As an example to edit the file "MoveReq.bmd" we click or double-click the folder "Archivos\BMD" on the left, then select "MoveReq" appear on the right side 2 parts, the links below and find the specifications that post ( specifications if they are missing and I know would appreciate the move to complete it).</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="datoscol2">In "Enlaces" select "Edit File MoveReq.bmd", a new window with the files that are named in the "BMD" inside the folder "archivos".</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="datoscol2">Clicking one of the files uploaded will be able to edit.</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="datoscol2">Can be edited by double-clicking as well as by "Enter" on any of the fields and navigating with the arrow keys.</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="datoscol2">If that does not put values are correct that field will appear highlighted with red, and by placing the mouse on the show which are the correct values, so you can see the correct values by placing the mouse on the title of the column.
+buscar</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="datoscol2">Note that when you change a field that appears with a red triangle in upper left corner.</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="datoscol2">After making the corresponding changes to save the changes we click on "Save movereq.bmd" at this point a dialog appears in which type if the original file is not modified, eg if I write "aaa" The file created will be "MoveReqaaa.bmd", so if you want to save changes to the original file must not write anything and just put OK <b>Is really easy</b>.</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="datoscol2">In moving the image files to keep in mind that all files in the folder "oz" or the "graphics" will be converted and will overwrite.</td>
+	</tr>
+</table>

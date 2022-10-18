@@ -1,0 +1,29 @@
+<table class="tablecol">
+	<tr>
+		<td class="titcol2" colspan="2">Reviewing the files of the web, we have the folder "Archivos" which contains the following 5 folders:</td>
+	</tr>
+	<tr>
+		<td class="valcol2">bmd:</td>
+		<td class="datoscol2">Here should be placed files extension "BMD" as item.bmd, text.bmd, etc ..., appear and it is here where the files exported from excel</td>
+	</tr>
+	<tr>
+		<td class="valcol2">bmd_txt:</td>
+		<td class="datoscol2">Here are the tab-delimited text.</td>
+	</tr>
+	<tr>
+		<td class="valcol2">Graficos:</td>
+		<td class="datoscol2">Here are the format files "jpg," "tga" and "bmp", which are obtained by decoding the files of the game.</td>
+	</tr>
+	<tr>
+		<td class="valcol2">oz:</td>
+		<td class="datoscol2">Here are the format files "ozb, ozj" and "OZT" to be decoded as well as those encoded from the folder "graficos" </td>
+	</tr>
+	<tr>
+		<td class="valcol2">wtf:</td>
+		<td class="datoscol2">Here are the format files "wtf" (message.wtf) and those imported from excel or cvs files.</td>
+	</tr>
+	<tr>
+		<td class="valcol2">xls:</td>
+		<td class="datoscol2">Here are the decoded for editing in excel.</td>
+	</tr>
+</table>

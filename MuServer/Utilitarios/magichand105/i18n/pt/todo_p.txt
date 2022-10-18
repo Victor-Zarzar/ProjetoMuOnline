@@ -1,0 +1,8 @@
+<table class="tablecol" width="100%">
+	<tr>
+		<td class="titcol2" colspan="2">Quer acrescentar alguma coisa?</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="datoscol2">Acha que ainda preciso fazer? Voc&ecirc; pode enviar suas sugest&otilde;es para: <a href="mailto:mu.editor.magichand@gmail.com">mu.editor.magichand@gmail.com</a></td>
+	</tr>
+</table>

@@ -1,0 +1,56 @@
+// ----------------------------------------------------\\
+//        Hospedagem feita por Rodrigo                 \\
+// 						       \\
+// File  Name : MuServer1.08s6Epi3+itens Viciados      \\
+// ViciadosMU: wWw.ViciadosMu.com.br                   \\
+// Creditos: shop@viciadosmu.com.br | skype viciadosmu \\
+// Disponibilizamos para ajudar a todos                \\
+// Compre produtos ou jogue em nossos servidores       \\
+// Shop ViciadosMu: wWw.Shop.ViciadosMu.com.br         \\
+// --------------------------------------------------- \\
+
+//Index	Nombre en Server                 	Nombre en Cliente                	Zen  	Lvl Req	Gate
+1	Arena				        Arena				        2000	50	50
+2	Stadium				        Stadium					2000	50	355
+3	Lorencia				Lorencia				2000	10	17
+4	Noria					Noria					2000	10	27
+5	Elbeland				Elbeland				2000	10	267
+6	Elbeland2				Elbeland2				2500	30	268
+7	Elbeland3				Elbeland3				3000	40	269
+8	Devias					Devias					2000	15	22
+9	Devias2					Devias2					2500	30	72
+10	Devias3					Devias3					3000	45	73
+11	Devias4					Devias4					3500	60	74
+12	Dungeon					Dungeon					3000	20	2
+13	Dungeon2				Dungeon2				3500	50	6
+14	Dungeon3				Dungeon3				4000	60	10
+15	Atlans					Atlans					4000	70	49
+16	Atlans2					Atlans2					4500	80	75
+17	Atlans3					Atlans3					5000	90	76
+18	LostTower				LostTower				5000	90	42
+19	LostTower2				LostTower2				5500	90	31
+20	LostTower3				LostTower3				6000	100	33
+21	LostTower4				LostTower4				6500	100	35
+22	LostTower5				LostTower5				7000	110	37
+23	LostTower6				LostTower6				7500	110	39
+24	LostTower7				LostTower7				8000	120	41
+25	Tarkan					Tarkan					8000	130	57
+26	Tarkan2					Tarkan2					8500	140	77
+27	Aida					Aida					8500	130	119
+28	Aida2					Aida2					8500	230	140
+29	Aida3					Aida3					190000	250	334
+30	Icarus					Icarus					150000	170	63
+31	Kanturu1				Kanturu1				200000	160	138
+32	Kanturu2				Kanturu2				15000	180	141
+33	Kanturu3				Kanturu3				19000	200	335
+34	KanturuRemain				KanturuRemain				20000	230	139
+35	Raklion					Raklion					25000	230	287
+36	Raklion2				Raklion2				29000	400	336
+37	SwampOfCalmness				SwampOfCalmness				30000	400	273
+38      Karutan                                 Karutan                                 10000   170     339
+39      Karutan2                                Karutan2                                10000   170     344
+40	ValleyOfLoren 				ValleyOfLoren               		10000	150	104
+41	LorenMarket				LorenMarket				10000	10	333
+42	CrywolfFortress				CrywolfFortress				27000	100	118
+43      BalgassBarracks                         BalgassBarracks                         15000   300     256
+44      BalgassRefuge                           BalgassRefuge                           15000   300     257

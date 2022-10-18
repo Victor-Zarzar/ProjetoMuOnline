@@ -1,0 +1,16 @@
+<table class="tablecol" width="100%">
+	<tr>
+		<td class="titcol" colspan="2">C1:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Values:</td>
+		<td class="datoscol">Line number used by the Internal Server</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Texto:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Values:</td>
+		<td class="datoscol">Theoretically more than 4 million:) (I do not think anyone write so much)</td>
+	</tr>
+</table>

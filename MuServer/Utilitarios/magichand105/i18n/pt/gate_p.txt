@@ -1,0 +1,67 @@
+<table class="tablecol">
+	<tr>
+		<td class="titcol" colspan="2">Flag:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">Entre 0 e 2<br />0<br />1<br />2</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Mapa:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">Entre 0 e 255<br />Este &eacute; o n&uacute;mero do mapa. 0 Lorencia, 1 Dungeon, 2 Devias etc ...</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">X1:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">Entre 0 e 255<br />A posi&ccedil;&atilde;o do gate, definida por 2 pontos (X1, e Y1), (X2, e Y2).Qualquer pessoa que passa pela linha formada por 2 pontos que ser&atilde;o transportados para o Gate por escrito "Gate Destino" se O Gate for um "1".</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Y1:<br />Mesma descri&ccedil;&atilde;o contida em "X1"</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">Entre 0 e 255<br />Mesma descri&ccedil;&atilde;o contida em "X1"</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">X2:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">Entre 0 e 255<br />Mesma descri&ccedil;&atilde;o contida em "X1"<</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Y2:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">Entre 0 e 255<br />Mesma descri&ccedil;&atilde;o contida em "X1"<</td>
+ 	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Gate de Destino:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">Entre 0 e  511<br /> Se o port&atilde;o &eacute; um "1" neste lugar &eacute; a porta de destino, o port&atilde;o que costumava ser um "tipo 2".</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Dire&ccedil;&atilde;o:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">Entre 0 e  7<br />&Eacute; a posi&ccedil;&atilde;o
+         em que o perssonagem aparece ao ser transportado.</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Level:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">Entre 0 e 65535<br />Level necess&aacute;rio para usar o Gate.
+    </td>
+	</tr>
+</table>

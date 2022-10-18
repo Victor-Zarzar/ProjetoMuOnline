@@ -1,0 +1,28 @@
+﻿<table class="tablecol">
+	<tr>
+		<td class="titcol2" colspan="2">Кредиты:</td>
+	</tr>
+	<tr>
+		<td class="datoscol" colspan="2">&nbsp;</td>
+	</tr>	<tr>
+		<td class="titcol" colspan="2">MagicHand:</td>
+	</tr>
+	<tr>
+		<td class="valcol"></td>
+		<td class="datoscol">Разбработка этого проэкта</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">007jodex:</td>
+	</tr>
+	<tr>
+		<td class="valcol"></td>
+		<td class="datoscol">Тестирование<br />Перевод на английский</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Ema Leto:</td>
+	</tr>
+	<tr>
+		<td class="valcol"></td>
+		<td class="datoscol">Тестирование<br />Предоставление информации о файлах</td>
+	</tr>
+</table>

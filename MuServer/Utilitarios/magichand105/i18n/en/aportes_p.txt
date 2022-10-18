@@ -1,0 +1,9 @@
+<table class="tablecol">
+	<tr>
+		<td class="titcol2" colspan="2">Want to contribute???</td>
+	</tr>
+	<tr>
+		<td class="datoscol2" colspan="2">If you think an idea to improve the program, or a new functionality. 			
+		You can send me your idea to my email <a href="mailto:mu.editor.magichand@gmail.com">mu.editor.magichand@gmail.com</a></td>
+	</tr>
+</table>

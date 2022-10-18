@@ -1,0 +1,1 @@
+00:14:47  [Drop System][aguila][AguilaCP] Kill:35[4,91,86] Found: 1, Pos: [0/0], Rate: [140 => 128-7310][0] Item:[Suspicious Scrap of Paper][0][0][0][0 => 0] Exc:[0 => 0]

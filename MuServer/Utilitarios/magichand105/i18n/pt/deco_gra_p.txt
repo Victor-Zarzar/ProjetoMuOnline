@@ -1,0 +1,57 @@
+﻿<table class="tablecol">
+	<tr>
+		<td class="titcol" colspan="2">Como decodificar os arquivos:</td>
+	</tr>
+	<tr>
+		<td class="valcol"></td>
+		<td class="datoscol">Para decodificar os arqu&iacute;vos gr&aacute;ficos, eles devem estar localizados no diret&oacute;rio <b>"archivos/oz"</b> ap&oacute;s eles serem decodifcaods seram ser salvos no diret&oacute;rio <b>"archivos/graficos"</b></td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Como codificar os arquivos:</td>
+	</tr>
+	<tr>
+		<td class="valcol"></td>
+		<td class="datoscol">Para codificar os arquivos gr&aacute;ficos, eles devem estar localizados no diret&oacute;rio <b>"archivos/graficos"</b>, ap&oacute;s serem codificicados seram ser salvos no diret&oacute;rio <b>"archivos/oz"</b></td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">OZB:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Formato:</td>
+		<td class="datoscol">Corresponde  ao formato "BMP" , &ecute; obtido mediante a repeti&ccedil;&aacute;o nos primeiros 4 bytes para o in&iacute;cio</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">OZJ:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Formato:</td>
+		<td class="datoscol">Corresponde  ao formato "JPG" , &eacute; obtido mediante a repeti&ccedil;&aacute;o nos primeiros 24 bytes para o in&iacute;cio<</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">OZT:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Formato:</td>
+		<td class="datoscol">Corresponde  ao formato "TGA" , &eacute; obtido mediante a repeti&ccedil;&aacute;o nos primeiros 4 bytes para o in&iacute;cio<</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">BMP:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Formato:</td>
+		<td class="datoscol">Corresponde  ao formato "OZB", &eacute; obtido mediante a repeti&ccedil;&aacute;o nos primeiros 4 bytes para o in&iacute;cio<</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">JPG:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Formato:</td>
+		<td class="datoscol">Corresponde  ao formato "OZJ" , &eacute; obtido mediante a repeti&ccedil;&aacute;o nos primeiros 24 bytes para o in&iacute;cio</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">TGA:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Formato:</td>
+		<td class="datoscol">CCorresponde  ao formato "OZT" , &eacute; obtido mediante a repeti&ccedil;&aacute;o nos primeiros 4 bytes para o in&iacute;cio</td>
+	</tr></table>

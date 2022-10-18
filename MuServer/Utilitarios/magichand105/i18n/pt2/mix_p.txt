@@ -1,0 +1,9 @@
+<table class="tablecol">
+	<tr>
+		<td class="titcol" colspan="2">Testeo:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">Aun no se como trabaja este archivo, espero tener tiempo para poder analizarlo y entender su estructura, si alguien sabe algo de este archivo se agradece</td>
+	</tr>
+</table>

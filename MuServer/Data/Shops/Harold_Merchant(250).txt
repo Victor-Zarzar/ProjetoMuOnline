@@ -1,0 +1,38 @@
+// ----------------------------------------------------\\
+//        Hospedagem feita por Rodrigo                 \\
+// 						       \\
+// File  Name : MuServer1.08s6Epi3+itens Viciados      \\
+// ViciadosMU: wWw.ViciadosMu.com.br                   \\
+// Creditos: shop@viciadosmu.com.br | skype viciadosmu \\
+// Disponibilizamos para ajudar a todos                \\
+// Compre produtos ou jogue em nossos servidores       \\
+// Shop ViciadosMu: wWw.Shop.ViciadosMu.com.br         \\
+// --------------------------------------------------- \\
+// // Harold Lorencia
+// type index level
+
+14 1 7 255 0 0 0 0 //Small Heal Pot+7
+14 2 7 255 0 0 0 0 //Medium Heal Pot+7
+14 3 7 255 0 0 0 0 //Large Heal Pot+7
+14 4 7 255 0 0 0 0 //Small Mana Pot+7
+14 5 7 255 0 0 0 0 //Medium Mana Pot+7
+14 6 7 255 0 0 0 0 //Large Mana Pot+7
+
+12 	21 	9 	100 	0 	0 	0 	0	//FireBrust Spell
+12 	23 	9 	100 	0 	0 	0 	0	//Critical Damage Spell
+12 	24 	9 	100 	0 	0 	0 	0	//Electric Spark Spell
+12 	22 	9 	100 	0 	0 	0 	0	//Summon Spell
+12 	35 	9 	100 	0 	0 	0 	0	//Scroll of Fire Scream
+12 	48	9 	100 	0 	0 	0 	0	//Scroll Of Birds
+
+7 6 7 40 0 0 0 0 //Scale Helm+
+8 6 7 40 0 0 0 0 //Scale Armor+7
+9 6 7 40 0 0 0 0 //Scale Pants+7
+10 6 7 40 0 0 0 0 //Scale Gloves+7
+11 6 7 40 0 0 0 0 //Scale Boots+7
+
+2 	10 	9 	255 	1 	1 	0 	0	//Great Scepter
+2 	11 	9 	255 	1 	1 	0 	0	//Lord Scepter
+
+end
+

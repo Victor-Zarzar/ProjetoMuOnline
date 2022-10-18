@@ -1,0 +1,37 @@
+// ----------------------------------------------------\\
+//        Hospedagem feita por Rodrigo                 \\
+// 						       \\
+// File  Name : MuServer1.08s6Epi3+itens Viciados      \\
+// ViciadosMU: wWw.ViciadosMu.com.br                   \\
+// Creditos: shop@viciadosmu.com.br | skype viciadosmu \\
+// Disponibilizamos para ajudar a todos                \\
+// Compre produtos ou jogue em nossos servidores       \\
+// Shop ViciadosMu: wWw.Shop.ViciadosMu.com.br         \\
+// --------------------------------------------------- \\
+// Silvia 415
+15 19 0 255 0 0 0 0
+15 20 0 255 0 0 0 0
+15 21 0 255 0 0 0 0
+15 22 0 255 0 0 0 0
+15 23 0 255 0 0 0 0
+15 24 0 255 0 0 0 0
+15 25 0 255 0 0 0 0
+15 26 0 255 0 0 0 0
+15 27 0 255 0 0 0 0
+
+4 7 1 255 0 0 0 0 //Bolts+1
+4 7 2 255 0 0 0 0 //Bolts+2
+4 7 3 255 0 0 0 0 //Bolts+3
+
+
+4 15 1 255 0 0 0 0 //Arrows+1
+4 15 2 255 0 0 0 0 //Arrows+2
+4 15 3 255 0 0 0 0 //Arrows+3
+
+13 7 0 0 0 0 0 0 //Summon Archer
+13 7 1 0 0 0 0 0 //Summon Spearman
+//13 8 0 0 0 1 0 0 //Ring of Ice+Luck
+//13 9 0 0 0 1 0 0 //Ring of Poison+Luck
+//13 12 0 0 0 1 0 0 //Lightning Pendant+Luck
+//13 13 0 0 0 1 0 0 //Fire Pendant+Luck
+end

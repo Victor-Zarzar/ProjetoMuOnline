@@ -1,0 +1,49 @@
+﻿<table class="tablecol">
+	<tr>
+		<td class="titcol2" colspan="2">Creditos:</td>
+	</tr>
+	<tr>
+		<td class="datoscol" colspan="2">&nbsp;</td>
+	</tr>	<tr>
+		<td class="titcol" colspan="2">MagicHand:</td>
+	</tr>
+	<tr>
+		<td class="valcol"></td>
+		<td class="datoscol">Por comenzar e implemantar el proyecto</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">007jodex:</td>
+	</tr>
+	<tr>
+		<td class="valcol"></td>
+		<td class="datoscol">Testeo<br />Traducción al ingles (en proceso)<br />Logo de carga<br />Sugerencias  para implementar y mejorar el Editor</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">8bitcore:</td>
+	</tr>
+	<tr>
+		<td class="valcol"></td>
+		<td class="datoscol">Test<br />Traducción al Ruso</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">8bitcore:</td>
+	</tr>
+	<tr>
+		<td class="valcol"></td>
+		<td class="datoscol">Traducción al Portugues BR</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Ema Leto:</td>
+	</tr>
+	<tr>
+		<td class="valcol"></td>
+		<td class="datoscol">Testeo<br />Aporte de información sobre los archivos</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">=KrisTiaN=:</td>
+	</tr>
+	<tr>
+		<td class="valcol"></td>
+		<td class="datoscol">Test<br />Sugerencias  para implementar y mejorar el Editor</td>
+	</tr>
+</table>

@@ -1,0 +1,9 @@
+<table class="tablecol">
+	<tr>
+		<td class="titcol" colspan="2">Texto:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">Texto hasta 20 caracteres (20 Bytes), son los nombres que no permite poner a los Pj.</td>
+	</tr>
+</table>

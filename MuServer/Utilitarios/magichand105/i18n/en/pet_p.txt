@@ -1,0 +1,9 @@
+<table class="tablecol">
+	<tr>
+		<td class="titcol" colspan="2">for Test:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Values:</td>
+		<td class="datoscol">Son the values that shows the file in Bytes each, but not if it is necessary to group, if anyone has any suggestion is welcome</td>
+	</tr>
+</table>

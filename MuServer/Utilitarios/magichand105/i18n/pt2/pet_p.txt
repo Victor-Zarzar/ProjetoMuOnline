@@ -1,0 +1,9 @@
+<table class="tablecol">
+	<tr>
+		<td class="titcol" colspan="2">Para Testeo:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">Son los valores que muestra el archivo en cada Bytes, pero, no se si es necesario agruparlos, si alguien tiene alguna sugerencia se agradece</td>
+	</tr>
+</table>

@@ -1,0 +1,10 @@
+<table class="tablecol">
+	<tr>
+		<td class="titcol" colspan="2">Test:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">	
+Still do not know how this file works, I hope to have time to analyze and understand its structure, if anyone knows anything about this file thanks</td>
+	</tr>
+</table>

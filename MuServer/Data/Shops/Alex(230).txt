@@ -1,0 +1,23 @@
+// ----------------------------------------------------\\
+//        Hospedagem feita por Rodrigo                 \\
+// 						       \\
+// File  Name : MuServer1.08s6Epi3+itens Viciados      \\
+// ViciadosMU: wWw.ViciadosMu.com.br                   \\
+// Creditos: shop@viciadosmu.com.br | skype viciadosmu \\
+// Disponibilizamos para ajudar a todos                \\
+// Compre produtos ou jogue em nossos servidores       \\
+// Shop ViciadosMu: wWw.Shop.ViciadosMu.com.br         \\
+// --------------------------------------------------- \\
+// Alex (230)
+// type index level
+
+
+3 6 3 0 0 1 1 0 // Double Poleaxe
+3 1 3 0 0 1 1 0 //Spear
+3 3 3 0 0 1 1 0 //giant Trident
+3 7 3 0 1 1 1 0 //Berdysh
+3 4 3 0 1 1 1 0 //Serpent Spear
+3 0 3 0 1 1 1 0 //Light Spear
+0 10 3 0 1 1 1 0 //Light Saber
+2 3 3 0 1 1 1 0 //Great Hammer
+end

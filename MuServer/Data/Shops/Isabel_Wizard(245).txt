@@ -1,0 +1,68 @@
+// ----------------------------------------------------\\
+//        Hospedagem feita por Rodrigo                 \\
+// 						       \\
+// File  Name : MuServer1.08s6Epi3+itens Viciados      \\
+// ViciadosMU: wWw.ViciadosMu.com.br                   \\
+// Creditos: shop@viciadosmu.com.br | skype viciadosmu \\
+// Disponibilizamos para ajudar a todos                \\
+// Compre produtos ou jogue em nossos servidores       \\
+// Shop ViciadosMu: wWw.Shop.ViciadosMu.com.br         \\
+// --------------------------------------------------- \\
+//Isabel Wizard Shop
+
+//Potions
+14 0 0 1 0 0 0 0
+14 1 0 1 0 0 0 0
+14 2 0 1 0 0 0 0
+14 3 0 1 0 0 0 0
+14 4 0 1 0 0 0 0
+14 5 0 1 0 0 0 0
+14 6 0 1 0 0 0 0
+14 8 0 1 0 0 0 0
+
+14 0 0 3 0 0 0 0
+14 1 0 3 0 0 0 0
+14 2 0 3 0 0 0 0
+14 3 0 3 0 0 0 0
+14 4 0 3 0 0 0 0
+14 5 0 3 0 0 0 0
+14 6 0 3 0 0 0 0
+14 8 0 3 0 0 0 0
+
+14 0 0 10 0 0 0 0
+14 1 0 10 0 0 0 0
+14 2 0 10 0 0 0 0
+14 3 0 10 0 0 0 0
+14 4 0 10 0 0 0 0
+14 5 0 10 0 0 0 0
+14 6 0 10 0 0 0 0
+14 8 0 10 0 0 0 0
+
+14 0 0 20 0 0 0 0
+14 1 0 20 0 0 0 0
+14 2 0 20 0 0 0 0
+14 3 0 20 0 0 0 0
+14 4 0 20 0 0 0 0
+14 5 0 20 0 0 0 0
+14 6 0 20 0 0 0 0
+14 8 0 20 0 0 0 0
+
+
+4 7 1 255 0 0 0 0 //Bolts+1
+4 7 2 255 0 0 0 0 //Bolts+2
+4 7 3 255 0 0 0 0 //Bolts+3
+
+4 15 1 255 0 0 0 0 //Arrows+1
+4 15 2 255 0 0 0 0 //Arrows+2
+4 15 3 255 0 0 0 0 //Arrows+3
+15 4 0 0 0 0 0 0 //Scroll of Flame
+15 7 0 0 0 0 0 0 //Scroll of Twister
+5 4 8 0 0 1 1 0 //Gorgonstaff
+5 5 8 0 0 1 1 0 //Legendary Staff
+7 3 8 0 0 1 1 0 //Legendary helm
+8 3 8 0 0 1 1 0 //Legendary armor
+9 3 8 0 0 1 1 0 //Legendary pants
+10 3 8 0 0 1 1 0 //Legendary gloves
+11 3 8 0 0 1 1 0 //Legendary boots
+13 29 0 0 0 0 0 0 //Armor of Guardman
+end

@@ -1,0 +1,36 @@
+// ----------------------------------------------------\\
+//        Hospedagem feita por Rodrigo                 \\
+// 						       \\
+// File  Name : MuServer1.08s6Epi3+itens Viciados      \\
+// ViciadosMU: wWw.ViciadosMu.com.br                   \\
+// Creditos: shop@viciadosmu.com.br | skype viciadosmu \\
+// Disponibilizamos para ajudar a todos                \\
+// Compre produtos ou jogue em nossos servidores       \\
+// Shop ViciadosMu: wWw.Shop.ViciadosMu.com.br         \\
+// --------------------------------------------------- \\
+// Zienna Merchant 246
+8 15 8 255 0 0 0 0
+9 15 8 255 0 0 0 0
+10 15 8 255 0 0 0 0
+11 15 8 255 0 0 0 0
+
+8 20 8 255 0 0 0 0
+9 20 8 255 0 0 0 0
+10 20 8 255 0 0 0 0
+11 20 8 255 0 0 0 0
+
+8 32 8 255 0 0 0 0
+9 32 8 255 0 0 0 0
+10 32 8 255 0 0 0 0
+11 32 8 255 0 0 0 0
+
+0 18 8 255 0 0 0 0
+0 25 8 255 0 0 0 0
+
+12 16 0 255 0 0 0 0
+12 47 0 255 0 0 0 0
+12 23 0 255 0 0 0 0
+12 24 0 255 0 0 0 0
+12 35 0 255 0 0 0 0
+12 48 0 255 0 0 0 0
+end

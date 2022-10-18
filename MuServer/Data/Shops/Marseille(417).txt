@@ -1,0 +1,42 @@
+// ----------------------------------------------------\\
+//        Hospedagem feita por Rodrigo                 \\
+// 						       \\
+// File  Name : MuServer1.08s6Epi3+itens Viciados      \\
+// ViciadosMU: wWw.ViciadosMu.com.br                   \\
+// Creditos: shop@viciadosmu.com.br | skype viciadosmu \\
+// Disponibilizamos para ajudar a todos                \\
+// Compre produtos ou jogue em nossos servidores       \\
+// Shop ViciadosMu: wWw.Shop.ViciadosMu.com.br         \\
+// --------------------------------------------------- \\
+// Marseille 417
+14 3 0 255 0 0 0 0
+14 6 0 255 0 0 0 0
+14 8 0 255 0 0 0 0
+14 37 0 255 0 0 0 0
+14 40 0 255 0 0 0 0
+
+7 40 8 255 0 0 0 0
+8 40 8 255 0 0 0 0
+9 40 8 255 0 0 0 0
+10 40 8 255 0 0 0 0
+11 40 8 255 0 0 0 0
+
+7 42 8 255 0 0 0 0
+8 42 8 255 0 0 0 0
+9 42 8 255 0 0 0 0
+10 42 8 255 0 0 0 0
+11 42 8 255 0 0 0 0
+
+7 43 8 255 0 0 0 0
+8 43 8 255 0 0 0 0
+9 43 8 255 0 0 0 0
+10 43 8 255 0 0 0 0
+11 43 8 255 0 0 0 0
+
+5 21 8 255 0 0 0 0
+5 22 8 255 0 0 0 0
+5 23 8 255 0 0 0 0
+5 15 8 255 0 0 0 0
+5 16 8 255 0 0 0 0
+5 17 8 255 0 0 0 0
+end

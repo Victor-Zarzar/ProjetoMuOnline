@@ -1,0 +1,47 @@
+﻿<table class="tablecol">
+	<tr>
+		<td class="titcol2" colspan="2">Información aportada por <b>Ema Leto</b></td>
+	</tr>
+	<tr>
+		<td class="datoscol" colspan="2">&nbsp;</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Tipo y Fila:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">Tipo corresponde al tipo mostrado en Item.bmd "0 Sword, 5 Staff, etc" y la fila es el lugar que ocupa dentro del Item.bmd "Tipo 0 Fila 2 Rapier".</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Type 1:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">Tipo ancient del Item, en este caso el rapier tiene 21, osea es Seto, Para fijarse el nombre o el tipo diriganse al ItemSetOption y el Index seria el type.</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Type 2:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">Lo mismo que Type 1, nada mas que puede haber 2 items ancient de un item.</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Type 3:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">Lo mismo que Type 1, nada mas que puede haber 2 items ancient de un item.</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Type 4:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">Lo mismo que Type 1, nada mas que puede haber 2 items ancient de un item.</td>
+	</tr>
+	<tr>
+		<td class="datoscol" colspan="2">Osea que puede aver una Rapier Aelbian, Sedemen, Anubis o algun otra.</td>
+	</tr>
+
+</table>

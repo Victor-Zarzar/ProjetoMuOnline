@@ -1,0 +1,9 @@
+<table class="tablecol">
+	<tr>
+		<td class="titcol" colspan="2">Texto:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Valores:</td>
+		<td class="datoscol">Hasta 256 caracteres (256 Bytes), son los textos que pasan por la parte superior de la pantalla durante el juego.</td>
+	</tr>
+</table>

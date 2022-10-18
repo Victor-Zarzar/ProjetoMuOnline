@@ -1,0 +1,5 @@
+taskkill /f /im "TitanLinkServer.exe"
+taskkill /f /im "SCFExDB.exe"
+taskkill /f /im "GameServer.exe"
+taskkill /f /im "TitanCS.exe"
+taskkill /f /im "GameServerCS.exe"

@@ -1,0 +1,65 @@
+<table class="tablecol">
+	<tr>
+		<td class="titcol" colspan="2">Flag:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Values:</td>
+		<td class="datoscol">Between 0 and 2<br />0<br />1<br />2</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Map:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Values:</td>
+		<td class="datoscol">Between 0 and 255<br />Is the number of the map. 0 Lorencia etc ...</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">X1:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Values:</td>
+		<td class="datoscol">Between 0 and 255<br />The position of the gate is defined by 2 points (X1, and 1), (X2, and 2)  so that anyone passing through the line formed by 2 points that will be transported to the gate in writing "GateDestino" if the gate is a "1".</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">and1:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Values:</td>
+		<td class="datoscol">Between 0 and 255<br />described by "X1"</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">X2:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Values:</td>
+		<td class="datoscol">Between 0 and 255<br />described by "X1"</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">and2:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Values:</td>
+		<td class="datoscol">Between 0 and 255<br />described by "X1"</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">GateDestino:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Values:</td>
+		<td class="datoscol">Between 0 and  511 (I could take over but that the gates are defined in the game today. <br /> If the gate is a "1" in this place is the destination gate, the gate which used to be a type "2")</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Dir:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Values:</td>
+		<td class="datoscol">Between 0 and  7<br />It is the position in which the character appears to be transported, the values listed in the following image and correspond to the original camera rolls.</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Nivel:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Values:</td>
+		<td class="datoscol">Between 0 and 65535<br />It Lvl necessary to use the gate, a bad configuration in this file does appear to want that tele carried values of thousands or tens of thousands of levels required for such transport.</td>
+	</tr>
+</table>

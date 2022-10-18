@@ -1,0 +1,3 @@
+﻿<table class="tablecol">
+<td class="datoscol" colspan="2"><b>Aqui voc&ecirc; poder&aacute; editar os efeitos dos buffs.</b></td>
+</table>

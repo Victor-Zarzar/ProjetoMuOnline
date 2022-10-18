@@ -1,0 +1,57 @@
+﻿<table class="tablecol">
+	<tr>
+		<td class="titcol" colspan="2">Как декодировать файлы:</td>
+	</tr>
+	<tr>
+		<td class="valcol"></td>
+		<td class="datoscol">Для декодирования графических файлов, они должны быть помещены в папку <b>"archivos/oz"</b>, и при декодировании все графические файлы помещаються в папку <b>"archivos/graficos"</b></td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">Как закодировать файлы:</td>
+	</tr>
+	<tr>
+		<td class="valcol"></td>
+		<td class="datoscol">Чтоб закодировать графичкие файлы, нужно их поместить в папку <b>"archivos/graficos"</b>, при закодировании все графические файлы будут помещены в папку <b>"archivos/oz"</b></td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">OZB:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Формат:</td>
+		<td class="datoscol">Соответствует формату "BMP" и образуеться повторением первых 4 bytes в начале</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">OZJ:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Формат:</td>
+		<td class="datoscol">Соответствует формату "JPG" и образуеться повторением первых 24 bytes в начале</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">OZT:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Формат:</td>
+		<td class="datoscol">Соответствует формату "TGA" и образуеться повторением первых 4 bytes в начале</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">BMP:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Формат:</td>
+		<td class="datoscol">Соответствует формату "OZB" и образуеться удалением первых 4 bytes</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">JPG:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Формат:</td>
+		<td class="datoscol">Соответствует формату "OZJ" и образуеться удалением первых 24 bytes</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">TGA:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Формат:</td>
+		<td class="datoscol">Соответствует формату "OZT" и образуеться удалением первых 4 bytes</td>
+	</tr></table>

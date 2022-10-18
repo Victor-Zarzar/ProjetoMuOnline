@@ -1,0 +1,33 @@
+<table class="tablecol">
+	<tr>
+		<td class="titcol2" colspan="2">Como Usar:</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="datoscol2"> Para us&aacute;-lo deve optar por editar o ficheiro &agrave; esquerda.</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="datoscol2">Como um exemplo para editar o arquivo "MoveReq.bmd" damos um clique duplo no diret&oacute;rio "archives\BMD", &agrave; esquerda, selecione "MoveReq" aparecem no do lado direito 2 partes, Abaixo descubra as especifica&ccedil;&otilde;es sobre o arquivo (Se estiver faltando especifica&ccedil;&otilde;es que voc&ecirc; conhe&ccedil;a iria apreciar que me informace)..</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="datoscol2">Em "Arquivos", selecione "Editar arquivo MoveReq.bmd", uma nova janela com os arquivos que s&atilde;o de exten&ccedil;&atilde;o BMD que estam na pasta BMD apareceram.</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="datoscol2">Clicando em um dos arquivos carregados ser&aacute; capaz de editar.</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="datoscol2">pode ser editado clicando duas vezes, bem como pelo "Enter" Em qualquer um dos campos e navegar com as teclas de seta.</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="datoscol2"> Se isso n&atilde;o colocar valores corretos no campo est&aacute; aparecer&aacute; em destaque vermelho, e colocando o mouse sobre o mouse no t&itilde;tulo da coluna Quais s&atilde;o os valores corretos.
+buscar</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="datoscol2">Note que quando voc&ecirc; alterar um campo aparece um tri&acirc;ngulo no canto superior esquerdo da linha.</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="datoscol2">Depois de fazer as altera&ccedil;&otilde;es correspondentes, para salvar as altera&ccedil;&otilde;es do arquivo clique em "Salvar movereq.bmd" neste momento aparece uma janela na qual escolher&aacute; o nome para o arquivo, se por exemplo escrever "AAA" O arquivo criado ser&aacute; "MoveReqaaa. BMD, assim, se voc&ecirc; deseja salvar as altera&ccedil;&otilde;es sobre arquivo original n&atilde;o deve escrever nada e s&oacute; apertar OK.</td>
+	</tr>
+ <tr>
+		<td colspan="2" class="datoscol2">Ao passar os arquivos de imagem deve se manter em mente que todos os arquivos na pasta "Oz" ou os gr&aacute;ficos " ser&atilde;o convertidos e ir&atilde;o ser substituidos.</td>
+	</tr>
+</table>

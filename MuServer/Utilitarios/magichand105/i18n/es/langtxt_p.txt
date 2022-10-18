@@ -1,0 +1,23 @@
+﻿<table class="tablecol">
+	<tr>
+		<td class="titcol2" colspan="2">Cambiar el Idioma al Editor</td>
+	</tr>
+	<tr>
+		<td class="valcol">Español:</td>
+		<td class="datoscol">Creado por MagicHand <button onclick="javascript:clang()">Show</button></td>
+	</tr>
+	<tr>
+		<td class="valcol">Ingles:</td>
+		<td class="datoscol">Creado por 007Jodex, en proceso</td>
+	</tr>
+	<tr>
+		<td class="valcol">Portuges:</td>
+		<td class="datoscol">Quien se anime mi msn/mail <span class="resaltea">mu.editor.magichand@gmail.com</span></td>
+	</tr>
+	<tr>
+		<td class="valcol">Otros:</td>
+		<td class="datoscol">Quien se anime mi msn/mail <span class="resaltea">mu.editor.magichand@gmail.com</span></td>
+	</tr>
+</table>
+
+

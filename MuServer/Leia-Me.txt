@@ -1,0 +1,113 @@
+// ----------------------------------------------------\\
+//        Hospedagem feita por Rodrigo                 \\
+// 						       \\
+// File  Name : MuServer1.08s6Epi3+itens Viciados      \\
+// ViciadosMU: wWw.ViciadosMu.com.br                   \\
+// Creditos: shop@viciadosmu.com.br | skype viciadosmu \\
+// Disponibilizamos para ajudar a todos                \\
+// Compre produtos ou jogue em nossos servidores       \\
+// Shop ViciadosMu: wWw.Shop.ViciadosMu.com.br         \\
+// --------------------------------------------------- \\
+
+IP do main: 192.168.40.128 ou 127.0.0.1
+
+Vários itens novos e Bots.
+
+Possíveis comandos:
+
+Cmd00 = /Test
+Cmd01 = /Warp
+Cmd02 = /Transform
+Cmd03 = /Block setting
+Cmd04 = /Cancel block
+Cmd05 = /Chatting ban
+Cmd06 = /Cancel chatting ban
+Cmd07 = /Warp guild
+Cmd08 = /End guild
+Cmd09 = /End battle
+Cmd10 = /Start battle
+Cmd11 = /Stop battle
+Cmd12 = /Item
+Cmd13 = /Time left
+Cmd14 = /Battle
+Cmd15 = /Battle Soccer
+Cmd16 = /Request
+Cmd17 = /Disconnect
+Cmd18 = /Move
+Cmd19 = /Trans
+Cmd20 = /SetBlock
+Cmd21 = /UnsetBlock
+Cmd22 = /DisableChat
+Cmd23 = /EnableChat
+Cmd24 = /GuildMove
+Cmd25 = /GuildDisconnect
+Cmd26 = /GuildWarEnd
+Cmd27 = /GuildWarStart
+Cmd28 = /GuildWarStop
+Cmd29 = /RemainTime
+Cmd30 = /GuildWar
+Cmd31 = /BattleSoccer
+Cmd32 = /Request
+Cmd33 = /Connection status
+Cmd34 = /Trace
+Cmd35 = /Monitor
+Cmd36 = /ConnectionState
+Cmd37 = /UserTracking
+Cmd38 = /UserWatching
+Cmd39 = /Firecracker
+Cmd40 = /post
+Cmd41 = /pkclear
+Cmd42 = /addstr
+Cmd43 = /addagi
+Cmd44 = /addvit
+Cmd45 = /addene
+Cmd46 = /addcmd
+Cmd47 = /skin
+Cmd48 = /marry
+Cmd49 = /getmarry
+Cmd50 = /acceptmarry
+Cmd51 = /divorce
+Cmd52 = /forcedivorce
+Cmd53 = /tracemarry
+Cmd54 = /Kundun Status
+Cmd55 = /Kundunpi
+Cmd56 = /Kundunhoebokryang
+Cmd57 = /Kundunchodanghoebokryang
+Cmd58 = /Kundun recovery time
+Cmd59 = /Reset
+Cmd60 = /Gmove
+Cmd61 = /vipbuylist
+Cmd62 = /vipbuy
+Cmd63 = /viprenew
+Cmd64 = /vipstate
+Cmd65 = /serverinfo
+Cmd66 = /playerinfo
+Cmd67 = /gg
+Cmd68 = /Gmoveall
+Cmd69 = /level
+Cmd70 = /whois
+Cmd71 = /online
+Cmd72 = /addbuff
+Cmd73 = /clearinv
+Cmd74 = /addskill
+Cmd75 = /status
+Cmd76 = /vipstatus
+Cmd77 = /setzen
+Cmd78 = /setvip
+Cmd79 = /banchar
+Cmd80 = /banaccount
+Cmd81 = /spawn
+Cmd82 = /pkset
+Cmd83 = /mobskin
+Cmd84 = /ware
+Cmd85 = /vipbuyware
+Cmd86 = /cschangeowner
+Cmd87 = /cssetregsiege
+Cmd88 = /cssetregmark
+Cmd89 = /cssetnotify
+Cmd90 = /cssetstart
+Cmd91 = /cssetend
+Cmd92 = /cscurowner
+Cmd93 = /cscurstate
+Cmd94 = /cschangeside
+Cmd95 = /goevent

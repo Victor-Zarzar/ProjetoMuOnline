@@ -1,0 +1,57 @@
+﻿<table class="tablecol">
+	<tr>
+		<td class="titcol" colspan="2">How to decode the files?:</td>
+	</tr>
+	<tr>
+		<td class="valcol"></td>
+		<td class="datoscol">To decode graphics files, must be located in the folder <b>"archivos/oz"</b> and when all the graphics files are decoded and are located in the folder  <b>"archivos/graficos"</b></td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">How to code the files?:</td>
+	</tr>
+	<tr>
+		<td class="valcol"></td>
+		<td class="datoscol">To code graphics files, must be located in the folder <b>"archivos/graficos"</b> and when all the graphics files are coded and are located in the folder <b>"archivos/oz"</b></td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">OZB:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Format:</td>
+		<td class="datoscol">Corresponds to the format "BMP" and is obtained by repeating the first 4 bytes to the top</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">OZJ:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Format:</td>
+		<td class="datoscol">Corresponds to the format "JPG" and is obtained by repeating the first 24 bytes to the top</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">OZT:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Format:</td>
+		<td class="datoscol">Corresponds to the Format "TGA" and is obtained by repeating the first 4 bytes to the top</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">BMP:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Format:</td>
+		<td class="datoscol">Corresponds to the Format "OZB" and is obtained by removing the first 4 bytes</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">JPG:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Format:</td>
+		<td class="datoscol">Corresponds to the Format "OZJ" and is obtained by removing the first 24 bytes</td>
+	</tr>
+	<tr>
+		<td class="titcol" colspan="2">TGA:</td>
+	</tr>
+	<tr>
+		<td class="valcol">Format:</td>
+		<td class="datoscol">Corresponds to the Format "OZT" and obtained by removing the first 4 bytes</td>
+	</tr></table>
