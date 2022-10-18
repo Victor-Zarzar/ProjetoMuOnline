@@ -12,9 +12,9 @@
 //ServerCode MapServerGroup  InitSetting   Adres IP   Port
 //==================================================================================================================
 0
-0	0       1       SSeuIP   55901
-1	0       1       SSeuIP   55903
-19	0       0       SSeuIP   55919
+0	0       1       10.0.2.15  55901
+1	0       1       10.0.2.15  55903
+19	0       0       10.0.2.15  55919
 end
 
 //ServerCode    MoveAbleOption   Map DestServerCode
